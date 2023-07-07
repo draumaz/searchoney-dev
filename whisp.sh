@@ -3,8 +3,8 @@
 cd /mnt/emma/searchoney
 
 cat << EOF
-[searchoney.draumaz.xyz] <transcribe monitor>
-=============================================
+[draumaz/SearchOney] <transcribe monitor>
+=========================================
 
 EOF
 
