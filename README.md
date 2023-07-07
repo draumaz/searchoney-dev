@@ -3,7 +3,7 @@ Welcome! This is a search engine for OneyPlays videos. It is current as of July 
 
 # Usage
 - Go to the top right search box or hit ```/```, and type a query.
-  - Use quotation marks to find multiword queries, like "hey Tomar".
+  - Use quotation marks to find match multi-word queries, like "hey Tomar" instead of just hey Tomar.
 
 # Acknowledgments 
 - All transcriptions are copyright OneyPlays, O'Neil et. al, 2014-23.
