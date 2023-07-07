@@ -10,7 +10,7 @@ Welcome! This is a search engine for OneyPlays videos. It is current as of July 
 - Techstack highly inspired by [SearchTAFS](https://searchtafs.net).
 - Thanks to Marceline for conceptual design and theory.
 
-# nerdy stuff
+# Nerdy stuff
 - Compressed YouTube audio size: ```71GB```
 - Uncompressed 16KHz audio size: ```329GB```
 - Scraping & conversion: [yt-dlp](https://github.com/yt-dlp/yt-dlp), [ffmpeg](https://ffmpeg.org)
