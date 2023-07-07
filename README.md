@@ -7,7 +7,7 @@ Welcome! This is a search engine for OneyPlays videos. It is current as of July 
 
 # Acknowledgments 
 - All transcriptions are copyright OneyPlays, O'Neil et. al, 2014-23.
-- Techstack highly inspired by [SearchTAFS](https://searchtafs.net).
+- Techstack highly inspired by [searchTAFS](https://searchtafs.net).
 - Thanks to Marceline for conceptual design and theory.
 
 # Nerdy stuff
