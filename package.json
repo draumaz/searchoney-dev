@@ -1,0 +1,10 @@
+{
+  "name": "SearchOney",
+  "version": "0.0.1",
+  "description": "A search engine for OneyPlays videos.",
+  "homepage": "https://github.com/draumaz/SearchOney",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/draumaz/SearchOney.git"
+  }
+}
