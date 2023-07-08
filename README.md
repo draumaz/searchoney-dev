@@ -5,6 +5,7 @@ Welcome! This is a database containing everything spoken in every OneyPlays vide
 # Usage
 - Go to the top right search box or hit ```/```, and type a query.
   - Use quotation marks to find match multi-word queries, like "hey Tomar" instead of just hey Tomar.
+  - Not using quotation marks will instead search for documents generally containing words 'hey' and 'Tomar', not just in that order.
 
 # Acknowledgments 
 - All transcriptions are copyright OneyPlays, O'Neil et. al, 2014-23.
