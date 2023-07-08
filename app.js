@@ -1,5 +1,5 @@
 var fs = require('fs');
-var files = fs.readdirSync('/transcripts/YZ/');
+var files = fs.readdirSync('/TRANSCRIPTS/YZ/');
 
 d3.csv(files).then(function (data) {
   var transcript = data;
