@@ -1,5 +1,11 @@
 #!/bin/bash
 
+case ${1} in refresh)
+  cp -nv ~/emma/searchoney/transcript/${2}/*.opus.csv TRANSCRIPTS/${2}/
+  for i in TRANSCRIPTS/${2}/*.opus.csv; do j=$(echo $i|sed s/.opus//); mv -v "$i" "$j"; done
+  exit 0
+;; esac
+
 cd /mnt/emma/searchoney
 
 cat << EOF
