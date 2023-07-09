@@ -16,5 +16,5 @@ Welcome! This is a database containing everything spoken in every OneyPlays vide
 - Compressed YouTube audio size: ```71GB```
 - Uncompressed 16KHz audio size: ```329GB```
 - Scraping & conversion: [yt-dlp](https://github.com/yt-dlp/yt-dlp), [ffmpeg](https://ffmpeg.org)
-- Speech processing: [MacWhisper](https://github.com/ggerganov/whisper.cpp) and its ```base.en.bin``` model
+- Speech processing: [MacWhisper](https://github.com/ggerganov/whisper.cpp) and its ```base.en.bin``` model, done on my M2 8/256 MacBook Air
 - Transcripts in semicolon-formatted CSV
