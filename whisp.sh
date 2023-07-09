@@ -14,8 +14,9 @@ cat << EOF
 
 EOF
 
+MOST_RECENT=$(ls --color=no transcript/*/*.csv -ltcr|tail -1|awk '{print $9}'|tr '/' ' '|awk '{print $2}')
+
 for SEC in `cd transcript; find . -maxdepth 1 -type d -not -name 'complete'|cut -c3-|sort`; do
-  MOST_RECENT=$(ls --color=no transcript/*/*.csv -ltcr|tail -1|awk '{print $9}'|tr '/' ' '|awk '{print $2}')
   TRANS_COUNT=$(expr `ls -l transcript/${SEC}{,/complete} 2>/dev/null|wc -l` - 1)
   TRANS_TOTAL=$(expr ${TRANS_TOTAL} + ${TRANS_COUNT})
   AUDIO_COUNT=$(expr `ls -l audio/16bit/${SEC}|wc -l` - 1)
