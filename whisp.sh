@@ -25,4 +25,5 @@ for SEC in `cd transcript; find . -maxdepth 1 -type d -not -name 'complete'|cut 
   case ${MOST_RECENT} in ${SEC}) echo " <-" ;; *) echo "" ;; esac
 done
 
-printf "\nTOTAL - [${TRANS_TOTAL}/${AUDIO_TOTAL}]\n"
+printf "\nTOTAL - [${TRANS_TOTAL}/${AUDIO_TOTAL}] "
+echo "(`echo "scale=2; ${TRANS_TOTAL} / ${AUDIO_TOTAL}" | bc|sed s/.//`% complete)"
