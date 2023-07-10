@@ -1,0 +1,939 @@
+{ "Data":
+[
+  {
+    "Start Timestamp": "00:00,000",
+    "End Timestamp": "00:05,000",
+    "Transcript": "[Music]"
+  },
+  {
+    "Start Timestamp": "00:05,000",
+    "End Timestamp": "00:06,500",
+    "Transcript": "[Phone rings]"
+  },
+  {
+    "Start Timestamp": "00:06,500",
+    "End Timestamp": "00:08,380",
+    "Transcript": "\"On a plane!\""
+  },
+  {
+    "Start Timestamp": "00:08,380",
+    "End Timestamp": "00:09,380",
+    "Transcript": "[Squeak]"
+  },
+  {
+    "Start Timestamp": "00:09,380",
+    "End Timestamp": "00:10,560",
+    "Transcript": "\"With friends!\""
+  },
+  {
+    "Start Timestamp": "00:10,560",
+    "End Timestamp": "00:11,480",
+    "Transcript": "[Squeak]"
+  },
+  {
+    "Start Timestamp": "00:11,480",
+    "End Timestamp": "00:12,920",
+    "Transcript": "I like that he doesn't even make a sound."
+  },
+  {
+    "Start Timestamp": "00:12,920",
+    "End Timestamp": "00:14,840",
+    "Transcript": "Strange things are happening."
+  },
+  {
+    "Start Timestamp": "00:14,840",
+    "End Timestamp": "00:17,560",
+    "Transcript": "\"To me, they don't get a bad...\""
+  },
+  {
+    "Start Timestamp": "00:17,560",
+    "End Timestamp": "00:21,680",
+    "Transcript": "\"The-the-the man in the Spencer fell down to me...\""
+  },
+  {
+    "Start Timestamp": "00:21,680",
+    "End Timestamp": "00:22,840",
+    "Transcript": "[Squeak]"
+  },
+  {
+    "Start Timestamp": "00:22,840",
+    "End Timestamp": "00:24,480",
+    "Transcript": "\"I believe I can fly!\""
+  },
+  {
+    "Start Timestamp": "00:24,480",
+    "End Timestamp": "00:28,080",
+    "Transcript": "\"Then the way nice and fly!\""
+  },
+  {
+    "Start Timestamp": "00:28,080",
+    "End Timestamp": "00:30,320",
+    "Transcript": "The lady sing behind me."
+  },
+  {
+    "Start Timestamp": "00:30,320",
+    "End Timestamp": "00:31,440",
+    "Transcript": "Do infinity."
+  },
+  {
+    "Start Timestamp": "00:31,440",
+    "End Timestamp": "00:32,600",
+    "Transcript": "Look me."
+  },
+  {
+    "Start Timestamp": "00:32,600",
+    "End Timestamp": "00:34,440",
+    "Transcript": "Uh huh."
+  },
+  {
+    "Start Timestamp": "00:34,440",
+    "End Timestamp": "00:36,160",
+    "Transcript": "- Number two story, you swing musical."
+  },
+  {
+    "Start Timestamp": "00:36,160",
+    "End Timestamp": "00:37,000",
+    "Transcript": "- Did it?"
+  },
+  {
+    "Start Timestamp": "00:37,000",
+    "End Timestamp": "00:37,840",
+    "Transcript": "- Yeah."
+  },
+  {
+    "Start Timestamp": "00:37,840",
+    "End Timestamp": "00:38,680",
+    "Transcript": "- Did it?"
+  },
+  {
+    "Start Timestamp": "00:38,680",
+    "End Timestamp": "00:39,520",
+    "Transcript": "- You're just saying the fucking song, Chris."
+  },
+  {
+    "Start Timestamp": "00:39,520",
+    "End Timestamp": "00:40,360",
+    "Transcript": "- That's a musical?"
+  },
+  {
+    "Start Timestamp": "00:40,360",
+    "End Timestamp": "00:41,200",
+    "Transcript": "- Yeah."
+  },
+  {
+    "Start Timestamp": "00:41,200",
+    "End Timestamp": "00:42,680",
+    "Transcript": "- Is that not more of a montage?"
+  },
+  {
+    "Start Timestamp": "00:42,680",
+    "End Timestamp": "00:46,200",
+    "Transcript": "- I mean, the context of the film, yeah."
+  },
+  {
+    "Start Timestamp": "00:46,200",
+    "End Timestamp": "00:48,360",
+    "Transcript": "- I mean, would it be considered a musical?"
+  },
+  {
+    "Start Timestamp": "00:48,360",
+    "End Timestamp": "00:49,840",
+    "Transcript": "- How many, I think so, yeah."
+  },
+  {
+    "Start Timestamp": "00:49,840",
+    "End Timestamp": "00:51,600",
+    "Transcript": "- There's like three songs in it."
+  },
+  {
+    "Start Timestamp": "00:51,600",
+    "End Timestamp": "00:53,160",
+    "Transcript": "- There's like five."
+  },
+  {
+    "Start Timestamp": "00:53,160",
+    "End Timestamp": "00:54,600",
+    "Transcript": "- Is there?"
+  },
+  {
+    "Start Timestamp": "00:54,600",
+    "End Timestamp": "00:55,880",
+    "Transcript": "- Maybe there's maybe a right."
+  },
+  {
+    "Start Timestamp": "00:55,880",
+    "End Timestamp": "00:57,520",
+    "Transcript": "- You got a friend in me."
+  },
+  {
+    "Start Timestamp": "00:57,520",
+    "End Timestamp": "01:01,440",
+    "Transcript": "Strange things are happening to me."
+  },
+  {
+    "Start Timestamp": "01:01,440",
+    "End Timestamp": "01:02,280",
+    "Transcript": "- A friend of me?"
+  },
+  {
+    "Start Timestamp": "01:02,280",
+    "End Timestamp": "01:05,240",
+    "Transcript": "- He is a friend of me."
+  },
+  {
+    "Start Timestamp": "01:05,240",
+    "End Timestamp": "01:06,080",
+    "Transcript": "What the fuck?"
+  },
+  {
+    "Start Timestamp": "01:06,080",
+    "End Timestamp": "01:07,120",
+    "Transcript": "- What was that?"
+  },
+  {
+    "Start Timestamp": "01:07,120",
+    "End Timestamp": "01:08,640",
+    "Transcript": "- The world ended."
+  },
+  {
+    "Start Timestamp": "01:08,640",
+    "End Timestamp": "01:09,480",
+    "Transcript": "- The fuck."
+  },
+  {
+    "Start Timestamp": "01:09,480",
+    "End Timestamp": "01:13,400",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "01:13,400",
+    "End Timestamp": "01:14,440",
+    "Transcript": "- It's hot in here, Julian."
+  },
+  {
+    "Start Timestamp": "01:14,440",
+    "End Timestamp": "01:16,280",
+    "Transcript": "- I'm not saying Toy Story needs to be musical."
+  },
+  {
+    "Start Timestamp": "01:16,280",
+    "End Timestamp": "01:18,320",
+    "Transcript": "I just think it's funny that they drop that angle."
+  },
+  {
+    "Start Timestamp": "01:18,320",
+    "End Timestamp": "01:19,720",
+    "Transcript": "- Mm-hmm."
+  },
+  {
+    "Start Timestamp": "01:19,720",
+    "End Timestamp": "01:21,040",
+    "Transcript": "- Well, Jesse."
+  },
+  {
+    "Start Timestamp": "01:21,040",
+    "End Timestamp": "01:22,720",
+    "Transcript": "- The reason that they did it to begin with"
+  },
+  {
+    "Start Timestamp": "01:22,720",
+    "End Timestamp": "01:26,040",
+    "Transcript": "is because all their movies were musicals back then,"
+  },
+  {
+    "Start Timestamp": "01:26,040",
+    "End Timestamp": "01:29,060",
+    "Transcript": "They felt like they had to well Jesse sings a song in the second"
+  },
+  {
+    "Start Timestamp": "01:29,060",
+    "End Timestamp": "01:33,000",
+    "Transcript": "I was about to ask if that was the only song that's in the second one and I think it's still really Newman"
+  },
+  {
+    "Start Timestamp": "01:33,000",
+    "End Timestamp": "01:37,500",
+    "Transcript": "Isn't it yeah, he wrote it one dream dream dream dream dream dream yeah?"
+  },
+  {
+    "Start Timestamp": "01:37,500",
+    "End Timestamp": "01:41,220",
+    "Transcript": "Jesse's falling asleep and what he starts to kick down some shit"
+  },
+  {
+    "Start Timestamp": "01:41,220",
+    "End Timestamp": "01:47,660",
+    "Transcript": "Oh my god somebody wrote a scope"
+  },
+  {
+    "Start Timestamp": "01:47,660",
+    "End Timestamp": "01:54,500",
+    "Transcript": "Shark boy, but make it woody go up bad shut your mouth treatment dream. Oh they catch out"
+  },
+  {
+    "Start Timestamp": "01:55,460",
+    "End Timestamp": "01:57,960",
+    "Transcript": "[Singing]"
+  },
+  {
+    "Start Timestamp": "01:57,960",
+    "End Timestamp": "02:00,820",
+    "Transcript": "Cast it?"
+  },
+  {
+    "Start Timestamp": "02:00,820",
+    "End Timestamp": "02:04,320",
+    "Transcript": "What do you like, kick dance and that would be really funny?"
+  },
+  {
+    "Start Timestamp": "02:04,320",
+    "End Timestamp": "02:04,860",
+    "Transcript": "[Laughing]"
+  },
+  {
+    "Start Timestamp": "02:04,860",
+    "End Timestamp": "02:05,360",
+    "Transcript": "What?"
+  },
+  {
+    "Start Timestamp": "02:05,360",
+    "End Timestamp": "02:07,200",
+    "Transcript": "'Cause he's so lanky and noodly."
+  },
+  {
+    "Start Timestamp": "02:07,200",
+    "End Timestamp": "02:08,800",
+    "Transcript": "And his legs just flip around."
+  },
+  {
+    "Start Timestamp": "02:08,800",
+    "End Timestamp": "02:14,040",
+    "Transcript": "I want to know the official rules of Toy Story. Like what?"
+  },
+  {
+    "Start Timestamp": "02:14,040",
+    "End Timestamp": "02:15,200",
+    "Transcript": "There aren't any."
+  },
+  {
+    "Start Timestamp": "02:15,200",
+    "End Timestamp": "02:19,360",
+    "Transcript": "I know, but I want to know them. I want to know what makes a toy come to life."
+  },
+  {
+    "Start Timestamp": "02:19,360",
+    "End Timestamp": "02:21,520",
+    "Transcript": "What does it have to have?"
+  },
+  {
+    "Start Timestamp": "02:21,520",
+    "End Timestamp": "02:34,240",
+    "Transcript": "Julian how come how come there's no realistic dinosaur toys in the toy store universe because it would look scary for the little"
+  },
+  {
+    "Start Timestamp": "02:34,240",
+    "End Timestamp": "02:44,620",
+    "Transcript": "circuit would they kill the toys with a no one to act I mean that yeah haven't they done some animals that are just animals and I'm not talking about fucking shitty bullseye"
+  },
+  {
+    "Start Timestamp": "02:44,620",
+    "End Timestamp": "02:48,100",
+    "Transcript": "A dog you mean bullseye's just a dog. He's a whore"
+  },
+  {
+    "Start Timestamp": "02:48,100",
+    "End Timestamp": "02:52,720",
+    "Transcript": "But he acts like a dog. No, he's a fun whore. He acts like a dog"
+  },
+  {
+    "Start Timestamp": "02:52,720",
+    "End Timestamp": "03:00,480",
+    "Transcript": "Which as we previously talked about no big pet peeve. No, it's funny. I get pet peeve. That's that's creativity Julian"
+  },
+  {
+    "Start Timestamp": "03:00,480",
+    "End Timestamp": "03:05,060",
+    "Transcript": "It's creative is real creative when every single animated movie does it"
+  },
+  {
+    "Start Timestamp": "03:05,060",
+    "End Timestamp": "03:10,780",
+    "Transcript": "What are you talking about Julian? You don't understand animation if something you're right if there's an animal"
+  },
+  {
+    "Start Timestamp": "03:10,780",
+    "End Timestamp": "03:13,620",
+    "Transcript": "It's a dog if something works you have to repeat it a million times over"
+  },
+  {
+    "Start Timestamp": "03:13,900",
+    "End Timestamp": "03:15,900",
+    "Transcript": "Yeah, I"
+  },
+  {
+    "Start Timestamp": "03:15,900",
+    "End Timestamp": "03:23,260",
+    "Transcript": "Got a lot of people just fucking the capitated that cactus man. I advocate for the well-being Chris. That's a slur"
+  },
+  {
+    "Start Timestamp": "03:23,260",
+    "End Timestamp": "03:27,300",
+    "Transcript": "Things like lizards and insects and nobody else cares about that"
+  },
+  {
+    "Start Timestamp": "03:27,300",
+    "End Timestamp": "03:29,960",
+    "Transcript": "What would you do if a gang of like man run in your home and"
+  },
+  {
+    "Start Timestamp": "03:29,960",
+    "End Timestamp": "03:32,780",
+    "Transcript": "Devouted themselves to you"
+  },
+  {
+    "Start Timestamp": "03:32,780",
+    "End Timestamp": "03:36,580",
+    "Transcript": "I would make one go buy me some so it was really fucking hot in here"
+  },
+  {
+    "Start Timestamp": "03:36,580",
+    "End Timestamp": "03:40,380",
+    "Transcript": "But then they said we are the cactus men and we will never leave and they give you cactus"
+  },
+  {
+    "Start Timestamp": "03:40,380",
+    "End Timestamp": "03:44,300",
+    "Transcript": "They have to do what I say. That's what that means. We're devout. They can do anything but leave"
+  },
+  {
+    "Start Timestamp": "03:44,300",
+    "End Timestamp": "03:47,940",
+    "Transcript": "Okay, I would say"
+  },
+  {
+    "Start Timestamp": "03:47,940",
+    "End Timestamp": "03:53,460",
+    "Transcript": "Stab personal. Why what did I do?"
+  },
+  {
+    "Start Timestamp": "03:53,460",
+    "End Timestamp": "03:56,420",
+    "Transcript": "All I did was fuck you're really plump and squishy"
+  },
+  {
+    "Start Timestamp": "03:56,420",
+    "End Timestamp": "04:00,980",
+    "Transcript": "So it would look nice if the needles were going to you because it would press your skin inwards"
+  },
+  {
+    "Start Timestamp": "04:00,980",
+    "End Timestamp": "04:04,220",
+    "Transcript": "You've got some issues and they would post it they posted on that that"
+  },
+  {
+    "Start Timestamp": "04:04,220",
+    "End Timestamp": "04:07,500",
+    "Transcript": "Reddit for things that are oddly satisfying"
+  },
+  {
+    "Start Timestamp": "04:07,500",
+    "End Timestamp": "04:09,500",
+    "Transcript": "-I would."
+  },
+  {
+    "Start Timestamp": "04:09,500",
+    "End Timestamp": "04:12,500",
+    "Transcript": "-Prisseungi held his needles in his face."
+  },
+  {
+    "Start Timestamp": "04:12,500",
+    "End Timestamp": "04:18,500",
+    "Transcript": "-Mummy, mummy, oh, meh, meh!"
+  },
+  {
+    "Start Timestamp": "04:18,500",
+    "End Timestamp": "04:21,500",
+    "Transcript": "-If you've broken your home flying around,"
+  },
+  {
+    "Start Timestamp": "04:21,500",
+    "End Timestamp": "04:26,500",
+    "Transcript": "-It was flying around with the cap and just knocking shit over."
+  },
+  {
+    "Start Timestamp": "04:26,500",
+    "End Timestamp": "04:28,500",
+    "Transcript": "-It was banging against the walls like a lost bird."
+  },
+  {
+    "Start Timestamp": "04:28,500",
+    "End Timestamp": "04:31,500",
+    "Transcript": "-What if Mario flew over his slurry tank"
+  },
+  {
+    "Start Timestamp": "04:31,500",
+    "End Timestamp": "04:34,500",
+    "Transcript": "and the fumes made him pass out and he fell into it?"
+  },
+  {
+    "Start Timestamp": "04:34,500",
+    "End Timestamp": "04:36,500",
+    "Transcript": "-You'd be delicious."
+  },
+  {
+    "Start Timestamp": "04:36,500",
+    "End Timestamp": "04:39,300",
+    "Transcript": "Why would he be delicious?"
+  },
+  {
+    "Start Timestamp": "04:39,300",
+    "End Timestamp": "04:41,420",
+    "Transcript": "Because he's a big fat Italian sausage."
+  },
+  {
+    "Start Timestamp": "04:41,420",
+    "End Timestamp": "04:42,420",
+    "Transcript": "Covered in slurry."
+  },
+  {
+    "Start Timestamp": "04:42,420",
+    "End Timestamp": "04:43,420",
+    "Transcript": "Yeah."
+  },
+  {
+    "Start Timestamp": "04:43,420",
+    "End Timestamp": "04:44,620",
+    "Transcript": "What kind of slurry are we talking about?"
+  },
+  {
+    "Start Timestamp": "04:44,620",
+    "End Timestamp": "04:45,620",
+    "Transcript": "I picture--"
+  },
+  {
+    "Start Timestamp": "04:45,620",
+    "End Timestamp": "04:46,620",
+    "Transcript": "I picture--"
+  },
+  {
+    "Start Timestamp": "04:46,620",
+    "End Timestamp": "04:47,620",
+    "Transcript": "I picture it like meat."
+  },
+  {
+    "Start Timestamp": "04:47,620",
+    "End Timestamp": "04:48,620",
+    "Transcript": "No, pig slurry."
+  },
+  {
+    "Start Timestamp": "04:48,620",
+    "End Timestamp": "04:49,620",
+    "Transcript": "Like it's--"
+  },
+  {
+    "Start Timestamp": "04:49,620",
+    "End Timestamp": "04:50,620",
+    "Transcript": "Slurry isn't meat."
+  },
+  {
+    "Start Timestamp": "04:50,620",
+    "End Timestamp": "04:51,620",
+    "Transcript": "It's shit."
+  },
+  {
+    "Start Timestamp": "04:51,620",
+    "End Timestamp": "04:52,620",
+    "Transcript": "It's a McFlurry."
+  },
+  {
+    "Start Timestamp": "04:52,620",
+    "End Timestamp": "04:55,180",
+    "Transcript": "Julian, learn about slurry some more."
+  },
+  {
+    "Start Timestamp": "04:55,180",
+    "End Timestamp": "04:56,180",
+    "Transcript": "Teach me your ways."
+  },
+  {
+    "Start Timestamp": "04:56,180",
+    "End Timestamp": "04:57,180",
+    "Transcript": "Chris, why do you know--"
+  },
+  {
+    "Start Timestamp": "04:57,180",
+    "End Timestamp": "05:02,820",
+    "Transcript": "I think 1987 slurry was invented by an old woman and her pitchfork, wheeled, and husband."
+  },
+  {
+    "Start Timestamp": "05:02,820",
+    "End Timestamp": "05:03,820",
+    "Transcript": "She was going--"
+  },
+  {
+    "Start Timestamp": "05:03,820",
+    "End Timestamp": "05:04,820",
+    "Transcript": "[LAUGHTER]"
+  },
+  {
+    "Start Timestamp": "05:04,820",
+    "End Timestamp": "05:05,820",
+    "Transcript": "[SCREAMS]"
+  },
+  {
+    "Start Timestamp": "05:05,820",
+    "End Timestamp": "05:10,220",
+    "Transcript": "They stirred their slurry into a big pit and they invented the McFlurry"
+  },
+  {
+    "Start Timestamp": "05:10,220",
+    "End Timestamp": "05:15,920",
+    "Transcript": "There's this there's something that tastes off about McFlurry's to me"
+  },
+  {
+    "Start Timestamp": "05:15,920",
+    "End Timestamp": "05:27,260",
+    "Transcript": "Absolutely correct. I don't like McDonald's very much"
+  },
+  {
+    "Start Timestamp": "05:27,260",
+    "End Timestamp": "05:34,680",
+    "Transcript": "We don't see my favorite night, you know, no dominoes my favorite. Yeah, I'll say"
+  },
+  {
+    "Start Timestamp": "05:34,680",
+    "End Timestamp": "05:41,160",
+    "Transcript": "Shake Shack. I like Shake Shack but I'll say this Jack in the Box is very very good. I'm sad"
+  },
+  {
+    "Start Timestamp": "05:41,160",
+    "End Timestamp": "05:51,080",
+    "Transcript": "I haven't had them sooner. I'm happy that Ding Dong likes Jack in the Box because I like them a lot too. They're very good. Whenever I say let's get Jack in the Box he was like okay."
+  },
+  {
+    "Start Timestamp": "05:51,080",
+    "End Timestamp": "06:04,040",
+    "Transcript": "Oh there it is. Did you do it? I did. Are you a good boy? Do you like the rap battle where the kid goes? I did."
+  },
+  {
+    "Start Timestamp": "06:04,040",
+    "End Timestamp": "06:07,040",
+    "Transcript": "You put the cat on the grill, see?"
+  },
+  {
+    "Start Timestamp": "06:07,040",
+    "End Timestamp": "06:10,040",
+    "Transcript": "He did it."
+  },
+  {
+    "Start Timestamp": "06:10,040",
+    "End Timestamp": "06:13,040",
+    "Transcript": "The battle's halfway over and I've just begun."
+  },
+  {
+    "Start Timestamp": "06:13,040",
+    "End Timestamp": "06:16,040",
+    "Transcript": "I'll take one of your bombs and I'll put it in your lung."
+  },
+  {
+    "Start Timestamp": "06:16,040",
+    "End Timestamp": "06:19,040",
+    "Transcript": "You see that one?"
+  },
+  {
+    "Start Timestamp": "06:19,040",
+    "End Timestamp": "06:21,040",
+    "Transcript": "Haven't your rap battles early?"
+  },
+  {
+    "Start Timestamp": "06:21,040",
+    "End Timestamp": "06:22,040",
+    "Transcript": "Is it classy?"
+  },
+  {
+    "Start Timestamp": "06:22,040",
+    "End Timestamp": "06:26,040",
+    "Transcript": "Oh, is he saved up homosexual bridal shower or something?"
+  },
+  {
+    "Start Timestamp": "06:26,040",
+    "End Timestamp": "06:29,040",
+    "Transcript": "I don't have to cut him off because he goes too far."
+  },
+  {
+    "Start Timestamp": "06:29,040",
+    "End Timestamp": "06:33,040",
+    "Transcript": "Have you seen the video of the guy in the..."
+  },
+  {
+    "Start Timestamp": "06:33,040",
+    "End Timestamp": "06:38,040",
+    "Transcript": "the guy in the school and he's like rap battling with a different school and he"
+  },
+  {
+    "Start Timestamp": "06:38,040",
+    "End Timestamp": "06:42,480",
+    "Transcript": "makes fun of a kid who died in their school and they all just like stop and"
+  },
+  {
+    "Start Timestamp": "06:42,480",
+    "End Timestamp": "06:48,760",
+    "Transcript": "look at him like they all get super mad that's really funny because because"
+  },
+  {
+    "Start Timestamp": "06:48,760",
+    "End Timestamp": "06:53,600",
+    "Transcript": "they're all being really brutal to each other that's like the most brutal you"
+  },
+  {
+    "Start Timestamp": "06:53,600",
+    "End Timestamp": "06:58,600",
+    "Transcript": "could possibly be what happened did he get in trouble did they're also like no"
+  },
+  {
+    "Start Timestamp": "06:58,600",
+    "End Timestamp": "07:00,600",
+    "Transcript": "And they all just like rush at him"
+  },
+  {
+    "Start Timestamp": "07:00,600",
+    "End Timestamp": "07:06,280",
+    "Transcript": "It's really funny"
+  },
+  {
+    "Start Timestamp": "07:06,280",
+    "End Timestamp": "07:09,720",
+    "Transcript": "They make it you can see the moment. He's like I went too far"
+  },
+  {
+    "Start Timestamp": "07:09,720",
+    "End Timestamp": "07:14,680",
+    "Transcript": "No, I want to see that video. It's a good one. See if I can find it"
+  },
+  {
+    "Start Timestamp": "07:14,680",
+    "End Timestamp": "07:21,080",
+    "Transcript": "Have I haven't been checking every time we mentioned a video on the show do people leave comments. Oh, yeah"
+  },
+  {
+    "Start Timestamp": "07:21,080",
+    "End Timestamp": "07:23,560",
+    "Transcript": "Oh, God, I hate that people do that"
+  },
+  {
+    "Start Timestamp": "07:23,560",
+    "End Timestamp": "07:27,160",
+    "Transcript": "Yeah, no, if please be a respectful fan and don't ever do that"
+  },
+  {
+    "Start Timestamp": "07:27,880",
+    "End Timestamp": "07:32,500",
+    "Transcript": "Because it values the video it means you're not actually taking in with the video is"
+  },
+  {
+    "Start Timestamp": "07:32,500",
+    "End Timestamp": "07:40,380",
+    "Transcript": "Look at this look at those black dots, it's the baby train"
+  },
+  {
+    "Start Timestamp": "07:40,380",
+    "End Timestamp": "07:44,280",
+    "Transcript": "Mama, I think it's a really bad idea to render them one by one"
+  },
+  {
+    "Start Timestamp": "07:44,280",
+    "End Timestamp": "07:47,740",
+    "Transcript": "I get why they do it because they've been on the space to render them all at once"
+  },
+  {
+    "Start Timestamp": "07:47,740",
+    "End Timestamp": "07:51,060",
+    "Transcript": "But I hate that it makes the path unpredictable"
+  },
+  {
+    "Start Timestamp": "07:51,060",
+    "End Timestamp": "07:54,560",
+    "Transcript": "Julian it's it's an adventure. That's part of the challenge Julian"
+  },
+  {
+    "Start Timestamp": "07:55,360",
+    "End Timestamp": "08:01,440",
+    "Transcript": "Julian life is a mystery. I think it's just an inferior the reason that they had it in Yoshi's inferior"
+  },
+  {
+    "Start Timestamp": "08:01,440",
+    "End Timestamp": "08:05,480",
+    "Transcript": "The inferior race Italians is that what you're saying Julian?"
+  },
+  {
+    "Start Timestamp": "08:05,480",
+    "End Timestamp": "08:08,080",
+    "Transcript": "Okay"
+  },
+  {
+    "Start Timestamp": "08:08,080",
+    "End Timestamp": "08:13,680",
+    "Transcript": "Look what you did you fucking dill Lloyd while I'm not going for that one anymore"
+  },
+  {
+    "Start Timestamp": "08:13,680",
+    "End Timestamp": "08:19,920",
+    "Transcript": "John dillworth is a crazy man. Well, he's he's very funny, but he's very crazy, isn't he?"
+  },
+  {
+    "Start Timestamp": "08:19,920",
+    "End Timestamp": "08:25,200",
+    "Transcript": "Yeah, that's okay. So is Jim Woodring. He's not so that's true"
+  },
+  {
+    "Start Timestamp": "08:25,200",
+    "End Timestamp": "08:27,640",
+    "Transcript": "He's very entertaining. I love both of them. Yes, please"
+  },
+  {
+    "Start Timestamp": "08:27,640",
+    "End Timestamp": "08:34,000",
+    "Transcript": "Jim would ring did Frank, which is probably I don't know if you know her into underground comic dog suit"
+  },
+  {
+    "Start Timestamp": "08:34,000",
+    "End Timestamp": "08:37,240",
+    "Transcript": "That's right Chris. They're he good"
+  },
+  {
+    "Start Timestamp": "08:37,240",
+    "End Timestamp": "08:41,640",
+    "Transcript": "I was thinking of Wilford I"
+  },
+  {
+    "Start Timestamp": "08:41,640",
+    "End Timestamp": "08:45,080",
+    "Transcript": "Like Frank a lot who's Frank"
+  },
+  {
+    "Start Timestamp": "08:45,080",
+    "End Timestamp": "08:49,680",
+    "Transcript": "Wait, I don't know how you would describe it"
+  },
+  {
+    "Start Timestamp": "08:50,560",
+    "End Timestamp": "08:56,880",
+    "Transcript": "It's a oh, you're a Minecraft. Do you see that? He's a little man that runs around in a wacky world and gets into trouble"
+  },
+  {
+    "Start Timestamp": "08:56,880",
+    "End Timestamp": "09:00,000",
+    "Transcript": "Julian isn't Minecraft"
+  },
+  {
+    "Start Timestamp": "09:00,000",
+    "End Timestamp": "09:08,280",
+    "Transcript": "Go back in the other room show Minecraft no wrong way not going to Minecraft go back to Minecraft"
+  },
+  {
+    "Start Timestamp": "09:08,280",
+    "End Timestamp": "09:13,620",
+    "Transcript": "They won't do it"
+  },
+  {
+    "Start Timestamp": "09:13,620",
+    "End Timestamp": "09:19,880",
+    "Transcript": "I'll do it. What if you set that to a minority? What if you told a minority go back to Minecraft? How would they feel?"
+  },
+  {
+    "Start Timestamp": "09:19,880",
+    "End Timestamp": "09:20,880",
+    "Transcript": "I don't get it."
+  },
+  {
+    "Start Timestamp": "09:20,880",
+    "End Timestamp": "09:21,880",
+    "Transcript": "Do you like Minecraft?"
+  },
+  {
+    "Start Timestamp": "09:21,880",
+    "End Timestamp": "09:23,880",
+    "Transcript": "I do like Minecraft."
+  },
+  {
+    "Start Timestamp": "09:23,880",
+    "End Timestamp": "09:24,880",
+    "Transcript": "I like Minecraft."
+  },
+  {
+    "Start Timestamp": "09:24,880",
+    "End Timestamp": "09:25,880",
+    "Transcript": "You know what?"
+  },
+  {
+    "Start Timestamp": "09:25,880",
+    "End Timestamp": "09:30,880",
+    "Transcript": "Honestly, it's probably a good thing that they don't have the time to do it because it's"
+  },
+  {
+    "Start Timestamp": "09:30,880",
+    "End Timestamp": "09:32,880",
+    "Transcript": "such a fucking time waster."
+  },
+  {
+    "Start Timestamp": "09:32,880",
+    "End Timestamp": "09:38,160",
+    "Transcript": "You end up spending like weeks at a time bending, bending, building something that nobody is"
+  },
+  {
+    "Start Timestamp": "09:38,160",
+    "End Timestamp": "09:39,160",
+    "Transcript": "ever going to see."
+  },
+  {
+    "Start Timestamp": "09:39,160",
+    "End Timestamp": "09:40,160",
+    "Transcript": "Taking a..."
+  },
+  {
+    "Start Timestamp": "09:40,160",
+    "End Timestamp": "09:41,160",
+    "Transcript": "I want..."
+  },
+  {
+    "Start Timestamp": "09:41,160",
+    "End Timestamp": "09:42,640",
+    "Transcript": "Is there like discords for Minecraft servers?"
+  },
+  {
+    "Start Timestamp": "09:42,640",
+    "End Timestamp": "09:43,640",
+    "Transcript": "Probably are."
+  },
+  {
+    "Start Timestamp": "09:43,640",
+    "End Timestamp": "09:44,880",
+    "Transcript": "That would make it really fun."
+  },
+  {
+    "Start Timestamp": "09:44,880",
+    "End Timestamp": "09:46,880",
+    "Transcript": "Just going into a server and hearing people."
+  },
+  {
+    "Start Timestamp": "09:46,880",
+    "End Timestamp": "09:47,880",
+    "Transcript": "Uh oh."
+  },
+  {
+    "Start Timestamp": "09:47,880",
+    "End Timestamp": "09:48,880",
+    "Transcript": "He's going to suffocate."
+  },
+  {
+    "Start Timestamp": "09:48,880",
+    "End Timestamp": "09:53,000",
+    "Transcript": "I would totally do that fine Mario"
+  },
+  {
+    "Start Timestamp": "09:53,000",
+    "End Timestamp": "10:01,280",
+    "Transcript": "Fucking die"
+  }
+]
+}

@@ -1,0 +1,789 @@
+{ "Data":
+[
+  {
+    "Start Timestamp": "00:00,000",
+    "End Timestamp": "00:01,600",
+    "Transcript": "*phone ringing*"
+  },
+  {
+    "Start Timestamp": "00:01,600",
+    "End Timestamp": "00:03,340",
+    "Transcript": "Only play!"
+  },
+  {
+    "Start Timestamp": "00:03,340",
+    "End Timestamp": "00:04,300",
+    "Transcript": "*clapping*"
+  },
+  {
+    "Start Timestamp": "00:04,300",
+    "End Timestamp": "00:19,320",
+    "Transcript": "I- Oh, where there he is."
+  },
+  {
+    "Start Timestamp": "00:19,320",
+    "End Timestamp": "00:19,820",
+    "Transcript": "Yep."
+  },
+  {
+    "Start Timestamp": "00:19,820",
+    "End Timestamp": "00:20,800",
+    "Transcript": "*phone ringing*"
+  },
+  {
+    "Start Timestamp": "00:20,800",
+    "End Timestamp": "00:23,940",
+    "Transcript": "Hello Vincent!"
+  },
+  {
+    "Start Timestamp": "00:23,940",
+    "End Timestamp": "00:26,080",
+    "Transcript": "Wait, his name is Genesis."
+  },
+  {
+    "Start Timestamp": "00:26,080",
+    "End Timestamp": "00:27,500",
+    "Transcript": "I mean Genesis?"
+  },
+  {
+    "Start Timestamp": "00:27,500",
+    "End Timestamp": "00:33,260",
+    "Transcript": "Well, it's kind of his last name's Valentine."
+  },
+  {
+    "Start Timestamp": "00:33,260",
+    "End Timestamp": "00:38,880",
+    "Transcript": "It's been a while since we last met, huh?"
+  },
+  {
+    "Start Timestamp": "00:38,880",
+    "End Timestamp": "00:43,060",
+    "Transcript": "Have you killed any people in battle since?"
+  },
+  {
+    "Start Timestamp": "00:43,060",
+    "End Timestamp": "00:48,460",
+    "Transcript": "Quite a few, actually."
+  },
+  {
+    "Start Timestamp": "00:48,460",
+    "End Timestamp": "00:49,460",
+    "Transcript": "Like who?"
+  },
+  {
+    "Start Timestamp": "00:49,460",
+    "End Timestamp": "00:58,540",
+    "Transcript": "Yeah. Glad a few assassins of another notable noble family on here."
+  },
+  {
+    "Start Timestamp": "00:58,540",
+    "End Timestamp": "01:02,100",
+    "Transcript": "I see you've got a new crown. Where'd you get that?"
+  },
+  {
+    "Start Timestamp": "01:02,100",
+    "End Timestamp": "01:08,100",
+    "Transcript": "No, I've had it for a while. It's my royal family crown. I just don't wear it much."
+  },
+  {
+    "Start Timestamp": "01:08,100",
+    "End Timestamp": "01:14,140",
+    "Transcript": "Wow. Can I have your crown?"
+  },
+  {
+    "Start Timestamp": "01:14,140",
+    "End Timestamp": "01:22,300",
+    "Transcript": "Sorry, the only way this crown will leave the top of my skull is the day when my son"
+  },
+  {
+    "Start Timestamp": "01:22,300",
+    "End Timestamp": "01:26,380",
+    "Transcript": "takes over as patriarch and ruler of the family."
+  },
+  {
+    "Start Timestamp": "01:26,380",
+    "End Timestamp": "01:27,380",
+    "Transcript": "Is he?"
+  },
+  {
+    "Start Timestamp": "01:27,380",
+    "End Timestamp": "01:31,460",
+    "Transcript": "Can I be your son?"
+  },
+  {
+    "Start Timestamp": "01:31,460",
+    "End Timestamp": "01:34,300",
+    "Transcript": "How can I get in on this family action?"
+  },
+  {
+    "Start Timestamp": "01:34,300",
+    "End Timestamp": "01:37,180",
+    "Transcript": "I'd like to be a knight."
+  },
+  {
+    "Start Timestamp": "01:37,180",
+    "End Timestamp": "01:41,220",
+    "Transcript": "Well there are three ways to join my family."
+  },
+  {
+    "Start Timestamp": "01:41,220",
+    "End Timestamp": "01:51,220",
+    "Transcript": "Each one requires passing a few rigorous tests that are designed to break people's spirits, bodies, and minds."
+  },
+  {
+    "Start Timestamp": "01:51,220",
+    "End Timestamp": "01:59,220",
+    "Transcript": "Only those who are strong enough and honorable enough can count themselves among my family."
+  },
+  {
+    "Start Timestamp": "01:59,220",
+    "End Timestamp": "02:03,220",
+    "Transcript": "I'm willing to partake in this rigorous trial."
+  },
+  {
+    "Start Timestamp": "02:05,220",
+    "End Timestamp": "02:13,220",
+    "Transcript": "It's not just one trial. It's fighting every single of the strongest warriors of my family, one on one."
+  },
+  {
+    "Start Timestamp": "02:13,220",
+    "End Timestamp": "02:14,220",
+    "Transcript": "*laughs*"
+  },
+  {
+    "Start Timestamp": "02:14,220",
+    "End Timestamp": "02:16,220",
+    "Transcript": "Whoa!"
+  },
+  {
+    "Start Timestamp": "02:16,220",
+    "End Timestamp": "02:19,220",
+    "Transcript": "But think about this."
+  },
+  {
+    "Start Timestamp": "02:19,220",
+    "End Timestamp": "02:23,220",
+    "Transcript": "If I kill your family, you won't have a family, Melmore. How does that work?"
+  },
+  {
+    "Start Timestamp": "02:23,220",
+    "End Timestamp": "02:29,220",
+    "Transcript": "Oh, it's not a duel to the death. It's just fighting as to where we cannot fight anymore."
+  },
+  {
+    "Start Timestamp": "02:29,220",
+    "End Timestamp": "02:32,220",
+    "Transcript": "Basically making us yield in battle."
+  },
+  {
+    "Start Timestamp": "02:34,220",
+    "End Timestamp": "02:36,220",
+    "Transcript": "Wow, that's pretty cool."
+  },
+  {
+    "Start Timestamp": "02:36,220",
+    "End Timestamp": "02:39,220",
+    "Transcript": "If you can make us stop fighting, then you've passed."
+  },
+  {
+    "Start Timestamp": "02:39,220",
+    "End Timestamp": "02:43,220",
+    "Transcript": "If you resort to lethal techniques to win,"
+  },
+  {
+    "Start Timestamp": "02:43,220",
+    "End Timestamp": "02:46,220",
+    "Transcript": "I will personally jump in the fight and cut your head off"
+  },
+  {
+    "Start Timestamp": "02:46,220",
+    "End Timestamp": "02:52,220",
+    "Transcript": "and use your skull as a wine glass for the foreseeable future."
+  },
+  {
+    "Start Timestamp": "02:52,220",
+    "End Timestamp": "02:53,220",
+    "Transcript": "What?"
+  },
+  {
+    "Start Timestamp": "02:53,220",
+    "End Timestamp": "02:58,220",
+    "Transcript": "Why would you do that?"
+  },
+  {
+    "Start Timestamp": "02:58,220",
+    "End Timestamp": "03:02,220",
+    "Transcript": "If anyone so much as kills a member of my family"
+  },
+  {
+    "Start Timestamp": "03:02,220",
+    "End Timestamp": "03:12,720",
+    "Transcript": "that I will personally end their existence. I will literally erase them from complete and utter existence."
+  },
+  {
+    "Start Timestamp": "03:12,720",
+    "End Timestamp": "03:23,220",
+    "Transcript": "Whoa, I wanted to ask you. Last time we talked, you told me you killed somebody with your carnage sword in real life through your computer."
+  },
+  {
+    "Start Timestamp": "03:23,220",
+    "End Timestamp": "03:24,220",
+    "Transcript": "Is this..."
+  },
+  {
+    "Start Timestamp": "03:24,220",
+    "End Timestamp": "03:28,220",
+    "Transcript": "Oh, it doesn't kill... it doesn't actually kill them. It just kills their computer."
+  },
+  {
+    "Start Timestamp": "03:28,220",
+    "End Timestamp": "03:30,220",
+    "Transcript": "Their computer?"
+  },
+  {
+    "Start Timestamp": "03:30,220",
+    "End Timestamp": "03:35,140",
+    "Transcript": "Yeah, it fries their computer to where they cannot turn it on. They have to basically buy a new one."
+  },
+  {
+    "Start Timestamp": "03:35,140",
+    "End Timestamp": "03:38,280",
+    "Transcript": "Are you... are you really? Is this real?"
+  },
+  {
+    "Start Timestamp": "03:38,280",
+    "End Timestamp": "03:43,360",
+    "Transcript": "Yes, that's why I don't use the carnage one because it's a little too overpowered."
+  },
+  {
+    "Start Timestamp": "03:43,360",
+    "End Timestamp": "03:47,820",
+    "Transcript": "You mean it literally fries the inside of their real PC?"
+  },
+  {
+    "Start Timestamp": "03:47,820",
+    "End Timestamp": "03:53,580",
+    "Transcript": "Yes, it fries every bit of it. Their tower, their modem, everything gone."
+  },
+  {
+    "Start Timestamp": "03:53,580",
+    "End Timestamp": "03:55,940",
+    "Transcript": "Where did you get this weapon?"
+  },
+  {
+    "Start Timestamp": "03:55,940",
+    "End Timestamp": "03:59,660",
+    "Transcript": "Oh, it came with the one I'm wielding right now."
+  },
+  {
+    "Start Timestamp": "03:59,660",
+    "End Timestamp": "04:05,900",
+    "Transcript": "I bought one and it gave me six different ones. One for each combat meter on SL."
+  },
+  {
+    "Start Timestamp": "04:05,900",
+    "End Timestamp": "04:09,540",
+    "Transcript": "But why would they allow it to fry computers?"
+  },
+  {
+    "Start Timestamp": "04:09,540",
+    "End Timestamp": "04:15,340",
+    "Transcript": "Oh, they didn't know that they made their weapon that strong. They never realized it."
+  },
+  {
+    "Start Timestamp": "04:15,340",
+    "End Timestamp": "04:20,620",
+    "Transcript": "Until I was able to find a little handy trick in the weapon."
+  },
+  {
+    "Start Timestamp": "04:20,620",
+    "End Timestamp": "04:23,980",
+    "Transcript": "How did you do that? You're so cool."
+  },
+  {
+    "Start Timestamp": "04:23,980",
+    "End Timestamp": "04:28,140",
+    "Transcript": "Practice. It's the old adage. Practice makes perfect."
+  },
+  {
+    "Start Timestamp": "04:28,140",
+    "End Timestamp": "04:29,140",
+    "Transcript": "Wow."
+  },
+  {
+    "Start Timestamp": "04:29,140",
+    "End Timestamp": "04:33,140",
+    "Transcript": "Can we meet your family?"
+  },
+  {
+    "Start Timestamp": "04:33,140",
+    "End Timestamp": "04:36,440",
+    "Transcript": "Well, when my wife gets back on."
+  },
+  {
+    "Start Timestamp": "04:36,440",
+    "End Timestamp": "04:40,640",
+    "Transcript": "I'm the second youngest daughter doesn't have internet right now"
+  },
+  {
+    "Start Timestamp": "04:40,640",
+    "End Timestamp": "04:43,240",
+    "Transcript": "because her family can't pay their lecture bill."
+  },
+  {
+    "Start Timestamp": "04:43,240",
+    "End Timestamp": "04:45,140",
+    "Transcript": "Oh, no."
+  },
+  {
+    "Start Timestamp": "04:45,140",
+    "End Timestamp": "04:49,340",
+    "Transcript": "Whoa, who's this person?"
+  },
+  {
+    "Start Timestamp": "04:49,340",
+    "End Timestamp": "04:52,040",
+    "Transcript": "That is my wife."
+  },
+  {
+    "Start Timestamp": "04:52,040",
+    "End Timestamp": "04:54,040",
+    "Transcript": "Wow, my queen."
+  },
+  {
+    "Start Timestamp": "04:54,040",
+    "End Timestamp": "04:55,940",
+    "Transcript": "Whoa."
+  },
+  {
+    "Start Timestamp": "04:57,240",
+    "End Timestamp": "04:58,500",
+    "Transcript": "Whoa!"
+  },
+  {
+    "Start Timestamp": "04:58,500",
+    "End Timestamp": "05:00,040",
+    "Transcript": "Yep."
+  },
+  {
+    "Start Timestamp": "05:00,040",
+    "End Timestamp": "05:01,940",
+    "Transcript": "That's cool."
+  },
+  {
+    "Start Timestamp": "05:01,940",
+    "End Timestamp": "05:02,540",
+    "Transcript": "It gets done a lot."
+  },
+  {
+    "Start Timestamp": "05:02,540",
+    "End Timestamp": "05:05,040",
+    "Transcript": "She's beautiful."
+  },
+  {
+    "Start Timestamp": "05:05,040",
+    "End Timestamp": "05:07,140",
+    "Transcript": "I know."
+  },
+  {
+    "Start Timestamp": "05:07,140",
+    "End Timestamp": "05:08,540",
+    "Transcript": "You're a lucky man."
+  },
+  {
+    "Start Timestamp": "05:08,540",
+    "End Timestamp": "05:10,440",
+    "Transcript": "Yes, I am."
+  },
+  {
+    "Start Timestamp": "05:10,440",
+    "End Timestamp": "05:11,940",
+    "Transcript": "And believe it or not,"
+  },
+  {
+    "Start Timestamp": "05:11,940",
+    "End Timestamp": "05:14,340",
+    "Transcript": "she's just as strong as me in battle."
+  },
+  {
+    "Start Timestamp": "05:14,340",
+    "End Timestamp": "05:15,540",
+    "Transcript": "What?"
+  },
+  {
+    "Start Timestamp": "05:15,540",
+    "End Timestamp": "05:19,340",
+    "Transcript": "She's never been beaten once."
+  },
+  {
+    "Start Timestamp": "05:19,340",
+    "End Timestamp": "05:21,740",
+    "Transcript": "Wow."
+  },
+  {
+    "Start Timestamp": "05:26,540",
+    "End Timestamp": "05:28,540",
+    "Transcript": "She's pretty easy to move around though."
+  },
+  {
+    "Start Timestamp": "05:28,540",
+    "End Timestamp": "05:36,400",
+    "Transcript": "Will she talk to us?"
+  },
+  {
+    "Start Timestamp": "05:36,400",
+    "End Timestamp": "05:48,000",
+    "Transcript": "Whoa."
+  },
+  {
+    "Start Timestamp": "05:48,000",
+    "End Timestamp": "05:50,380",
+    "Transcript": "Who's this little person?"
+  },
+  {
+    "Start Timestamp": "05:50,380",
+    "End Timestamp": "05:57,100",
+    "Transcript": "if she were to actually fight against you she shattered you in pieces. I was just"
+  },
+  {
+    "Start Timestamp": "05:57,100",
+    "End Timestamp": "06:06,820",
+    "Transcript": "one I just want I just want to fight it's just someone to chat. Do I need to bring"
+  },
+  {
+    "Start Timestamp": "06:06,820",
+    "End Timestamp": "06:13,580",
+    "Transcript": "Munur Masa out of its sheath and put you in your place? Because trust me raise a"
+  },
+  {
+    "Start Timestamp": "06:13,580",
+    "End Timestamp": "06:19,620",
+    "Transcript": "hand to my wife and I will break your hand off of your body. Do it and shove"
+  },
+  {
+    "Start Timestamp": "06:19,620",
+    "End Timestamp": "06:27,740",
+    "Transcript": "it down your throat with a grenade with it. Do it. And watch as you explode. I just beat"
+  },
+  {
+    "Start Timestamp": "06:27,740",
+    "End Timestamp": "06:36,340",
+    "Transcript": "her in battle again. You're starting to piss me off and that's not a wise move. Don't piss"
+  },
+  {
+    "Start Timestamp": "06:36,340",
+    "End Timestamp": "06:48,340",
+    "Transcript": "him off. Don't do it. Please. Please you need you need to go. I fear nothing. Oh trust me"
+  },
+  {
+    "Start Timestamp": "06:48,340",
+    "End Timestamp": "06:53,340",
+    "Transcript": "When I get done with you, you'll know what true fear and despair looks like."
+  },
+  {
+    "Start Timestamp": "06:53,340",
+    "End Timestamp": "06:56,340",
+    "Transcript": "You need to get out of here, please. Please, please, please."
+  },
+  {
+    "Start Timestamp": "06:56,340",
+    "End Timestamp": "06:58,340",
+    "Transcript": "I suggest you run."
+  },
+  {
+    "Start Timestamp": "06:58,340",
+    "End Timestamp": "06:59,340",
+    "Transcript": "Now."
+  },
+  {
+    "Start Timestamp": "06:59,340",
+    "End Timestamp": "07:04,340",
+    "Transcript": "I've got to play to bully's life."
+  },
+  {
+    "Start Timestamp": "07:04,340",
+    "End Timestamp": "07:12,340",
+    "Transcript": "I'm not a bully. I'm just extremely protective of the woman I love."
+  },
+  {
+    "Start Timestamp": "07:16,340",
+    "End Timestamp": "07:19,720",
+    "Transcript": "Too bad she lost in combat three times"
+  },
+  {
+    "Start Timestamp": "07:19,720",
+    "End Timestamp": "07:26,260",
+    "Transcript": "That you"
+  },
+  {
+    "Start Timestamp": "07:26,260",
+    "End Timestamp": "07:32,620",
+    "Transcript": "Here you I just wanted that I just won again"
+  },
+  {
+    "Start Timestamp": "07:32,620",
+    "End Timestamp": "07:44,260",
+    "Transcript": "You need to leave quick you have no honor he has no honor"
+  },
+  {
+    "Start Timestamp": "07:44,260",
+    "End Timestamp": "07:51,260",
+    "Transcript": "honor he's just a big ol loser right"
+  },
+  {
+    "Start Timestamp": "07:51,260",
+    "End Timestamp": "07:53,060",
+    "Transcript": "uh..."
+  },
+  {
+    "Start Timestamp": "07:53,060",
+    "End Timestamp": "07:58,460",
+    "Transcript": "to call some loser would show that i have no honor"
+  },
+  {
+    "Start Timestamp": "07:58,460",
+    "End Timestamp": "08:02,560",
+    "Transcript": "i'm sorry master i'm sorry about your wife being such a loser losing four"
+  },
+  {
+    "Start Timestamp": "08:02,560",
+    "End Timestamp": "08:04,740",
+    "Transcript": "fights in the world no stop"
+  },
+  {
+    "Start Timestamp": "08:04,740",
+    "End Timestamp": "08:06,640",
+    "Transcript": "please"
+  },
+  {
+    "Start Timestamp": "08:06,640",
+    "End Timestamp": "08:11,640",
+    "Transcript": "i'm the strongest warrior ever grace these parts of that mess with me"
+  },
+  {
+    "Start Timestamp": "08:11,640",
+    "End Timestamp": "08:21,240",
+    "Transcript": "please I defend your strength true strength comes from your heart not the"
+  },
+  {
+    "Start Timestamp": "08:21,240",
+    "End Timestamp": "08:25,720",
+    "Transcript": "amount of battles yeah you're talking up pretty big stuff here you're glowing"
+  },
+  {
+    "Start Timestamp": "08:25,720",
+    "End Timestamp": "08:31,520",
+    "Transcript": "pretty hard I don't think you got true honor I think you're just a bowling"
+  },
+  {
+    "Start Timestamp": "08:31,520",
+    "End Timestamp": "08:37,480",
+    "Transcript": "you're entitled to your own opinion I won't try to change what you believe"
+  },
+  {
+    "Start Timestamp": "08:37,480",
+    "End Timestamp": "08:45,800",
+    "Transcript": "and what you think. Get out of here, leave him alone. But I will defend that which I care about most."
+  },
+  {
+    "Start Timestamp": "08:45,800",
+    "End Timestamp": "08:53,480",
+    "Transcript": "He defends his family and his friends. Get out of here. I could beat your whole family with my"
+  },
+  {
+    "Start Timestamp": "08:53,480",
+    "End Timestamp": "09:05,960",
+    "Transcript": "hands tied to have my back. You couldn't even put a dent in my family. He's a supernatural level five."
+  },
+  {
+    "Start Timestamp": "09:05,960",
+    "End Timestamp": "09:06,960",
+    "Transcript": "I believe!"
+  },
+  {
+    "Start Timestamp": "09:06,960",
+    "End Timestamp": "09:14,160",
+    "Transcript": "You haven't even seen me when I go into my hyper form. I can take anyone on."
+  },
+  {
+    "Start Timestamp": "09:14,160",
+    "End Timestamp": "09:21,060",
+    "Transcript": "What?"
+  },
+  {
+    "Start Timestamp": "09:21,060",
+    "End Timestamp": "09:23,960",
+    "Transcript": "Always like you have no honor and no respect."
+  },
+  {
+    "Start Timestamp": "09:23,960",
+    "End Timestamp": "09:24,960",
+    "Transcript": "Genesis."
+  },
+  {
+    "Start Timestamp": "09:24,960",
+    "End Timestamp": "09:27,760",
+    "Transcript": "I think you're a little too scared to fight me."
+  },
+  {
+    "Start Timestamp": "09:27,760",
+    "End Timestamp": "09:29,960",
+    "Transcript": "Please don't kill him, Genesis. Please."
+  },
+  {
+    "Start Timestamp": "09:29,960",
+    "End Timestamp": "09:30,960",
+    "Transcript": "I think you're just too scared to fight."
+  },
+  {
+    "Start Timestamp": "09:30,960",
+    "End Timestamp": "09:31,760",
+    "Transcript": "Please."
+  },
+  {
+    "Start Timestamp": "09:31,760",
+    "End Timestamp": "09:32,660",
+    "Transcript": "But that's alright."
+  },
+  {
+    "Start Timestamp": "09:32,660",
+    "End Timestamp": "09:33,860",
+    "Transcript": "Please leave him alone."
+  },
+  {
+    "Start Timestamp": "09:33,860",
+    "End Timestamp": "09:34,760",
+    "Transcript": "I defend people here."
+  },
+  {
+    "Start Timestamp": "09:34,760",
+    "End Timestamp": "09:37,320",
+    "Transcript": "I defend the people here."
+  },
+  {
+    "Start Timestamp": "09:37,320",
+    "End Timestamp": "09:38,800",
+    "Transcript": "I have honored my friend."
+  },
+  {
+    "Start Timestamp": "09:38,800",
+    "End Timestamp": "09:40,840",
+    "Transcript": "I wanted to just hang out."
+  },
+  {
+    "Start Timestamp": "09:40,840",
+    "End Timestamp": "09:45,720",
+    "Transcript": "I wanted to just hang out with Genesis and you're ruining it."
+  },
+  {
+    "Start Timestamp": "09:45,720",
+    "End Timestamp": "09:47,720",
+    "Transcript": "Leave him alone."
+  },
+  {
+    "Start Timestamp": "09:47,720",
+    "End Timestamp": "09:49,040",
+    "Transcript": "Get ruined it for me anymore."
+  },
+  {
+    "Start Timestamp": "09:49,040",
+    "End Timestamp": "09:50,560",
+    "Transcript": "I just blacklisted him."
+  },
+  {
+    "Start Timestamp": "09:50,560",
+    "End Timestamp": "09:52,320",
+    "Transcript": "I can't even see him on the map anymore."
+  },
+  {
+    "Start Timestamp": "09:52,320",
+    "End Timestamp": "09:54,160",
+    "Transcript": "Oh, he blacklisted you."
+  },
+  {
+    "Start Timestamp": "09:54,160",
+    "End Timestamp": "09:55,880",
+    "Transcript": "Oh, too afraid to fight me."
+  },
+  {
+    "Start Timestamp": "09:55,880",
+    "End Timestamp": "09:59,160",
+    "Transcript": "Actually, I guess I won."
+  },
+  {
+    "Start Timestamp": "09:59,160",
+    "End Timestamp": "10:00,320",
+    "Transcript": "Did you hear what he said?"
+  },
+  {
+    "Start Timestamp": "10:00,320",
+    "End Timestamp": "10:00,840",
+    "Transcript": "I'm afraid to fight."
+  },
+  {
+    "Start Timestamp": "10:00,840",
+    "End Timestamp": "10:01,720",
+    "Transcript": "Yeah, I did."
+  },
+  {
+    "Start Timestamp": "10:01,720",
+    "End Timestamp": "10:07,720",
+    "Transcript": "I just need to ruin my blade with your cursed blood. You just muted me. Get out of my sight."
+  },
+  {
+    "Start Timestamp": "10:07,720",
+    "End Timestamp": "10:14,360",
+    "Transcript": "These two afraid to fight. I have no time to pull this idea. Yeah, he's a jerk."
+  },
+  {
+    "Start Timestamp": "10:14,360",
+    "End Timestamp": "10:25,800",
+    "Transcript": "I want to talk to your wife. She looks so beautiful. Is she your wife in real life?"
+  },
+  {
+    "Start Timestamp": "10:27,480",
+    "End Timestamp": "10:32,040",
+    "Transcript": "Oh, not yet. I hope someday she will be though."
+  },
+  {
+    "Start Timestamp": "10:32,040",
+    "End Timestamp": "10:35,480",
+    "Transcript": "Have you met her in real life?"
+  },
+  {
+    "Start Timestamp": "10:35,480",
+    "End Timestamp": "10:41,080",
+    "Transcript": "Yes. Wow. Is she pretty?"
+  },
+  {
+    "Start Timestamp": "10:41,080",
+    "End Timestamp": "10:47,960",
+    "Transcript": "Oh, she is. But to me, she's more than just beautiful."
+  },
+  {
+    "Start Timestamp": "10:47,960",
+    "End Timestamp": "10:53,720",
+    "Transcript": "She's the reason I breathe. The reason I followed."
+  },
+  {
+    "Start Timestamp": "10:53,720",
+    "End Timestamp": "10:55,720",
+    "Transcript": "Without her, I'm nothing."
+  },
+  {
+    "Start Timestamp": "10:55,720",
+    "End Timestamp": "11:01,720",
+    "Transcript": "Cool."
+  },
+  {
+    "Start Timestamp": "11:01,720",
+    "End Timestamp": "11:11,720",
+    "Transcript": "[MUSIC]"
+  },
+  {
+    "Start Timestamp": "11:11,720",
+    "End Timestamp": "11:39,720",
+    "Transcript": "[Music]"
+  }
+]
+}

@@ -1,0 +1,114 @@
+{ "Data":
+[
+  {
+    "Start Timestamp": "00:00,000",
+    "End Timestamp": "00:01,600",
+    "Transcript": "*phone rings*"
+  },
+  {
+    "Start Timestamp": "00:01,600",
+    "End Timestamp": "00:03,400",
+    "Transcript": "Oh, they play!"
+  },
+  {
+    "Start Timestamp": "00:03,400",
+    "End Timestamp": "00:04,400",
+    "Transcript": "*sigh*"
+  },
+  {
+    "Start Timestamp": "00:04,400",
+    "End Timestamp": "00:05,500",
+    "Transcript": "With friends."
+  },
+  {
+    "Start Timestamp": "00:05,500",
+    "End Timestamp": "00:07,800",
+    "Transcript": "Hey everybody, welcome to Steve's story."
+  },
+  {
+    "Start Timestamp": "00:07,800",
+    "End Timestamp": "00:08,300",
+    "Transcript": "*scoff*"
+  },
+  {
+    "Start Timestamp": "00:08,300",
+    "End Timestamp": "00:09,500",
+    "Transcript": "I do a new game."
+  },
+  {
+    "Start Timestamp": "00:09,500",
+    "End Timestamp": "00:10,500",
+    "Transcript": "Let's see."
+  },
+  {
+    "Start Timestamp": "00:10,500",
+    "End Timestamp": "00:11,500",
+    "Transcript": "Oh no!"
+  },
+  {
+    "Start Timestamp": "00:11,500",
+    "End Timestamp": "00:16,800",
+    "Transcript": "I've been asking Chris to let us play Minecraft on the show for a really long time, so I'm glad we finally get to it."
+  },
+  {
+    "Start Timestamp": "00:16,800",
+    "End Timestamp": "00:17,600",
+    "Transcript": "Here we go!"
+  },
+  {
+    "Start Timestamp": "00:17,600",
+    "End Timestamp": "00:18,800",
+    "Transcript": "He's rising out of the water."
+  },
+  {
+    "Start Timestamp": "00:18,800",
+    "End Timestamp": "00:20,000",
+    "Transcript": "Oh, come on and ride it."
+  },
+  {
+    "Start Timestamp": "00:20,000",
+    "End Timestamp": "00:21,500",
+    "Transcript": "*laughter*"
+  },
+  {
+    "Start Timestamp": "00:21,500",
+    "End Timestamp": "00:23,300",
+    "Transcript": "What is this place?"
+  },
+  {
+    "Start Timestamp": "00:23,300",
+    "End Timestamp": "00:24,700",
+    "Transcript": "I say what is this place?"
+  },
+  {
+    "Start Timestamp": "00:24,700",
+    "End Timestamp": "00:26,800",
+    "Transcript": "Hello, is there anyone here?"
+  },
+  {
+    "Start Timestamp": "00:26,800",
+    "End Timestamp": "00:27,800",
+    "Transcript": "No, what is this place?"
+  },
+  {
+    "Start Timestamp": "00:27,800",
+    "End Timestamp": "00:29,000",
+    "Transcript": "Yeah, what is this place?"
+  },
+  {
+    "Start Timestamp": "00:29,000",
+    "End Timestamp": "00:33,000",
+    "Transcript": "Maybe if I look around I will know where a not just name I am."
+  },
+  {
+    "Start Timestamp": "00:33,000",
+    "End Timestamp": "00:35,000",
+    "Transcript": "That's a good idea."
+  },
+  {
+    "Start Timestamp": "00:35,000",
+    "End Timestamp": "00:37,240",
+    "Transcript": "(laughing)"
+  }
+]
+}

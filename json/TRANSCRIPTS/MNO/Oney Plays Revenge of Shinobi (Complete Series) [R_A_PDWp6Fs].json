@@ -1,0 +1,3034 @@
+{ "Data":
+[
+  {
+    "Start Timestamp": "00:00,000",
+    "End Timestamp": "00:01,600",
+    "Transcript": "*Ding*"
+  },
+  {
+    "Start Timestamp": "00:01,600",
+    "End Timestamp": "00:03,400",
+    "Transcript": "Only play!"
+  },
+  {
+    "Start Timestamp": "00:03,400",
+    "End Timestamp": "00:04,400",
+    "Transcript": "*Sigh*"
+  },
+  {
+    "Start Timestamp": "00:04,400",
+    "End Timestamp": "00:05,500",
+    "Transcript": "With friends."
+  },
+  {
+    "Start Timestamp": "00:05,500",
+    "End Timestamp": "00:06,200",
+    "Transcript": "Sega!"
+  },
+  {
+    "Start Timestamp": "00:06,200",
+    "End Timestamp": "00:07,500",
+    "Transcript": "Sega!"
+  },
+  {
+    "Start Timestamp": "00:07,500",
+    "End Timestamp": "00:08,000",
+    "Transcript": "Whoa!"
+  },
+  {
+    "Start Timestamp": "00:08,000",
+    "End Timestamp": "00:09,500",
+    "Transcript": "This is..."
+  },
+  {
+    "Start Timestamp": "00:09,500",
+    "End Timestamp": "00:11,500",
+    "Transcript": "This intro is..."
+  },
+  {
+    "Start Timestamp": "00:11,500",
+    "End Timestamp": "00:12,300",
+    "Transcript": "The game."
+  },
+  {
+    "Start Timestamp": "00:12,300",
+    "End Timestamp": "00:13,600",
+    "Transcript": "Because of like this sound."
+  },
+  {
+    "Start Timestamp": "00:13,600",
+    "End Timestamp": "00:14,400",
+    "Transcript": "Yeah, this is..."
+  },
+  {
+    "Start Timestamp": "00:14,400",
+    "End Timestamp": "00:16,000",
+    "Transcript": "Oh yeah!"
+  },
+  {
+    "Start Timestamp": "00:16,000",
+    "End Timestamp": "00:16,500",
+    "Transcript": "This is..."
+  },
+  {
+    "Start Timestamp": "00:16,500",
+    "End Timestamp": "00:17,000",
+    "Transcript": "Aha!"
+  },
+  {
+    "Start Timestamp": "00:17,000",
+    "End Timestamp": "00:18,000",
+    "Transcript": "That looks like real life."
+  },
+  {
+    "Start Timestamp": "00:18,000",
+    "End Timestamp": "00:19,500",
+    "Transcript": "This was on a..."
+  },
+  {
+    "Start Timestamp": "00:19,500",
+    "End Timestamp": "00:20,600",
+    "Transcript": "Six pack."
+  },
+  {
+    "Start Timestamp": "00:20,600",
+    "End Timestamp": "00:21,200",
+    "Transcript": "Yep, it was."
+  },
+  {
+    "Start Timestamp": "00:21,200",
+    "End Timestamp": "00:21,700",
+    "Transcript": "Yeah."
+  },
+  {
+    "Start Timestamp": "00:21,700",
+    "End Timestamp": "00:22,200",
+    "Transcript": "This game..."
+  },
+  {
+    "Start Timestamp": "00:22,200",
+    "End Timestamp": "00:24,300",
+    "Transcript": "This game is pretty awesome."
+  },
+  {
+    "Start Timestamp": "00:24,300",
+    "End Timestamp": "00:26,200",
+    "Transcript": "This is one of my favorite games of all time,"
+  },
+  {
+    "Start Timestamp": "00:26,200",
+    "End Timestamp": "00:28,200",
+    "Transcript": "and we will go into it right now."
+  },
+  {
+    "Start Timestamp": "00:28,200",
+    "End Timestamp": "00:28,700",
+    "Transcript": "Nice."
+  },
+  {
+    "Start Timestamp": "00:28,700",
+    "End Timestamp": "00:29,600",
+    "Transcript": "Chris is playing right now."
+  },
+  {
+    "Start Timestamp": "00:29,600",
+    "End Timestamp": "00:32,000",
+    "Transcript": "- It can be your 19XX, the evil crime syndicate."
+  },
+  {
+    "Start Timestamp": "00:32,000",
+    "End Timestamp": "00:33,720",
+    "Transcript": "- Zeed to cool name."
+  },
+  {
+    "Start Timestamp": "00:33,720",
+    "End Timestamp": "00:36,160",
+    "Transcript": "Was reduced to rubble by the powers of stealth possessed"
+  },
+  {
+    "Start Timestamp": "00:36,160",
+    "End Timestamp": "00:39,160",
+    "Transcript": "by the Shinobi master, Joe Musashi."
+  },
+  {
+    "Start Timestamp": "00:39,160",
+    "End Timestamp": "00:40,940",
+    "Transcript": "He seems at the world have returned to peace,"
+  },
+  {
+    "Start Timestamp": "00:40,940",
+    "End Timestamp": "00:41,780",
+    "Transcript": "but three years later."
+  },
+  {
+    "Start Timestamp": "00:41,780",
+    "End Timestamp": "00:42,620",
+    "Transcript": "- Joe Musashi."
+  },
+  {
+    "Start Timestamp": "00:42,620",
+    "End Timestamp": "00:43,560",
+    "Transcript": "- Yeah, his name's not Shinobi,"
+  },
+  {
+    "Start Timestamp": "00:43,560",
+    "End Timestamp": "00:45,360",
+    "Transcript": "only a fucking, you would say that."
+  },
+  {
+    "Start Timestamp": "00:45,360",
+    "End Timestamp": "00:48,040",
+    "Transcript": "- Joe Musashi and he's fighting Zeed"
+  },
+  {
+    "Start Timestamp": "00:48,040",
+    "End Timestamp": "00:49,160",
+    "Transcript": "to save his girlfriend."
+  },
+  {
+    "Start Timestamp": "00:49,160",
+    "End Timestamp": "00:51,640",
+    "Transcript": "- He's actually fighting the Neo Zeed."
+  },
+  {
+    "Start Timestamp": "00:51,640",
+    "End Timestamp": "00:54,240",
+    "Transcript": "- Now let me show you a little trick, okay?"
+  },
+  {
+    "Start Timestamp": "00:54,240",
+    "End Timestamp": "00:55,640",
+    "Transcript": "This is cheating."
+  },
+  {
+    "Start Timestamp": "00:55,640",
+    "End Timestamp": "00:56,920",
+    "Transcript": "We're not gonna actually do this."
+  },
+  {
+    "Start Timestamp": "00:56,920",
+    "End Timestamp": "00:58,240",
+    "Transcript": "We're gonna play it the right way."
+  },
+  {
+    "Start Timestamp": "00:58,240",
+    "End Timestamp": "01:02,160",
+    "Transcript": "But if you go into the options, see you says sure you can."
+  },
+  {
+    "Start Timestamp": "01:02,160",
+    "End Timestamp": "01:03,000",
+    "Transcript": "- Yeah."
+  },
+  {
+    "Start Timestamp": "01:03,000",
+    "End Timestamp": "01:05,320",
+    "Transcript": "- If you turn this down to zero, if you wait,"
+  },
+  {
+    "Start Timestamp": "01:05,320",
+    "End Timestamp": "01:08,320",
+    "Transcript": "just a little bit, see those two zeros?"
+  },
+  {
+    "Start Timestamp": "01:08,320",
+    "End Timestamp": "01:09,160",
+    "Transcript": "- Yeah."
+  },
+  {
+    "Start Timestamp": "01:09,160",
+    "End Timestamp": "01:10,060",
+    "Transcript": "- Watch what happens."
+  },
+  {
+    "Start Timestamp": "01:10,060",
+    "End Timestamp": "01:13,240",
+    "Transcript": "Watch what happens to those two zeros."
+  },
+  {
+    "Start Timestamp": "01:13,240",
+    "End Timestamp": "01:14,080",
+    "Transcript": "- Okay."
+  },
+  {
+    "Start Timestamp": "01:14,080",
+    "End Timestamp": "01:15,900",
+    "Transcript": "(both gasping)"
+  },
+  {
+    "Start Timestamp": "01:15,900",
+    "End Timestamp": "01:16,740",
+    "Transcript": "- Are you serious?"
+  },
+  {
+    "Start Timestamp": "01:16,740",
+    "End Timestamp": "01:17,580",
+    "Transcript": "- Yeah, dude."
+  },
+  {
+    "Start Timestamp": "01:17,580",
+    "End Timestamp": "01:18,800",
+    "Transcript": "- Are you fucking serious?"
+  },
+  {
+    "Start Timestamp": "01:18,800",
+    "End Timestamp": "01:20,520",
+    "Transcript": "- So you can have infinite sure you can"
+  },
+  {
+    "Start Timestamp": "01:20,520",
+    "End Timestamp": "01:21,960",
+    "Transcript": "if you do that little trick."
+  },
+  {
+    "Start Timestamp": "01:21,960",
+    "End Timestamp": "01:23,800",
+    "Transcript": "But we're not gonna lose this."
+  },
+  {
+    "Start Timestamp": "01:23,800",
+    "End Timestamp": "01:24,640",
+    "Transcript": "- What?"
+  },
+  {
+    "Start Timestamp": "01:24,640",
+    "End Timestamp": "01:25,480",
+    "Transcript": "- Yeah."
+  },
+  {
+    "Start Timestamp": "01:25,480",
+    "End Timestamp": "01:26,320",
+    "Transcript": "- What?"
+  },
+  {
+    "Start Timestamp": "01:26,320",
+    "End Timestamp": "01:27,800",
+    "Transcript": "♪ A shagga ♪"
+  },
+  {
+    "Start Timestamp": "01:27,800",
+    "End Timestamp": "01:29,800",
+    "Transcript": "I"
+  },
+  {
+    "Start Timestamp": "01:29,800",
+    "End Timestamp": "01:37,160",
+    "Transcript": "To be said that was in that was in the Sonic 3D blast opening it's like"
+  },
+  {
+    "Start Timestamp": "01:37,160",
+    "End Timestamp": "01:50,960",
+    "Transcript": "Okay, I want to explain all the reasons why I love this game first. It's pretty apparent the music"
+  },
+  {
+    "Start Timestamp": "01:54,440",
+    "End Timestamp": "01:57,400",
+    "Transcript": "There's no in-between animations so you can do cool stuff like this"
+  },
+  {
+    "Start Timestamp": "01:57,400",
+    "End Timestamp": "02:06,840",
+    "Transcript": "Joe moose"
+  },
+  {
+    "Start Timestamp": "02:06,840",
+    "End Timestamp": "02:12,040",
+    "Transcript": "His name is he's the coolest guy in the world a good job localizer Joe moos. I fucking idiot"
+  },
+  {
+    "Start Timestamp": "02:12,040",
+    "End Timestamp": "02:16,920",
+    "Transcript": "Yeah, because you're breaking in at night. It's pretty cool"
+  },
+  {
+    "Start Timestamp": "02:16,920",
+    "End Timestamp": "02:21,380",
+    "Transcript": "It's pretty fucking awesome and then like everyone explodes until just like fire and shit"
+  },
+  {
+    "Start Timestamp": "02:21,480",
+    "End Timestamp": "02:27,900",
+    "Transcript": "It feels really good like it's really clean. Yeah, this is what it was like on the the Sega on the Sega Genesis"
+  },
+  {
+    "Start Timestamp": "02:27,900",
+    "End Timestamp": "02:33,860",
+    "Transcript": "On the six pack it was like this fucking clean. It was so good. Also these guys so"
+  },
+  {
+    "Start Timestamp": "02:33,860",
+    "End Timestamp": "02:38,960",
+    "Transcript": "Chris is kind of like just fucking go. He's just he's just mauling through steam rolling"
+  },
+  {
+    "Start Timestamp": "02:38,960",
+    "End Timestamp": "02:42,260",
+    "Transcript": "Okay, I lost my pal so you see when I picked up that power box"
+  },
+  {
+    "Start Timestamp": "02:42,260",
+    "End Timestamp": "02:47,160",
+    "Transcript": "He put his hands up like he was like like get away from me that that thing's cool"
+  },
+  {
+    "Start Timestamp": "02:47,160",
+    "End Timestamp": "02:49,420",
+    "Transcript": "I think it either gives you twice or triple the damage"
+  },
+  {
+    "Start Timestamp": "02:49,420",
+    "End Timestamp": "02:52,860",
+    "Transcript": "I thought those fucking radiators were like something you need them when I was a kid"
+  },
+  {
+    "Start Timestamp": "02:52,860",
+    "End Timestamp": "02:55,980",
+    "Transcript": "I didn't know why I kept losing health every time I got them. You got me"
+  },
+  {
+    "Start Timestamp": "02:55,980",
+    "End Timestamp": "03:00,120",
+    "Transcript": "I thought you were supposed to collect them always thought these fuckers look like the putties from Power Rangers"
+  },
+  {
+    "Start Timestamp": "03:00,120",
+    "End Timestamp": "03:05,180",
+    "Transcript": "All right, so you should probably set your power to that explosion at the very end over there. Oh, no"
+  },
+  {
+    "Start Timestamp": "03:05,180",
+    "End Timestamp": "03:07,500",
+    "Transcript": "I know I know you shouldn't really actually use that unless you're"
+  },
+  {
+    "Start Timestamp": "03:07,500",
+    "End Timestamp": "03:13,660",
+    "Transcript": "Unless you have a one-up. Yeah, so okay. You got ninjitsu's you got you can do all sorts"
+  },
+  {
+    "Start Timestamp": "03:13,660",
+    "End Timestamp": "03:18,980",
+    "Transcript": "You can do this lightning one which makes it so that you don't get knocked back, which is pretty nice"
+  },
+  {
+    "Start Timestamp": "03:18,980",
+    "End Timestamp": "03:21,980",
+    "Transcript": "The lightning makes it frightening. That's that's true too"
+  },
+  {
+    "Start Timestamp": "03:21,980",
+    "End Timestamp": "03:29,280",
+    "Transcript": "Die idiot. There's a doggy. Oh, I'm getting hit a lot. I'm sorry. What's the worry man? Sekiro's hard"
+  },
+  {
+    "Start Timestamp": "03:29,280",
+    "End Timestamp": "03:38,020",
+    "Transcript": "This is better than fucking stupid ass Sekiro. This is way better. Oh, you're pissing people off already Chris doesn't matter"
+  },
+  {
+    "Start Timestamp": "03:38,020",
+    "End Timestamp": "03:45,040",
+    "Transcript": "And the guy who did the music for this game did the music for streets of rage you can tell just fucking awesome music -"
+  },
+  {
+    "Start Timestamp": "03:45,040",
+    "End Timestamp": "03:50,280",
+    "Transcript": "It's really good. This is the most hardest part. I love that shit"
+  },
+  {
+    "Start Timestamp": "03:50,280",
+    "End Timestamp": "03:57,600",
+    "Transcript": "The sand effects are all silly and I remember this puzzle like the spikes on the ground or the bamboo"
+  },
+  {
+    "Start Timestamp": "03:57,600",
+    "End Timestamp": "04:00,840",
+    "Transcript": "It's a little bastard right here. This seems nice and responsive"
+  },
+  {
+    "Start Timestamp": "04:00,840",
+    "End Timestamp": "04:01,720",
+    "Transcript": "This is really cool too"
+  },
+  {
+    "Start Timestamp": "04:01,720",
+    "End Timestamp": "04:05,840",
+    "Transcript": "How you can like duck and hit people with like shuriken's underneath when they're like blocking"
+  },
+  {
+    "Start Timestamp": "04:05,840",
+    "End Timestamp": "04:09,220",
+    "Transcript": "Yeah, so you kind of like goat people into doing attacks and then you can like"
+  },
+  {
+    "Start Timestamp": "04:09,220",
+    "End Timestamp": "04:12,600",
+    "Transcript": "Trick them with another oh shit. I landed on the spikes my bed"
+  },
+  {
+    "Start Timestamp": "04:14,560",
+    "End Timestamp": "04:16,560",
+    "Transcript": "Yeah, these guys are bastards"
+  },
+  {
+    "Start Timestamp": "04:16,560",
+    "End Timestamp": "04:22,760",
+    "Transcript": "Damn it"
+  },
+  {
+    "Start Timestamp": "04:22,760",
+    "End Timestamp": "04:24,240",
+    "Transcript": "Don't worry"
+  },
+  {
+    "Start Timestamp": "04:24,240",
+    "End Timestamp": "04:30,080",
+    "Transcript": "Men in this game you're gonna need plenty of them. Yeah, this is a very fucking brutally hard game. See there's power"
+  },
+  {
+    "Start Timestamp": "04:30,080",
+    "End Timestamp": "04:33,880",
+    "Transcript": "Yeah, makes your sure you can look all clean. You need all the fucking men you can get"
+  },
+  {
+    "Start Timestamp": "04:33,880",
+    "End Timestamp": "04:39,120",
+    "Transcript": "This fucking bastard it is saying go to the left because we've got to go back now. We pulled a switch"
+  },
+  {
+    "Start Timestamp": "04:39,120",
+    "End Timestamp": "04:41,600",
+    "Transcript": "Okay, see that little area underneath"
+  },
+  {
+    "Start Timestamp": "04:41,600",
+    "End Timestamp": "04:48,380",
+    "Transcript": "This music is so fucking unbelievably godly guessy"
+  },
+  {
+    "Start Timestamp": "04:48,380",
+    "End Timestamp": "04:53,500",
+    "Transcript": "So this game reminds me of another Sega Genesis game and people in the studio audience you could probably help me with this"
+  },
+  {
+    "Start Timestamp": "04:53,500",
+    "End Timestamp": "04:55,940",
+    "Transcript": "I have fucking no idea what it's called"
+  },
+  {
+    "Start Timestamp": "04:55,940",
+    "End Timestamp": "04:59,060",
+    "Transcript": "But you initially start out as like this time-control guy"
+  },
+  {
+    "Start Timestamp": "04:59,060",
+    "End Timestamp": "05:03,860",
+    "Transcript": "I mean you go back to like the medieval time and you're like mowing down people in the woods"
+  },
+  {
+    "Start Timestamp": "05:03,860",
+    "End Timestamp": "05:07,900",
+    "Transcript": "Which eventually leads you to like a dungeon cavern type area"
+  },
+  {
+    "Start Timestamp": "05:08,180",
+    "End Timestamp": "05:14,060",
+    "Transcript": "Where you battle a giant alien where you jump from wall to wall wall you shoot his big fucking alien head"
+  },
+  {
+    "Start Timestamp": "05:14,060",
+    "End Timestamp": "05:15,320",
+    "Transcript": "You think about alien syndrome?"
+  },
+  {
+    "Start Timestamp": "05:15,320",
+    "End Timestamp": "05:17,540",
+    "Transcript": "I don't know what the fuck it's all cheating Chris"
+  },
+  {
+    "Start Timestamp": "05:17,540",
+    "End Timestamp": "05:22,360",
+    "Transcript": "But the next level you fight you go through a you go through a knight like castle"
+  },
+  {
+    "Start Timestamp": "05:22,360",
+    "End Timestamp": "05:26,820",
+    "Transcript": "And then you battle this giant robot knight who like throws this fucking hand at you and then brings it back"
+  },
+  {
+    "Start Timestamp": "05:26,820",
+    "End Timestamp": "05:31,980",
+    "Transcript": "It's a really good Sega Genesis game, but I don't know what it's called if anyone knows what it's called"
+  },
+  {
+    "Start Timestamp": "05:31,980",
+    "End Timestamp": "05:37,700",
+    "Transcript": "I would love to play it. I think that my alien syndrome is it I think so if we look it up on YouTube"
+  },
+  {
+    "Start Timestamp": "05:37,700",
+    "End Timestamp": "05:42,660",
+    "Transcript": "I love that game. That's what it is. I'm a phone right now. Look it up. I don't have a phone"
+  },
+  {
+    "Start Timestamp": "05:42,660",
+    "End Timestamp": "05:48,340",
+    "Transcript": "Century and I lack phone my phone's an army. I'll get up later for a quarry. Okay. Oh"
+  },
+  {
+    "Start Timestamp": "05:48,340",
+    "End Timestamp": "05:51,580",
+    "Transcript": "Whoa the members of Zeeda"
+  },
+  {
+    "Start Timestamp": "05:51,580",
+    "End Timestamp": "05:58,580",
+    "Transcript": "What are you talking about members of Zeeda badass that guy fell off Zeeda's cool"
+  },
+  {
+    "Start Timestamp": "05:58,580",
+    "End Timestamp": "06:02,620",
+    "Transcript": "I think Zeed is a cool little company Chris. That was a wow reference"
+  },
+  {
+    "Start Timestamp": "06:03,620",
+    "End Timestamp": "06:07,240",
+    "Transcript": "Fuck yeah, they had a very awful presentation where they showed off"
+  },
+  {
+    "Start Timestamp": "06:07,240",
+    "End Timestamp": "06:14,680",
+    "Transcript": "Some Chinese company was working on Diablo phone game and everyone was like this sucks"
+  },
+  {
+    "Start Timestamp": "06:14,680",
+    "End Timestamp": "06:17,160",
+    "Transcript": "Is this an out of season April Fool's joke and then?"
+  },
+  {
+    "Start Timestamp": "06:17,160",
+    "End Timestamp": "06:22,760",
+    "Transcript": "But before all that they were like do you do not have phones cuz everyone was like booing in the audience"
+  },
+  {
+    "Start Timestamp": "06:22,760",
+    "End Timestamp": "06:28,040",
+    "Transcript": "Yeah, and it became I remember that yeah, yeah, I mean I use it anytime there's a phone. Yeah, this fucking dude"
+  },
+  {
+    "Start Timestamp": "06:28,040",
+    "End Timestamp": "06:33,560",
+    "Transcript": "Look at this guy. This guy looks awesome. Yeah, look at this shit. This is shredding stuff about sick yet"
+  },
+  {
+    "Start Timestamp": "06:33,560",
+    "End Timestamp": "06:37,960",
+    "Transcript": "Does I love this stuff about Sega Genesis games where like when you when they're about to die"
+  },
+  {
+    "Start Timestamp": "06:37,960",
+    "End Timestamp": "06:43,060",
+    "Transcript": "They're like the color of their armor is like fading I fucking love that and they like gained speed. Oh my god"
+  },
+  {
+    "Start Timestamp": "06:43,060",
+    "End Timestamp": "06:46,260",
+    "Transcript": "I'm really fucking good. I'm fucking up. No, you're doing fine. There you go"
+  },
+  {
+    "Start Timestamp": "06:46,260",
+    "End Timestamp": "06:47,720",
+    "Transcript": "You just got to get into a rhythm of it"
+  },
+  {
+    "Start Timestamp": "06:47,720",
+    "End Timestamp": "06:52,480",
+    "Transcript": "You got to hit him right at the tippy top of his head for some reason him in the face doesn't count see shit"
+  },
+  {
+    "Start Timestamp": "06:52,480",
+    "End Timestamp": "06:59,280",
+    "Transcript": "It's fucking bullshit. This guy every single time I fought him. These the boomy moon. Yeah, me - the fire. Oh really?"
+  },
+  {
+    "Start Timestamp": "06:59,280",
+    "End Timestamp": "07:02,860",
+    "Transcript": "All the damage yeah, that's a froth fucking mamasa dude. There you go"
+  },
+  {
+    "Start Timestamp": "07:02,860",
+    "End Timestamp": "07:08,080",
+    "Transcript": "Best thing about this game is everything explodes. That's where the guy"
+  },
+  {
+    "Start Timestamp": "07:08,080",
+    "End Timestamp": "07:11,860",
+    "Transcript": "I'm just made of pure energy. You're just showing shurikins in it to cause the combustion"
+  },
+  {
+    "Start Timestamp": "07:11,860",
+    "End Timestamp": "07:13,880",
+    "Transcript": "Yeah, New York with a river behind it. I"
+  },
+  {
+    "Start Timestamp": "07:13,880",
+    "End Timestamp": "07:20,420",
+    "Transcript": "Do want to say this fucking levels in ice or and it makes me want a puke. It's the water"
+  },
+  {
+    "Start Timestamp": "07:20,420",
+    "End Timestamp": "07:23,680",
+    "Transcript": "I love this game does game ever. Oh, it's great. Oh, I was level"
+  },
+  {
+    "Start Timestamp": "07:23,680",
+    "End Timestamp": "07:28,420",
+    "Transcript": "I'm not gonna say everything is holy shit. I'm not gonna say everything's amazing"
+  },
+  {
+    "Start Timestamp": "07:28,420",
+    "End Timestamp": "07:35,140",
+    "Transcript": "You got the not only do you got the Simon's jedi also the Simon knockback. Yeah, so you got to use this fucking power here"
+  },
+  {
+    "Start Timestamp": "07:35,140",
+    "End Timestamp": "07:43,140",
+    "Transcript": "I'm glad Chris fucking knows this stuff. You know what I thought this was Chris a shield"
+  },
+  {
+    "Start Timestamp": "07:43,140",
+    "End Timestamp": "07:48,580",
+    "Transcript": "It is good. It is a shield. You can get three hits with it. I think I got hit twice there"
+  },
+  {
+    "Start Timestamp": "07:48,580",
+    "End Timestamp": "07:54,380",
+    "Transcript": "So I've already fucked up pretty hard. I'm gonna do some crazy. I mean yeah, it takes away knockback"
+  },
+  {
+    "Start Timestamp": "07:54,380",
+    "End Timestamp": "08:03,440",
+    "Transcript": "Well, this is the only one I'm pretty good at really yeah, like I used to fucking love this game"
+  },
+  {
+    "Start Timestamp": "08:03,440",
+    "End Timestamp": "08:08,360",
+    "Transcript": "Here's a little trick here this log you jump up you do double jump when it goes out of the screen like that"
+  },
+  {
+    "Start Timestamp": "08:08,360",
+    "End Timestamp": "08:14,340",
+    "Transcript": "You say you do Golden Axe you don't open this book. Yeah, let's do Golden Axe. I like Golden Axe"
+  },
+  {
+    "Start Timestamp": "08:14,340",
+    "End Timestamp": "08:19,100",
+    "Transcript": "I'm not shit out of though, but it is funny. It's it's harder. This box here is a fucking bastard"
+  },
+  {
+    "Start Timestamp": "08:19,100",
+    "End Timestamp": "08:22,900",
+    "Transcript": "Golden Axe pretty much resorts to you just using ram the whole time and knocking the door"
+  },
+  {
+    "Start Timestamp": "08:22,900",
+    "End Timestamp": "08:24,900",
+    "Transcript": "I love golden eggs."
+  },
+  {
+    "Start Timestamp": "08:24,900",
+    "End Timestamp": "08:26,900",
+    "Transcript": "I love golden eggs."
+  },
+  {
+    "Start Timestamp": "08:26,900",
+    "End Timestamp": "08:28,900",
+    "Transcript": "I love golden eggs."
+  },
+  {
+    "Start Timestamp": "08:28,900",
+    "End Timestamp": "08:30,900",
+    "Transcript": "Oh, he fucking died."
+  },
+  {
+    "Start Timestamp": "08:30,900",
+    "End Timestamp": "08:32,900",
+    "Transcript": "I was going to be a vulture beast for some reason."
+  },
+  {
+    "Start Timestamp": "08:32,900",
+    "End Timestamp": "08:34,900",
+    "Transcript": "I love the music."
+  },
+  {
+    "Start Timestamp": "08:34,900",
+    "End Timestamp": "08:36,900",
+    "Transcript": "This music is sick as hell."
+  },
+  {
+    "Start Timestamp": "08:36,900",
+    "End Timestamp": "08:38,900",
+    "Transcript": "A lot of people think, well,"
+  },
+  {
+    "Start Timestamp": "08:38,900",
+    "End Timestamp": "08:42,900",
+    "Transcript": "I think some people are wrong when they say this,"
+  },
+  {
+    "Start Timestamp": "08:42,900",
+    "End Timestamp": "08:44,900",
+    "Transcript": "but they think that the music sounds like"
+  },
+  {
+    "Start Timestamp": "08:44,900",
+    "End Timestamp": "08:48,900",
+    "Transcript": "parts, which is very rude."
+  },
+  {
+    "Start Timestamp": "08:48,900",
+    "End Timestamp": "08:58,900",
+    "Transcript": "I can't also understand that like yeah it is a little like Metalliki sounding."
+  },
+  {
+    "Start Timestamp": "08:58,900",
+    "End Timestamp": "09:02,900",
+    "Transcript": "That's Sega Synth in general is like really twangy."
+  },
+  {
+    "Start Timestamp": "09:02,900",
+    "End Timestamp": "09:03,900",
+    "Transcript": "But I like that."
+  },
+  {
+    "Start Timestamp": "09:03,900",
+    "End Timestamp": "09:06,900",
+    "Transcript": "Like it's cool twang and has a lot of attitude."
+  },
+  {
+    "Start Timestamp": "09:06,900",
+    "End Timestamp": "09:10,900",
+    "Transcript": "This game had a lot of attitude."
+  },
+  {
+    "Start Timestamp": "09:10,900",
+    "End Timestamp": "09:12,900",
+    "Transcript": "Or all Sega games did."
+  },
+  {
+    "Start Timestamp": "09:12,900",
+    "End Timestamp": "09:14,900",
+    "Transcript": "I fucking hate that level but we did it okay."
+  },
+  {
+    "Start Timestamp": "09:14,900",
+    "End Timestamp": "09:16,900",
+    "Transcript": "Dude you fucking you're already here."
+  },
+  {
+    "Start Timestamp": "09:16,900",
+    "End Timestamp": "09:18,900",
+    "Transcript": "This is the best thing in the game"
+  },
+  {
+    "Start Timestamp": "09:18,900",
+    "End Timestamp": "09:27,800",
+    "Transcript": "Fuck you guy dude, we're kicking ass we are doing good"
+  },
+  {
+    "Start Timestamp": "09:27,800",
+    "End Timestamp": "09:32,560",
+    "Transcript": "So this is the stage that would kick my fucking ass and I have to restart every single time I got here"
+  },
+  {
+    "Start Timestamp": "09:32,560",
+    "End Timestamp": "09:34,760",
+    "Transcript": "I hate those little bastard boxes that explode"
+  },
+  {
+    "Start Timestamp": "09:34,760",
+    "End Timestamp": "09:39,700",
+    "Transcript": "The fuck I can't believe how quickly you're going through this crisp the city with no outlines"
+  },
+  {
+    "Start Timestamp": "09:39,700",
+    "End Timestamp": "09:45,380",
+    "Transcript": "But just like the lights and windows like really visually like fucking fantastic for some reason Sega games really"
+  },
+  {
+    "Start Timestamp": "09:45,500",
+    "End Timestamp": "09:51,900",
+    "Transcript": "Nailed city scapes. They always made them look super pleasing to the eye. This place looks like there's Jackie Chan"
+  },
+  {
+    "Start Timestamp": "09:51,900",
+    "End Timestamp": "09:58,380",
+    "Transcript": "Sorry that like Michael Jackson moonwalk area like that game when you're like downtown looking for kids"
+  },
+  {
+    "Start Timestamp": "09:58,380",
+    "End Timestamp": "10:01,140",
+    "Transcript": "T-bag Bruce Lee after exploding the fuck out of him"
+  },
+  {
+    "Start Timestamp": "10:01,140",
+    "End Timestamp": "10:04,380",
+    "Transcript": "baby"
+  },
+  {
+    "Start Timestamp": "10:04,380",
+    "End Timestamp": "10:11,460",
+    "Transcript": "There's plenty more Bruce Lee's you'll run into it's okay. It's casual killing music. Oh fuck. Oh, I died"
+  },
+  {
+    "Start Timestamp": "10:12,580",
+    "End Timestamp": "10:18,100",
+    "Transcript": "He didn't double jump fuck it. We were doing so good. That's okay. You got three lives first death, baby"
+  },
+  {
+    "Start Timestamp": "10:18,100",
+    "End Timestamp": "10:23,940",
+    "Transcript": "This is a very fucking hard game. I will say that's what makes it so fun to learn and master"
+  },
+  {
+    "Start Timestamp": "10:23,940",
+    "End Timestamp": "10:29,640",
+    "Transcript": "Well, I don't want to spoil it. Oh, yeah, I don't want to spoil shit either because there's a lot of fun surprises in this game"
+  },
+  {
+    "Start Timestamp": "10:29,640",
+    "End Timestamp": "10:35,500",
+    "Transcript": "Yeah, I think anyone who even if Chris is like kind of like just absolutely just butt stomping this game"
+  },
+  {
+    "Start Timestamp": "10:35,500",
+    "End Timestamp": "10:41,140",
+    "Transcript": "I do think you guys should play it. It's a really fucking good game. Honestly anyone who hasn't played six pack"
+  },
+  {
+    "Start Timestamp": "10:41,140",
+    "End Timestamp": "10:46,660",
+    "Transcript": "It's a really fucking good Sega Genesis pack of games. What was that on? There was Sega Genesis and it's six games"
+  },
+  {
+    "Start Timestamp": "10:46,660",
+    "End Timestamp": "10:49,500",
+    "Transcript": "It's Sonic 1. It had six pack"
+  },
+  {
+    "Start Timestamp": "10:49,500",
+    "End Timestamp": "10:52,940",
+    "Transcript": "It was like outrun or off run or something like that"
+  },
+  {
+    "Start Timestamp": "10:52,940",
+    "End Timestamp": "10:56,940",
+    "Transcript": "I didn't really like the motorcycle game, but it was okay. You had columns too in that right?"
+  },
+  {
+    "Start Timestamp": "10:56,940",
+    "End Timestamp": "11:02,740",
+    "Transcript": "I love columns. Yeah in a road rate road rash was the game that I played that was the Sega Genesis"
+  },
+  {
+    "Start Timestamp": "11:02,740",
+    "End Timestamp": "11:08,020",
+    "Transcript": "Motorcycle game that I love that was the one where you fucking Shane's the beat people's asses and knock them off the road"
+  },
+  {
+    "Start Timestamp": "11:08,020",
+    "End Timestamp": "11:10,340",
+    "Transcript": "Like blow up their fucking motorcycle"
+  },
+  {
+    "Start Timestamp": "11:10,340",
+    "End Timestamp": "11:11,540",
+    "Transcript": "Oh no!"
+  },
+  {
+    "Start Timestamp": "11:11,540",
+    "End Timestamp": "11:12,540",
+    "Transcript": "Oh, thank god."
+  },
+  {
+    "Start Timestamp": "11:12,540",
+    "End Timestamp": "11:13,540",
+    "Transcript": "That was good."
+  },
+  {
+    "Start Timestamp": "11:13,540",
+    "End Timestamp": "11:14,540",
+    "Transcript": "That was lucky."
+  },
+  {
+    "Start Timestamp": "11:14,540",
+    "End Timestamp": "11:16,940",
+    "Transcript": "That happens a lot there."
+  },
+  {
+    "Start Timestamp": "11:16,940",
+    "End Timestamp": "11:20,140",
+    "Transcript": "And then there was of course, I think there was Streets of Rage, there was an in as well."
+  },
+  {
+    "Start Timestamp": "11:20,140",
+    "End Timestamp": "11:22,900",
+    "Transcript": "There was a Rage 2, I believe, with like, Golden Axe."
+  },
+  {
+    "Start Timestamp": "11:22,900",
+    "End Timestamp": "11:24,380",
+    "Transcript": "I feel like a complete asshole."
+  },
+  {
+    "Start Timestamp": "11:24,380",
+    "End Timestamp": "11:26,380",
+    "Transcript": "I love Genesis, but I never played Streets of Rage."
+  },
+  {
+    "Start Timestamp": "11:26,380",
+    "End Timestamp": "11:29,380",
+    "Transcript": "Oh, you can never have either, but what I wanted to is fantastic."
+  },
+  {
+    "Start Timestamp": "11:29,380",
+    "End Timestamp": "11:31,380",
+    "Transcript": "Yeah, I heard it's like the best out of them."
+  },
+  {
+    "Start Timestamp": "11:31,380",
+    "End Timestamp": "11:33,020",
+    "Transcript": "It's amazing."
+  },
+  {
+    "Start Timestamp": "11:33,020",
+    "End Timestamp": "11:35,860",
+    "Transcript": "I don't know about Streets of Rage 1, because I haven't played it as much as 2."
+  },
+  {
+    "Start Timestamp": "11:35,860",
+    "End Timestamp": "11:36,860",
+    "Transcript": "Little secret there."
+  },
+  {
+    "Start Timestamp": "11:36,860",
+    "End Timestamp": "11:38,340",
+    "Transcript": "No, but 2 is really good."
+  },
+  {
+    "Start Timestamp": "11:38,340",
+    "End Timestamp": "11:40,300",
+    "Transcript": "Okay, Corey, this is the boss I was telling you about here."
+  },
+  {
+    "Start Timestamp": "11:40,300",
+    "End Timestamp": "11:42,300",
+    "Transcript": "Check this out you beat him."
+  },
+  {
+    "Start Timestamp": "11:42,300",
+    "End Timestamp": "11:44,300",
+    "Transcript": "You're gonna make me out of that."
+  },
+  {
+    "Start Timestamp": "11:44,300",
+    "End Timestamp": "11:47,300",
+    "Transcript": "This guy's a fuck face. I die so many times fighting him."
+  },
+  {
+    "Start Timestamp": "11:47,300",
+    "End Timestamp": "11:49,300",
+    "Transcript": "And Chris is gonna show me how to do it."
+  },
+  {
+    "Start Timestamp": "11:49,300",
+    "End Timestamp": "11:50,300",
+    "Transcript": "Oh fuck. He's really hard."
+  },
+  {
+    "Start Timestamp": "11:50,300",
+    "End Timestamp": "11:52,300",
+    "Transcript": "He's your shins. He's by you."
+  },
+  {
+    "Start Timestamp": "11:52,300",
+    "End Timestamp": "11:56,300",
+    "Transcript": "Imagine, imagine making a man, but he's got like lead feet."
+  },
+  {
+    "Start Timestamp": "11:56,300",
+    "End Timestamp": "11:58,300",
+    "Transcript": "I've already fucked up pretty hard here."
+  },
+  {
+    "Start Timestamp": "11:58,300",
+    "End Timestamp": "12:00,300",
+    "Transcript": "Dude, you're doing good."
+  },
+  {
+    "Start Timestamp": "12:00,300",
+    "End Timestamp": "12:03,300",
+    "Transcript": "There you go. I just want to make sure I don't die here."
+  },
+  {
+    "Start Timestamp": "12:03,300",
+    "End Timestamp": "12:06,300",
+    "Transcript": "Shit. You can come to a shadow face. Jesus Christ."
+  },
+  {
+    "Start Timestamp": "12:06,300",
+    "End Timestamp": "12:08,300",
+    "Transcript": "Pretty much you gotta hold towards him as you kick him."
+  },
+  {
+    "Start Timestamp": "12:08,300",
+    "End Timestamp": "12:13,700",
+    "Transcript": "you kick him there you go so if you hold down and kick him it doesn't really work"
+  },
+  {
+    "Start Timestamp": "12:13,700",
+    "End Timestamp": "12:16,760",
+    "Transcript": "but if you hold down and walk towards him and kick him then it works it's like a"
+  },
+  {
+    "Start Timestamp": "12:16,760",
+    "End Timestamp": "12:21,780",
+    "Transcript": "really weird little thing you're already at the air force is there a level beyond"
+  },
+  {
+    "Start Timestamp": "12:21,780",
+    "End Timestamp": "12:24,500",
+    "Transcript": "this I don't even actually know there were only a third of the way through"
+  },
+  {
+    "Start Timestamp": "12:24,500",
+    "End Timestamp": "12:27,960",
+    "Transcript": "oh wow really I never got past this dude look at this this is so weird like"
+  },
+  {
+    "Start Timestamp": "12:27,960",
+    "End Timestamp": "12:36,260",
+    "Transcript": "kill this guy kill this guy kill this guy this song is crazy this is the coolest"
+  },
+  {
+    "Start Timestamp": "12:36,260",
+    "End Timestamp": "12:40,700",
+    "Transcript": "Did that's literally Rambo did Rambo with a flamethrow. It's awesome fucking asshole"
+  },
+  {
+    "Start Timestamp": "12:40,700",
+    "End Timestamp": "12:43,460",
+    "Transcript": "This idiot right here"
+  },
+  {
+    "Start Timestamp": "12:43,460",
+    "End Timestamp": "12:47,700",
+    "Transcript": "No shit you jump over the fence. I miss I miss games like this"
+  },
+  {
+    "Start Timestamp": "12:47,700",
+    "End Timestamp": "12:52,740",
+    "Transcript": "Yeah, like fucking fun ass Sega Genesis games that you just go and beat the shit kill things"
+  },
+  {
+    "Start Timestamp": "12:52,740",
+    "End Timestamp": "12:56,580",
+    "Transcript": "fucking Rambo"
+  },
+  {
+    "Start Timestamp": "12:56,580",
+    "End Timestamp": "13:00,740",
+    "Transcript": "Their lives in the middle of their greatest conflict this fucking bastard"
+  },
+  {
+    "Start Timestamp": "13:00,740",
+    "End Timestamp": "13:03,560",
+    "Transcript": "This is like the last boss song for like a fucking"
+  },
+  {
+    "Start Timestamp": "13:03,560",
+    "End Timestamp": "13:05,660",
+    "Transcript": "Sonic game"
+  },
+  {
+    "Start Timestamp": "13:05,660",
+    "End Timestamp": "13:10,640",
+    "Transcript": "There's Rambo in the foreground. You can't get me. You stupid. This song is fucking awesome"
+  },
+  {
+    "Start Timestamp": "13:10,640",
+    "End Timestamp": "13:15,340",
+    "Transcript": "I've heard the song only a hundred years all the music in this game is fucking amazing for some reason"
+  },
+  {
+    "Start Timestamp": "13:15,340",
+    "End Timestamp": "13:23,300",
+    "Transcript": "Everyone loves a song called Chinatown. That's probably my it's gonna piss me off to my least favorite song really it is everyone's favorite song"
+  },
+  {
+    "Start Timestamp": "13:23,300",
+    "End Timestamp": "13:25,540",
+    "Transcript": "It's okay. Oh shit. Oh"
+  },
+  {
+    "Start Timestamp": "13:25,540",
+    "End Timestamp": "13:29,460",
+    "Transcript": "It's just there's a level later where you're in Chinatown"
+  },
+  {
+    "Start Timestamp": "13:29,460",
+    "End Timestamp": "13:36,200",
+    "Transcript": "See the thing is with me Sega Genesis where I really love the music was like the rock in the twang and like"
+  },
+  {
+    "Start Timestamp": "13:36,200",
+    "End Timestamp": "13:40,120",
+    "Transcript": "Where they got down with that kind of music this kind of shit like that"
+  },
+  {
+    "Start Timestamp": "13:40,120",
+    "End Timestamp": "13:48,100",
+    "Transcript": "Yeah, like where you got really into like the rock music. That's that shit was really good. Oh shit. It's in the background"
+  },
+  {
+    "Start Timestamp": "13:48,100",
+    "End Timestamp": "13:53,780",
+    "Transcript": "We got a lot of sure you kids though. We're doing good. Holy fuck. Yeah, 85"
+  },
+  {
+    "Start Timestamp": "13:53,780",
+    "End Timestamp": "13:56,460",
+    "Transcript": "And you just got a power up. Oh"
+  },
+  {
+    "Start Timestamp": "13:58,380",
+    "End Timestamp": "14:05,300",
+    "Transcript": "God man, you're way more fucking watching the screen than I was. I've played through this a lot. Oh shit dude"
+  },
+  {
+    "Start Timestamp": "14:05,300",
+    "End Timestamp": "14:07,660",
+    "Transcript": "Master took my pal"
+  },
+  {
+    "Start Timestamp": "14:07,660",
+    "End Timestamp": "14:11,020",
+    "Transcript": "Best"
+  },
+  {
+    "Start Timestamp": "14:11,020",
+    "End Timestamp": "14:15,940",
+    "Transcript": "Like all these like fucking tinker top tinker blocks. Oh my mom would say these are like a"
+  },
+  {
+    "Start Timestamp": "14:15,940",
+    "End Timestamp": "14:19,040",
+    "Transcript": "What do you call it fucking? Oh you got me fuck?"
+  },
+  {
+    "Start Timestamp": "14:19,040",
+    "End Timestamp": "14:21,980",
+    "Transcript": "FEMA campers things FEMA camped onions"
+  },
+  {
+    "Start Timestamp": "14:21,980",
+    "End Timestamp": "14:27,000",
+    "Transcript": "Two Rambo's can you take on both of them? Leave me alone"
+  },
+  {
+    "Start Timestamp": "14:27,000",
+    "End Timestamp": "14:29,000",
+    "Transcript": "Oh"
+  },
+  {
+    "Start Timestamp": "14:29,000",
+    "End Timestamp": "14:32,300",
+    "Transcript": "Dumbasses don't realize they can just go over the fence and use a plate or oh"
+  },
+  {
+    "Start Timestamp": "14:32,300",
+    "End Timestamp": "14:41,640",
+    "Transcript": "I never got past this this remember this level fucking sucks, so these doors will open and suck you out"
+  },
+  {
+    "Start Timestamp": "14:41,640",
+    "End Timestamp": "14:43,120",
+    "Transcript": "whoa"
+  },
+  {
+    "Start Timestamp": "14:43,120",
+    "End Timestamp": "14:49,640",
+    "Transcript": "It's cuz what happened guess what happened? Huh? I came here with one life. I walked in immediately back. Yeah, it's not fair"
+  },
+  {
+    "Start Timestamp": "14:49,640",
+    "End Timestamp": "14:54,200",
+    "Transcript": "It's fucking bullshit. I was so mad. I turn on the knockback thing and then I"
+  },
+  {
+    "Start Timestamp": "14:54,960",
+    "End Timestamp": "15:00,020",
+    "Transcript": "Know where everything is so I should be okay, but if by chance one of these fuckers knocks me back everything will be okay"
+  },
+  {
+    "Start Timestamp": "15:00,020",
+    "End Timestamp": "15:09,680",
+    "Transcript": "Yeah, it happens so I'm fucking god. Yeah. Oh, there's a bomb fuck you. Yeah right there"
+  },
+  {
+    "Start Timestamp": "15:09,680",
+    "End Timestamp": "15:12,880",
+    "Transcript": "You that thing could have picked you off. Fuck you know"
+  },
+  {
+    "Start Timestamp": "15:12,880",
+    "End Timestamp": "15:15,960",
+    "Transcript": "These guys are like rifle men which should be in like World War two"
+  },
+  {
+    "Start Timestamp": "15:15,960",
+    "End Timestamp": "15:22,200",
+    "Transcript": "This is weird. Oh going back in time. It's just like they are army men, but they do look like"
+  },
+  {
+    "Start Timestamp": "15:22,200",
+    "End Timestamp": "15:24,200",
+    "Transcript": "I"
+  },
+  {
+    "Start Timestamp": "15:24,200",
+    "End Timestamp": "15:29,180",
+    "Transcript": "Hate these fucking bastards throwing everything this game was pretty much just like what is cool?"
+  },
+  {
+    "Start Timestamp": "15:29,180",
+    "End Timestamp": "15:34,200",
+    "Transcript": "What it would samurai it's true, and they were right. It's very cool. Yeah, it's awesome"
+  },
+  {
+    "Start Timestamp": "15:34,200",
+    "End Timestamp": "15:38,080",
+    "Transcript": "All I need is like a fucking oh, yeah, they might have it. I"
+  },
+  {
+    "Start Timestamp": "15:38,080",
+    "End Timestamp": "15:42,480",
+    "Transcript": "Don't know if they have it. I don't want to be spoiled, but got me three times"
+  },
+  {
+    "Start Timestamp": "15:42,480",
+    "End Timestamp": "15:44,480",
+    "Transcript": "All they need is like one of those fucking like"
+  },
+  {
+    "Start Timestamp": "15:44,480",
+    "End Timestamp": "15:46,200",
+    "Transcript": "those like"
+  },
+  {
+    "Start Timestamp": "15:46,200",
+    "End Timestamp": "15:50,480",
+    "Transcript": "Chicken like robots for a robo cop, and then it'll be complete. No, oh"
+  },
+  {
+    "Start Timestamp": "15:50,920",
+    "End Timestamp": "15:56,560",
+    "Transcript": "He would have got me. I told you dude this game's fucking brutal. Yeah, but you're doing no"
+  },
+  {
+    "Start Timestamp": "15:56,560",
+    "End Timestamp": "15:58,560",
+    "Transcript": "I mean like you do really good. Uh-huh"
+  },
+  {
+    "Start Timestamp": "15:58,560",
+    "End Timestamp": "16:04,160",
+    "Transcript": "You are the shinobi Chris. I swear to God when you get really good at this game"
+  },
+  {
+    "Start Timestamp": "16:04,160",
+    "End Timestamp": "16:07,640",
+    "Transcript": "It makes you feel like such a badass. This game is a good game"
+  },
+  {
+    "Start Timestamp": "16:07,640",
+    "End Timestamp": "16:12,600",
+    "Transcript": "But I've never felt it as much as with this game. That's cool, man. Yeah, I love it"
+  },
+  {
+    "Start Timestamp": "16:12,600",
+    "End Timestamp": "16:15,200",
+    "Transcript": "Yeah, I pretty much feel unbeatable when I play Sonic - I"
+  },
+  {
+    "Start Timestamp": "16:15,200",
+    "End Timestamp": "16:19,780",
+    "Transcript": "Fucking hate this level. Oh, what's this this fucking guy? Oh the laser?"
+  },
+  {
+    "Start Timestamp": "16:19,780",
+    "End Timestamp": "16:26,700",
+    "Transcript": "I'm really bad at this. I'm gonna take this really really carefully because I really suck at this one that generic fucking"
+  },
+  {
+    "Start Timestamp": "16:26,700",
+    "End Timestamp": "16:31,260",
+    "Transcript": "Laser song ever that so many times. I like it's on it. It's like"
+  },
+  {
+    "Start Timestamp": "16:31,260",
+    "End Timestamp": "16:41,900",
+    "Transcript": "My brain in the pod like lasers. All right. Got it. And what else a couple minutes your brain pops out and they could smash the fuck"
+  },
+  {
+    "Start Timestamp": "16:41,900",
+    "End Timestamp": "16:44,820",
+    "Transcript": "Thank you great sounds perfect"
+  },
+  {
+    "Start Timestamp": "16:46,740",
+    "End Timestamp": "16:52,780",
+    "Transcript": "Can we have a button that like disengages that no sorry once the enters the room it just happens repeatedly"
+  },
+  {
+    "Start Timestamp": "16:52,780",
+    "End Timestamp": "16:55,280",
+    "Transcript": "I want to do it pure genius. Come on. Let's do it"
+  },
+  {
+    "Start Timestamp": "16:55,280",
+    "End Timestamp": "16:57,980",
+    "Transcript": "Fucking a you think what about the other laser?"
+  },
+  {
+    "Start Timestamp": "16:57,980",
+    "End Timestamp": "17:01,340",
+    "Transcript": "That's gonna lead to one minute behind you in case he decides to jump over the whole thing"
+  },
+  {
+    "Start Timestamp": "17:01,340",
+    "End Timestamp": "17:03,940",
+    "Transcript": "Genius you thought everything"
+  },
+  {
+    "Start Timestamp": "17:03,940",
+    "End Timestamp": "17:08,780",
+    "Transcript": "This thing's really like resilient towards sure you can't there you go"
+  },
+  {
+    "Start Timestamp": "17:12,580",
+    "End Timestamp": "17:14,580",
+    "Transcript": "Take a life away that you fucking bastard"
+  },
+  {
+    "Start Timestamp": "17:14,580",
+    "End Timestamp": "17:18,980",
+    "Transcript": "That's okay, whatever the parking garage"
+  },
+  {
+    "Start Timestamp": "17:18,980",
+    "End Timestamp": "17:21,040",
+    "Transcript": "So weeks ah"
+  },
+  {
+    "Start Timestamp": "17:21,040",
+    "End Timestamp": "17:23,040",
+    "Transcript": "This levels okay. It's not too hard"
+  },
+  {
+    "Start Timestamp": "17:23,040",
+    "End Timestamp": "17:26,000",
+    "Transcript": "All right, well, I don't know what this level is but it looks though"
+  },
+  {
+    "Start Timestamp": "17:26,000",
+    "End Timestamp": "17:30,360",
+    "Transcript": "So a lot of the skill in this game is based around like picking stuff up before it picks you up"
+  },
+  {
+    "Start Timestamp": "17:30,360",
+    "End Timestamp": "17:32,900",
+    "Transcript": "Yeah, we know where enemies are yeah"
+  },
+  {
+    "Start Timestamp": "17:32,900",
+    "End Timestamp": "17:39,580",
+    "Transcript": "So trial error and also timing your jump aim with the sure you can like like jumping and then pushing the throw button right before you hit"
+  },
+  {
+    "Start Timestamp": "17:39,580",
+    "End Timestamp": "17:40,580",
+    "Transcript": "the ground."
+  },
+  {
+    "Start Timestamp": "17:40,580",
+    "End Timestamp": "17:44,180",
+    "Transcript": "You can only like when you jump and press back you stop and midair right?"
+  },
+  {
+    "Start Timestamp": "17:44,180",
+    "End Timestamp": "17:45,180",
+    "Transcript": "Yeah."
+  },
+  {
+    "Start Timestamp": "17:45,180",
+    "End Timestamp": "17:46,180",
+    "Transcript": "Yeah you can't like control it."
+  },
+  {
+    "Start Timestamp": "17:46,180",
+    "End Timestamp": "17:48,860",
+    "Transcript": "So you can you can't really control."
+  },
+  {
+    "Start Timestamp": "17:48,860",
+    "End Timestamp": "17:49,860",
+    "Transcript": "That was also."
+  },
+  {
+    "Start Timestamp": "17:49,860",
+    "End Timestamp": "17:50,860",
+    "Transcript": "Oh okay."
+  },
+  {
+    "Start Timestamp": "17:50,860",
+    "End Timestamp": "17:51,860",
+    "Transcript": "I got us."
+  },
+  {
+    "Start Timestamp": "17:51,860",
+    "End Timestamp": "17:52,860",
+    "Transcript": "I got something there."
+  },
+  {
+    "Start Timestamp": "17:52,860",
+    "End Timestamp": "17:53,860",
+    "Transcript": "You got a lot of like song."
+  },
+  {
+    "Start Timestamp": "17:53,860",
+    "End Timestamp": "17:58,540",
+    "Transcript": "There's a lot of bullshit in this game like like those explosions will kill you on the"
+  },
+  {
+    "Start Timestamp": "17:58,540",
+    "End Timestamp": "18:02,300",
+    "Transcript": "last frame of them like fading away when they're just basically smoke which isn't fair."
+  },
+  {
+    "Start Timestamp": "18:02,300",
+    "End Timestamp": "18:03,300",
+    "Transcript": "No."
+  },
+  {
+    "Start Timestamp": "18:03,300",
+    "End Timestamp": "18:04,860",
+    "Transcript": "Oh you have weak lungs."
+  },
+  {
+    "Start Timestamp": "18:04,860",
+    "End Timestamp": "18:05,860",
+    "Transcript": "Yeah that's true."
+  },
+  {
+    "Start Timestamp": "18:05,860",
+    "End Timestamp": "18:07,860",
+    "Transcript": "Yeah, you were fucking like"
+  },
+  {
+    "Start Timestamp": "18:07,860",
+    "End Timestamp": "18:14,500",
+    "Transcript": "How I don't know how high it would be you would be under the mesodermar layer to me so dumb or there"
+  },
+  {
+    "Start Timestamp": "18:14,500",
+    "End Timestamp": "18:20,460",
+    "Transcript": "That's not actually I think that's a lit layer in your body. That's fucking junk that toss that multiple sure you can look fucking amazing"
+  },
+  {
+    "Start Timestamp": "18:20,460",
+    "End Timestamp": "18:22,460",
+    "Transcript": "Yeah, it's such a cool move. Oh"
+  },
+  {
+    "Start Timestamp": "18:22,460",
+    "End Timestamp": "18:25,300",
+    "Transcript": "That fucking throat in your face"
+  },
+  {
+    "Start Timestamp": "18:25,300",
+    "End Timestamp": "18:31,540",
+    "Transcript": "I'm being very sloppy this level. Sorry guys T-bag and his friend"
+  },
+  {
+    "Start Timestamp": "18:32,140",
+    "End Timestamp": "18:34,140",
+    "Transcript": "What a dickhead why did I do that?"
+  },
+  {
+    "Start Timestamp": "18:34,140",
+    "End Timestamp": "18:37,200",
+    "Transcript": "In his husband a brown stain on his helmet"
+  },
+  {
+    "Start Timestamp": "18:37,200",
+    "End Timestamp": "18:42,700",
+    "Transcript": "You're dead"
+  },
+  {
+    "Start Timestamp": "18:42,700",
+    "End Timestamp": "18:47,740",
+    "Transcript": "Look at this don't lot. He can't even fucking shoot through that you can't hit certain things fucking nincompoop"
+  },
+  {
+    "Start Timestamp": "18:47,740",
+    "End Timestamp": "18:50,980",
+    "Transcript": "This this guy isn't idiot. There you go. I"
+  },
+  {
+    "Start Timestamp": "18:50,980",
+    "End Timestamp": "18:54,180",
+    "Transcript": "Don't waste all my sure kids"
+  },
+  {
+    "Start Timestamp": "18:54,180",
+    "End Timestamp": "18:57,900",
+    "Transcript": "What oh you're kicking it. Well, there you go. Ah"
+  },
+  {
+    "Start Timestamp": "18:59,820",
+    "End Timestamp": "19:03,980",
+    "Transcript": "You don't get a lot of what are you kick rambo till he explodes?"
+  },
+  {
+    "Start Timestamp": "19:03,980",
+    "End Timestamp": "19:10,180",
+    "Transcript": "Yes, something just happened that wasn't very fair where you're standing on top of a thing the game thinks you want to hit"
+  },
+  {
+    "Start Timestamp": "19:10,180",
+    "End Timestamp": "19:16,020",
+    "Transcript": "And if you try throwing the sure you can't he'll just like take a swipe at nothing. That's annoying. Yeah. Oh my god"
+  },
+  {
+    "Start Timestamp": "19:16,020",
+    "End Timestamp": "19:18,020",
+    "Transcript": "You're right there. Yeah, we're good"
+  },
+  {
+    "Start Timestamp": "19:18,020",
+    "End Timestamp": "19:25,320",
+    "Transcript": "That was easy to get a power up. I think you did from that last box. Cuz you fucking annihilating this game. Have you beaten it? Oh, yeah"
+  },
+  {
+    "Start Timestamp": "19:25,320",
+    "End Timestamp": "19:28,700",
+    "Transcript": "Holy shit"
+  },
+  {
+    "Start Timestamp": "19:28,700",
+    "End Timestamp": "19:35,420",
+    "Transcript": "What is this gonna have a mobile coming down the elevator this song's awesome. What do you call this?"
+  },
+  {
+    "Start Timestamp": "19:35,420",
+    "End Timestamp": "19:41,540",
+    "Transcript": "What do you call those what do you mean? They're not elevators. They're like conveyor belts. Yeah, I"
+  },
+  {
+    "Start Timestamp": "19:41,540",
+    "End Timestamp": "19:45,340",
+    "Transcript": "Love that fire just shaking in place"
+  },
+  {
+    "Start Timestamp": "19:45,340",
+    "End Timestamp": "19:48,260",
+    "Transcript": "Oh, that would have killed me"
+  },
+  {
+    "Start Timestamp": "19:48,260",
+    "End Timestamp": "19:58,460",
+    "Transcript": "Talking about this is where Sega shines this stuff's like sick and it's like metallic fucking like robotics"
+  },
+  {
+    "Start Timestamp": "19:58,460",
+    "End Timestamp": "20:01,460",
+    "Transcript": "sounding weird synth shit. It's awesome."
+  },
+  {
+    "Start Timestamp": "20:01,460",
+    "End Timestamp": "20:04,460",
+    "Transcript": "That will smosh you in the little pieces."
+  },
+  {
+    "Start Timestamp": "20:04,460",
+    "End Timestamp": "20:08,460",
+    "Transcript": "Thing is too, like, whenever people talk about like Super Nintendo,"
+  },
+  {
+    "Start Timestamp": "20:08,460",
+    "End Timestamp": "20:11,460",
+    "Transcript": "I do like Super Nintendo, I have nothing against Super Nintendo."
+  },
+  {
+    "Start Timestamp": "20:11,460",
+    "End Timestamp": "20:14,460",
+    "Transcript": "I was in the Super Nintendo and Sega Genesis growing up."
+  },
+  {
+    "Start Timestamp": "20:14,460",
+    "End Timestamp": "20:18,460",
+    "Transcript": "Just like, I think most people, there wasn't a war between what was better."
+  },
+  {
+    "Start Timestamp": "20:18,460",
+    "End Timestamp": "20:24,460",
+    "Transcript": "But I always found that the Disney games were always better on Sega."
+  },
+  {
+    "Start Timestamp": "20:24,460",
+    "End Timestamp": "20:25,460",
+    "Transcript": "That is weird, isn't it?"
+  },
+  {
+    "Start Timestamp": "20:25,460",
+    "End Timestamp": "20:30,200",
+    "Transcript": "Disney's Lion King, Disney's Aladdin, those games were just far superior on Sega."
+  },
+  {
+    "Start Timestamp": "20:30,200",
+    "End Timestamp": "20:33,600",
+    "Transcript": "These ninjas is coming handy, I'll tell you so much."
+  },
+  {
+    "Start Timestamp": "20:33,600",
+    "End Timestamp": "20:36,540",
+    "Transcript": "What do you have? The other one. The case the other one. Fucking saves your life every time."
+  },
+  {
+    "Start Timestamp": "20:36,540",
+    "End Timestamp": "20:37,500",
+    "Transcript": "This yellow one."
+  },
+  {
+    "Start Timestamp": "20:37,500",
+    "End Timestamp": "20:38,860",
+    "Transcript": "It's a really good one."
+  },
+  {
+    "Start Timestamp": "20:38,860",
+    "End Timestamp": "20:40,260",
+    "Transcript": "I just hate this fucking guy right here."
+  },
+  {
+    "Start Timestamp": "20:40,260",
+    "End Timestamp": "20:43,500",
+    "Transcript": "I wish that guy would just get violently electrocuted whenever you were next to him."
+  },
+  {
+    "Start Timestamp": "20:43,500",
+    "End Timestamp": "20:48,100",
+    "Transcript": "That's kind of cruel enemy placement, but I'll let it slide, because the music's so cool."
+  },
+  {
+    "Start Timestamp": "20:48,100",
+    "End Timestamp": "20:51,580",
+    "Transcript": "Holy fuck. I can't even tell what you can, he can't stand on."
+  },
+  {
+    "Start Timestamp": "20:51,580",
+    "End Timestamp": "20:52,860",
+    "Transcript": "I'm sorry."
+  },
+  {
+    "Start Timestamp": "20:52,860",
+    "End Timestamp": "20:56,600",
+    "Transcript": "Normally I don't mind that but I feel like in a game like this I would like to know"
+  },
+  {
+    "Start Timestamp": "20:56,600",
+    "End Timestamp": "21:02,460",
+    "Transcript": "Fuck see I'm fucking up. It was a good thing you had the lightning thing though. Yeah, I would have died"
+  },
+  {
+    "Start Timestamp": "21:02,460",
+    "End Timestamp": "21:04,860",
+    "Transcript": "I need to be a little more better with this"
+  },
+  {
+    "Start Timestamp": "21:04,860",
+    "End Timestamp": "21:07,840",
+    "Transcript": "Come here shoot at me asshole"
+  },
+  {
+    "Start Timestamp": "21:07,840",
+    "End Timestamp": "21:12,380",
+    "Transcript": "I guarantee half the people that are watching this would have fucking died on the first ninja walking up to him"
+  },
+  {
+    "Start Timestamp": "21:12,380",
+    "End Timestamp": "21:14,380",
+    "Transcript": "He's killed him in a corner until they were dead"
+  },
+  {
+    "Start Timestamp": "21:14,380",
+    "End Timestamp": "21:19,220",
+    "Transcript": "Oh, I'm sure most people could do this was it my first level"
+  },
+  {
+    "Start Timestamp": "21:19,220",
+    "End Timestamp": "21:23,220",
+    "Transcript": "I don't know about the fucking next level the cave that cave level is actually"
+  },
+  {
+    "Start Timestamp": "21:23,220",
+    "End Timestamp": "21:25,220",
+    "Transcript": "No, I"
+  },
+  {
+    "Start Timestamp": "21:25,220",
+    "End Timestamp": "21:32,020",
+    "Transcript": "Get really sad watch the videos where it's like kids react to like Mario one and they're like this is a video game"
+  },
+  {
+    "Start Timestamp": "21:32,020",
+    "End Timestamp": "21:34,020",
+    "Transcript": "This is like fucking torture"
+  },
+  {
+    "Start Timestamp": "21:34,020",
+    "End Timestamp": "21:41,740",
+    "Transcript": "That's like they don't know any better kids react to old NES games. They're like"
+  },
+  {
+    "Start Timestamp": "21:41,740",
+    "End Timestamp": "21:44,380",
+    "Transcript": "Where's the USB port?"
+  },
+  {
+    "Start Timestamp": "21:44,380",
+    "End Timestamp": "21:47,340",
+    "Transcript": "Remember that you leave the shit. It'll blow your mind. Oh"
+  },
+  {
+    "Start Timestamp": "21:47,340",
+    "End Timestamp": "21:48,540",
+    "Transcript": "Oh, whoa."
+  },
+  {
+    "Start Timestamp": "21:48,540",
+    "End Timestamp": "21:49,740",
+    "Transcript": "Oh, no!"
+  },
+  {
+    "Start Timestamp": "21:49,740",
+    "End Timestamp": "21:52,440",
+    "Transcript": "It's fucking the Terminator."
+  },
+  {
+    "Start Timestamp": "21:52,440",
+    "End Timestamp": "21:53,140",
+    "Transcript": "Oh, fuck!"
+  },
+  {
+    "Start Timestamp": "21:53,140",
+    "End Timestamp": "21:54,440",
+    "Transcript": "You got me."
+  },
+  {
+    "Start Timestamp": "21:54,440",
+    "End Timestamp": "21:55,140",
+    "Transcript": "I forgot."
+  },
+  {
+    "Start Timestamp": "21:55,140",
+    "End Timestamp": "21:56,140",
+    "Transcript": "Holy fuck."
+  },
+  {
+    "Start Timestamp": "21:56,140",
+    "End Timestamp": "21:58,240",
+    "Transcript": "I love it. That's sad."
+  },
+  {
+    "Start Timestamp": "21:58,240",
+    "End Timestamp": "21:59,940",
+    "Transcript": "Little bongos."
+  },
+  {
+    "Start Timestamp": "21:59,940",
+    "End Timestamp": "22:00,740",
+    "Transcript": "Yeah."
+  },
+  {
+    "Start Timestamp": "22:00,740",
+    "End Timestamp": "22:01,740",
+    "Transcript": "Fucking asshole."
+  },
+  {
+    "Start Timestamp": "22:01,740",
+    "End Timestamp": "22:02,740",
+    "Transcript": "Oh, shit."
+  },
+  {
+    "Start Timestamp": "22:02,740",
+    "End Timestamp": "22:04,640",
+    "Transcript": "You really can't waste your shurikins with this."
+  },
+  {
+    "Start Timestamp": "22:04,640",
+    "End Timestamp": "22:05,740",
+    "Transcript": "He's becoming rare."
+  },
+  {
+    "Start Timestamp": "22:05,740",
+    "End Timestamp": "22:06,740",
+    "Transcript": "Oh, shit, dude."
+  },
+  {
+    "Start Timestamp": "22:06,740",
+    "End Timestamp": "22:07,740",
+    "Transcript": "It's okay."
+  },
+  {
+    "Start Timestamp": "22:07,740",
+    "End Timestamp": "22:09,240",
+    "Transcript": "Oops."
+  },
+  {
+    "Start Timestamp": "22:09,240",
+    "End Timestamp": "22:12,340",
+    "Transcript": "Tells you you can't waste your ekins."
+  },
+  {
+    "Start Timestamp": "22:12,340",
+    "End Timestamp": "22:13,740",
+    "Transcript": "Waste your ekin pretty much."
+  },
+  {
+    "Start Timestamp": "22:13,740",
+    "End Timestamp": "22:14,140",
+    "Transcript": "Oh!"
+  },
+  {
+    "Start Timestamp": "22:14,140",
+    "End Timestamp": "22:15,240",
+    "Transcript": "That was fucking horseshit."
+  },
+  {
+    "Start Timestamp": "22:15,240",
+    "End Timestamp": "22:15,540",
+    "Transcript": "Dude, he's so--"
+  },
+  {
+    "Start Timestamp": "22:15,540",
+    "End Timestamp": "22:16,740",
+    "Transcript": "What the fuck?!"
+  },
+  {
+    "Start Timestamp": "22:16,740",
+    "End Timestamp": "22:20,120",
+    "Transcript": "He's so fast that's fucking shit kind of shitty"
+  },
+  {
+    "Start Timestamp": "22:20,120",
+    "End Timestamp": "22:26,800",
+    "Transcript": "Yeah, oh I don't remember him going back and forth like that"
+  },
+  {
+    "Start Timestamp": "22:26,800",
+    "End Timestamp": "22:31,780",
+    "Transcript": "I don't remember this boss at all because I got my butthole stomped in the third level"
+  },
+  {
+    "Start Timestamp": "22:31,780",
+    "End Timestamp": "22:36,880",
+    "Transcript": "Dude, I can't believe I died to him twice. I fucking killed him so easily earlier"
+  },
+  {
+    "Start Timestamp": "22:36,880",
+    "End Timestamp": "22:43,880",
+    "Transcript": "I'm not afraid anymore when you hit him. He immediately looks like he gained likes some kind of sickness cuz he"
+  },
+  {
+    "Start Timestamp": "22:44,500",
+    "End Timestamp": "22:47,420",
+    "Transcript": "Grayer yeah, it's really healthy and then you turn them into a"
+  },
+  {
+    "Start Timestamp": "22:47,420",
+    "End Timestamp": "22:54,060",
+    "Transcript": "Pissed I'm forgetting the name but this guy the grayer he gets you literally looks like the the bad guy from you hawker show from the dark tournament"
+  },
+  {
+    "Start Timestamp": "22:54,060",
+    "End Timestamp": "23:02,820",
+    "Transcript": "The what the big like buff son like guy wearing the sunglasses. Yeah, oh my god. I can't be a forget his name"
+  },
+  {
+    "Start Timestamp": "23:02,820",
+    "End Timestamp": "23:08,500",
+    "Transcript": "Yeah, he's got the same haircut too. I wonder if there was some drawn inspiration"
+  },
+  {
+    "Start Timestamp": "23:08,500",
+    "End Timestamp": "23:12,220",
+    "Transcript": "Well, not well now he looks like the fucking hole. Yeah"
+  },
+  {
+    "Start Timestamp": "23:13,180",
+    "End Timestamp": "23:15,180",
+    "Transcript": "Terminator Hulk smash I"
+  },
+  {
+    "Start Timestamp": "23:15,180",
+    "End Timestamp": "23:18,340",
+    "Transcript": "Can't believe this fucking 80 you got me damn it. I"
+  },
+  {
+    "Start Timestamp": "23:18,340",
+    "End Timestamp": "23:23,920",
+    "Transcript": "Like oh you just nonchalantly pick it up. It picks up a car after he crashed into wall. He's having a good time"
+  },
+  {
+    "Start Timestamp": "23:23,920",
+    "End Timestamp": "23:30,600",
+    "Transcript": "I love now. He's the fucking home look at that shit background in the front where it looks like he's reaching into it"
+  },
+  {
+    "Start Timestamp": "23:30,600",
+    "End Timestamp": "23:32,520",
+    "Transcript": "Yeah, man. Oh, so awesome"
+  },
+  {
+    "Start Timestamp": "23:32,520",
+    "End Timestamp": "23:35,700",
+    "Transcript": "You can totally see from shit like this where Tom gets his inspiration"
+  },
+  {
+    "Start Timestamp": "23:35,700",
+    "End Timestamp": "23:40,120",
+    "Transcript": "Yes, Tom loves the foreground stuff. I think Tom said like he loved this fucking game"
+  },
+  {
+    "Start Timestamp": "23:40,280",
+    "End Timestamp": "23:43,440",
+    "Transcript": "This is a good game mom does talk about shinobi a lot. He's really"
+  },
+  {
+    "Start Timestamp": "23:43,440",
+    "End Timestamp": "23:50,300",
+    "Transcript": "Like some Marvel copyright put a little circle with a line through it Marvel"
+  },
+  {
+    "Start Timestamp": "23:50,300",
+    "End Timestamp": "23:55,120",
+    "Transcript": "Die idiot there you go look he's the Terminator"
+  },
+  {
+    "Start Timestamp": "23:55,120",
+    "End Timestamp": "24:01,360",
+    "Transcript": "Fuck yeah, dude"
+  },
+  {
+    "Start Timestamp": "24:01,360",
+    "End Timestamp": "24:05,760",
+    "Transcript": "Put in James camera to thumbs up. Oh"
+  },
+  {
+    "Start Timestamp": "24:05,760",
+    "End Timestamp": "24:08,600",
+    "Transcript": "This level sucks my dick"
+  },
+  {
+    "Start Timestamp": "24:08,600",
+    "End Timestamp": "24:10,600",
+    "Transcript": "I"
+  },
+  {
+    "Start Timestamp": "24:10,600",
+    "End Timestamp": "24:15,760",
+    "Transcript": "Know this one sucks to the want this one and the one after it sucks my day. Oh dude. I don't even know anymore"
+  },
+  {
+    "Start Timestamp": "24:15,760",
+    "End Timestamp": "24:18,220",
+    "Transcript": "I feel like I would have just seen a playthrough of it at this point"
+  },
+  {
+    "Start Timestamp": "24:18,220",
+    "End Timestamp": "24:21,040",
+    "Transcript": "You prick"
+  },
+  {
+    "Start Timestamp": "24:21,040",
+    "End Timestamp": "24:26,920",
+    "Transcript": "Got those veterans Chris look there's lasers shooting you from off screen. It's not fun"
+  },
+  {
+    "Start Timestamp": "24:26,920",
+    "End Timestamp": "24:35,760",
+    "Transcript": "Jesus dude, this is kind of ludicrous. No, this level is just actual shit. It's not fun"
+  },
+  {
+    "Start Timestamp": "24:35,760",
+    "End Timestamp": "24:38,960",
+    "Transcript": "It just doesn't even like the music is kind of like"
+  },
+  {
+    "Start Timestamp": "24:38,960",
+    "End Timestamp": "24:46,000",
+    "Transcript": "Ragtimey and it's like really off-putting. I mean, it's not bad. It's really off-putting. You're right. It makes me sick to my stomach"
+  },
+  {
+    "Start Timestamp": "24:46,000",
+    "End Timestamp": "24:48,200",
+    "Transcript": "Yeah, it kind of has a"
+  },
+  {
+    "Start Timestamp": "24:48,200",
+    "End Timestamp": "24:50,800",
+    "Transcript": "See"
+  },
+  {
+    "Start Timestamp": "24:50,800",
+    "End Timestamp": "24:57,400",
+    "Transcript": "Give me my pal. Oh, I'm gonna do this. That's a sonic sound effect. That is the sonic sound effect. You're right"
+  },
+  {
+    "Start Timestamp": "24:57,400",
+    "End Timestamp": "25:01,400",
+    "Transcript": "It's what he collected ring. I never actually noticed like some stupid and ugly. Uh-oh"
+  },
+  {
+    "Start Timestamp": "25:01,400",
+    "End Timestamp": "25:04,640",
+    "Transcript": "That's when it's tallying up your score at the end of the level, but it's only a fraction of it"
+  },
+  {
+    "Start Timestamp": "25:04,640",
+    "End Timestamp": "25:10,820",
+    "Transcript": "I thought it was a ring sound I have to hear it again. It's fucking bastard right here Chris pause the game again real quick"
+  },
+  {
+    "Start Timestamp": "25:10,820",
+    "End Timestamp": "25:13,720",
+    "Transcript": "When you can oh you're right you're right"
+  },
+  {
+    "Start Timestamp": "25:13,720",
+    "End Timestamp": "25:17,400",
+    "Transcript": "After that is like the cash sound yeah"
+  },
+  {
+    "Start Timestamp": "25:17,400",
+    "End Timestamp": "25:21,480",
+    "Transcript": "Oh, no, I wasted no"
+  },
+  {
+    "Start Timestamp": "25:21,480",
+    "End Timestamp": "25:27,520",
+    "Transcript": "Didn't mean to do that dude. You're flying through this shit. This is also this stuff reminds me of like fucking battle toads"
+  },
+  {
+    "Start Timestamp": "25:27,520",
+    "End Timestamp": "25:28,880",
+    "Transcript": "This is a nightmare"
+  },
+  {
+    "Start Timestamp": "25:28,880",
+    "End Timestamp": "25:32,920",
+    "Transcript": "Like this part. Oh, I hate these fuckers go to hell and die. There you go"
+  },
+  {
+    "Start Timestamp": "25:33,360",
+    "End Timestamp": "25:41,640",
+    "Transcript": "Yo, you chopped that mummy on his brain those guys suck so hard. I look like foot soldiers from fucking power Rangers. Thank you. I"
+  },
+  {
+    "Start Timestamp": "25:41,640",
+    "End Timestamp": "25:46,000",
+    "Transcript": "Can't believe that wasn't a bomb"
+  },
+  {
+    "Start Timestamp": "25:46,000",
+    "End Timestamp": "25:58,240",
+    "Transcript": "That's what the real shinobi's saying that's fucking Joe no sachi. Oh, yeah, that's right Joe my good friend Joe"
+  },
+  {
+    "Start Timestamp": "26:02,520",
+    "End Timestamp": "26:07,400",
+    "Transcript": "Now this level sucks. This is the worst fucking level. I hate it. There's a lot of nuns the go"
+  },
+  {
+    "Start Timestamp": "26:07,400",
+    "End Timestamp": "26:14,380",
+    "Transcript": "But these red cars can hit you and they hurt really bad"
+  },
+  {
+    "Start Timestamp": "26:14,380",
+    "End Timestamp": "26:19,680",
+    "Transcript": "I was originally gonna say as she walks, have her get struck by lightning and they catch on fire, but that's good too"
+  },
+  {
+    "Start Timestamp": "26:19,680",
+    "End Timestamp": "26:21,680",
+    "Transcript": "This level sucks because you're gonna"
+  },
+  {
+    "Start Timestamp": "26:21,680",
+    "End Timestamp": "26:28,640",
+    "Transcript": "Like instinctively do a double jump to get over a large pit, but it forces you into the background or foreground when you do that"
+  },
+  {
+    "Start Timestamp": "26:31,400",
+    "End Timestamp": "26:37,400",
+    "Transcript": "So also she when she turns into a hot like ninja girl you fuck killer she looks like that"
+  },
+  {
+    "Start Timestamp": "26:37,400",
+    "End Timestamp": "26:42,520",
+    "Transcript": "Rhonema one and a half. There's like a oh, yeah the ninja"
+  },
+  {
+    "Start Timestamp": "26:42,520",
+    "End Timestamp": "26:44,520",
+    "Transcript": "She's got a little like a from like a"
+  },
+  {
+    "Start Timestamp": "26:44,520",
+    "End Timestamp": "26:46,760",
+    "Transcript": "Marvel comics. Oh my god, dude. What is this?"
+  },
+  {
+    "Start Timestamp": "26:46,760",
+    "End Timestamp": "26:53,400",
+    "Transcript": "This level sucks and now I'm gonna get it. Dude you just turn on your lightning and run fuck this"
+  },
+  {
+    "Start Timestamp": "26:53,400",
+    "End Timestamp": "26:57,000",
+    "Transcript": "I don't have any the wrong little girl. I'm out of it lightning"
+  },
+  {
+    "Start Timestamp": "26:57,000",
+    "End Timestamp": "26:59,640",
+    "Transcript": "Dude this sucks"
+  },
+  {
+    "Start Timestamp": "27:00,600",
+    "End Timestamp": "27:06,120",
+    "Transcript": "Guess this is why we have a continue. It's true. Oh, I hate this guy back here"
+  },
+  {
+    "Start Timestamp": "27:06,120",
+    "End Timestamp": "27:12,260",
+    "Transcript": "I hate it. It kind of blows my mind how I couldn't get past the fucking night guy because you're just too hard and then now we're here"
+  },
+  {
+    "Start Timestamp": "27:12,260",
+    "End Timestamp": "27:16,020",
+    "Transcript": "This that yeah, it's just you gotta learn all the little tricks"
+  },
+  {
+    "Start Timestamp": "27:16,020",
+    "End Timestamp": "27:20,420",
+    "Transcript": "I would have died in the tower climbing part of the lasers as a kid and that shit was difficult"
+  },
+  {
+    "Start Timestamp": "27:20,420",
+    "End Timestamp": "27:27,880",
+    "Transcript": "Honestly, this game is so well like drawn and like composed. It's looking good. Yeah, I know it looks good even on a flat-screen TV"
+  },
+  {
+    "Start Timestamp": "27:27,880",
+    "End Timestamp": "27:33,880",
+    "Transcript": "Like this probably looked amazing on a series here. This background looks like a shot from fucking Gremlins 2 of how well it's fucking cleaning"
+  },
+  {
+    "Start Timestamp": "27:33,880",
+    "End Timestamp": "27:34,880",
+    "Transcript": "What are you doing?"
+  },
+  {
+    "Start Timestamp": "27:34,880",
+    "End Timestamp": "27:41,580",
+    "Transcript": "Beautiful like when they show the scale of like the thing are of all things to say you said Gremlins - what?"
+  },
+  {
+    "Start Timestamp": "27:41,580",
+    "End Timestamp": "27:41,580",
+    "Transcript": "Why?"
+  },
+  {
+    "Start Timestamp": "27:41,580",
+    "End Timestamp": "27:47,800",
+    "Transcript": "I can't remember I always Gremlins 3 there's Gremlins 3 I think so unless I'm"
+  },
+  {
+    "Start Timestamp": "27:47,800",
+    "End Timestamp": "27:50,920",
+    "Transcript": "likely I am but I feel like"
+  },
+  {
+    "Start Timestamp": "27:50,920",
+    "End Timestamp": "27:54,640",
+    "Transcript": "One of those movies I remember watching Gremlins 2"
+  },
+  {
+    "Start Timestamp": "27:55,880",
+    "End Timestamp": "28:01,460",
+    "Transcript": "When Amy came here and then I remember we were watching trailers. I think for Gremlins 3"
+  },
+  {
+    "Start Timestamp": "28:01,460",
+    "End Timestamp": "28:05,280",
+    "Transcript": "No, it wasn't Gremlins 3 it was"
+  },
+  {
+    "Start Timestamp": "28:05,280",
+    "End Timestamp": "28:10,640",
+    "Transcript": "Something 3 fuck what was it was it die hard 3? It's kind of different"
+  },
+  {
+    "Start Timestamp": "28:10,640",
+    "End Timestamp": "28:17,880",
+    "Transcript": "I know I'm trying to think like what the movie was because we were talking about old like 80s movies. Oh my god"
+  },
+  {
+    "Start Timestamp": "28:17,880",
+    "End Timestamp": "28:20,200",
+    "Transcript": "Die asshole. No"
+  },
+  {
+    "Start Timestamp": "28:20,200",
+    "End Timestamp": "28:23,000",
+    "Transcript": "Did you see that? Holy shit you killed them off screen?"
+  },
+  {
+    "Start Timestamp": "28:23,840",
+    "End Timestamp": "28:29,620",
+    "Transcript": "Come on car get over here wait. Can you imagine being the driver of the red car and all of a sudden like a ninja body crumples over your windshield?"
+  },
+  {
+    "Start Timestamp": "28:29,620",
+    "End Timestamp": "28:38,420",
+    "Transcript": "Can one of these fucking nuns just be a nun"
+  },
+  {
+    "Start Timestamp": "28:38,420",
+    "End Timestamp": "28:41,120",
+    "Transcript": "Yeah, I know why they are walking down the highway"
+  },
+  {
+    "Start Timestamp": "28:41,120",
+    "End Timestamp": "28:46,880",
+    "Transcript": "Yeah, it's kind of yeah, I'm the nuns are getting mowed down by red cars fuck this game. Yeah"
+  },
+  {
+    "Start Timestamp": "28:46,880",
+    "End Timestamp": "28:51,260",
+    "Transcript": "Fucking Christ dude. Yeah, it's an accident. She should be driving down for"
+  },
+  {
+    "Start Timestamp": "28:51,260",
+    "End Timestamp": "28:57,460",
+    "Transcript": "This is a silly boss fight. It's just you're fighting electricity for some reason"
+  },
+  {
+    "Start Timestamp": "28:57,460",
+    "End Timestamp": "29:03,940",
+    "Transcript": "You better not die by the electricity. It's got to keep doing that. That's peaches attack from Smash Brothers"
+  },
+  {
+    "Start Timestamp": "29:03,940",
+    "End Timestamp": "29:07,060",
+    "Transcript": "Yeah, you're fighting peaches at his peaches attack. Whoa"
+  },
+  {
+    "Start Timestamp": "29:07,060",
+    "End Timestamp": "29:14,940",
+    "Transcript": "Editor somehow superimposed peaches from the inside tuning lasers over here very specifically to the set of the lightning coming through"
+  },
+  {
+    "Start Timestamp": "29:15,980",
+    "End Timestamp": "29:22,980",
+    "Transcript": "Well, so what the fuck is this it? Yeah, you just got to keep going. Oh, it's multiple. It's like a missile silo silo"
+  },
+  {
+    "Start Timestamp": "29:22,980",
+    "End Timestamp": "29:24,980",
+    "Transcript": "Oh fuck no"
+  },
+  {
+    "Start Timestamp": "29:24,980",
+    "End Timestamp": "29:34,220",
+    "Transcript": "Oh, it's a big red orbit hurts some rock big red. Oh fuck. Dude. Sounds awesome. Goddamn it. What what is going on? There you go"
+  },
+  {
+    "Start Timestamp": "29:34,220",
+    "End Timestamp": "29:40,860",
+    "Transcript": "Look at that. So cool. That's epic that fucking light bulb will never see the next kid coming"
+  },
+  {
+    "Start Timestamp": "29:41,380",
+    "End Timestamp": "29:45,660",
+    "Transcript": "It's just like a time in the doge of the if you will find the red have hope"
+  },
+  {
+    "Start Timestamp": "29:45,660",
+    "End Timestamp": "29:49,240",
+    "Transcript": "Kick it's very hard multiple times. Fuck this level"
+  },
+  {
+    "Start Timestamp": "29:49,240",
+    "End Timestamp": "29:51,940",
+    "Transcript": "All right, that's kind of bullshit. Yeah"
+  },
+  {
+    "Start Timestamp": "29:51,940",
+    "End Timestamp": "29:54,740",
+    "Transcript": "Jump down kicking kick kick damn it"
+  },
+  {
+    "Start Timestamp": "29:54,740",
+    "End Timestamp": "29:57,980",
+    "Transcript": "It's just a really like the jumping boss fight"
+  },
+  {
+    "Start Timestamp": "29:57,980",
+    "End Timestamp": "30:04,020",
+    "Transcript": "I would love to see on live leak just like shinobi ninja gets electrocuted on highway"
+  },
+  {
+    "Start Timestamp": "30:04,020",
+    "End Timestamp": "30:08,260",
+    "Transcript": "That is the content they are missing"
+  },
+  {
+    "Start Timestamp": "30:08,740",
+    "End Timestamp": "30:13,220",
+    "Transcript": "Just Joshi no be turns completely white and explodes give it all over the place. Oh"
+  },
+  {
+    "Start Timestamp": "30:13,220",
+    "End Timestamp": "30:23,140",
+    "Transcript": "Love the sound effects - they're all perfect. Wait is this named Joshi no be what Joshi no be what's fucking murdered by"
+  },
+  {
+    "Start Timestamp": "30:23,140",
+    "End Timestamp": "30:27,180",
+    "Transcript": "In a what is this an electric silo? I have no idea what the fuck we're on right now"
+  },
+  {
+    "Start Timestamp": "30:27,180",
+    "End Timestamp": "30:32,500",
+    "Transcript": "It looks like a rocket it looks like Zeed is trying to fire missiles of people yeah, Nio Zeed needs to eat a dick"
+  },
+  {
+    "Start Timestamp": "30:34,020",
+    "End Timestamp": "30:36,740",
+    "Transcript": "There you go, holy fuck dude. You're totally out of like"
+  },
+  {
+    "Start Timestamp": "30:36,740",
+    "End Timestamp": "30:42,300",
+    "Transcript": "Also, you just got like nicked by something that you shouldn't have like the lightning thing hit you after you after you"
+  },
+  {
+    "Start Timestamp": "30:42,300",
+    "End Timestamp": "30:45,180",
+    "Transcript": "After I beat it. Yeah, there's there's a lot of bullshit moments"
+  },
+  {
+    "Start Timestamp": "30:45,180",
+    "End Timestamp": "30:48,020",
+    "Transcript": "But if you learn what they are then it's kind of fun to avoid them"
+  },
+  {
+    "Start Timestamp": "30:48,020",
+    "End Timestamp": "30:53,300",
+    "Transcript": "I was just I'm making a lot of excuses for my nice time place. Yeah, this is everyone's favorite song"
+  },
+  {
+    "Start Timestamp": "30:53,300",
+    "End Timestamp": "30:59,220",
+    "Transcript": "I mean, it's pleasant. It's a good song, but I still think the other music better. Yeah, I think I immediately agree"
+  },
+  {
+    "Start Timestamp": "30:59,220",
+    "End Timestamp": "31:02,780",
+    "Transcript": "Also, I still really can't get over the fucking"
+  },
+  {
+    "Start Timestamp": "31:03,220",
+    "End Timestamp": "31:05,700",
+    "Transcript": "Joe Musashi, whatever the fuck his name is. Why?"
+  },
+  {
+    "Start Timestamp": "31:05,700",
+    "End Timestamp": "31:10,700",
+    "Transcript": "It's so weird. I don't know. It's like it's an American name. It's like the fucking thing. It's like"
+  },
+  {
+    "Start Timestamp": "31:10,700",
+    "End Timestamp": "31:13,420",
+    "Transcript": "Isn't it based on a famous movie?"
+  },
+  {
+    "Start Timestamp": "31:13,420",
+    "End Timestamp": "31:19,540",
+    "Transcript": "This fucking guy here. This guy this song sounds like a fucking remix of we are Siamese if you please"
+  },
+  {
+    "Start Timestamp": "31:19,540",
+    "End Timestamp": "31:23,780",
+    "Transcript": "You know to me it just feels like every cliche China song ever"
+  },
+  {
+    "Start Timestamp": "31:23,780",
+    "End Timestamp": "31:31,360",
+    "Transcript": "There's a bunch of bastards down here. There you go. You're killing every single Jackie Chan existence"
+  },
+  {
+    "Start Timestamp": "31:31,700",
+    "End Timestamp": "31:33,700",
+    "Transcript": "It's clearly Bruce Lee, but okay"
+  },
+  {
+    "Start Timestamp": "31:33,700",
+    "End Timestamp": "31:47,860",
+    "Transcript": "Put in the pickup sound from Streets of Rage when you eat like a ham"
+  },
+  {
+    "Start Timestamp": "31:47,860",
+    "End Timestamp": "31:54,060",
+    "Transcript": "I like being a man in the suit"
+  },
+  {
+    "Start Timestamp": "31:54,060",
+    "End Timestamp": "31:59,100",
+    "Transcript": "I would say later on whenever you actually use a power up"
+  },
+  {
+    "Start Timestamp": "31:59,100",
+    "End Timestamp": "32:02,540",
+    "Transcript": "You should have her pop up again, and then just have Joe masha she come himself"
+  },
+  {
+    "Start Timestamp": "32:02,540",
+    "End Timestamp": "32:06,020",
+    "Transcript": "Look at this phrase. It's just it's just unfair to the poor woman"
+  },
+  {
+    "Start Timestamp": "32:06,020",
+    "End Timestamp": "32:09,300",
+    "Transcript": "She's just covering up her breasts after you knocked off her breastplate"
+  },
+  {
+    "Start Timestamp": "32:09,300",
+    "End Timestamp": "32:16,060",
+    "Transcript": "These guys suck Joe we saw she would have done that caracawa. There you go. What an idiot. He has like fucking"
+  },
+  {
+    "Start Timestamp": "32:16,060",
+    "End Timestamp": "32:21,460",
+    "Transcript": "I numb chucks and he's like shooting them down where your feet are yeah"
+  },
+  {
+    "Start Timestamp": "32:21,460",
+    "End Timestamp": "32:27,200",
+    "Transcript": "Moron kind of an idiot Corey you're on the development team for shinobi - what do you name the next ninja?"
+  },
+  {
+    "Start Timestamp": "32:27,200",
+    "End Timestamp": "32:30,540",
+    "Transcript": "Oh, Charles John."
+  },
+  {
+    "Start Timestamp": "32:30,540",
+    "End Timestamp": "32:31,540",
+    "Transcript": "Misha."
+  },
+  {
+    "Start Timestamp": "32:31,540",
+    "End Timestamp": "32:32,540",
+    "Transcript": "Perfect."
+  },
+  {
+    "Start Timestamp": "32:32,540",
+    "End Timestamp": "32:35,340",
+    "Transcript": "He's the next one."
+  },
+  {
+    "Start Timestamp": "32:35,340",
+    "End Timestamp": "32:40,700",
+    "Transcript": "Josh, Joe Misashi with his father, Charles John Misashi was the one when he married a"
+  },
+  {
+    "Start Timestamp": "32:40,700",
+    "End Timestamp": "32:41,700",
+    "Transcript": "dam."
+  },
+  {
+    "Start Timestamp": "32:41,700",
+    "End Timestamp": "32:42,700",
+    "Transcript": "You get down here."
+  },
+  {
+    "Start Timestamp": "32:42,700",
+    "End Timestamp": "32:43,700",
+    "Transcript": "This guy knows exactly."
+  },
+  {
+    "Start Timestamp": "32:43,700",
+    "End Timestamp": "32:44,700",
+    "Transcript": "Actually, I make a girl."
+  },
+  {
+    "Start Timestamp": "32:44,700",
+    "End Timestamp": "32:46,940",
+    "Transcript": "You'd make a girl with her name be."
+  },
+  {
+    "Start Timestamp": "32:46,940",
+    "End Timestamp": "32:50,100",
+    "Transcript": "Like I said, be Charlotte Joe Misashi."
+  },
+  {
+    "Start Timestamp": "32:50,100",
+    "End Timestamp": "32:52,700",
+    "Transcript": "Oh my God, you have no fucking Shurkins."
+  },
+  {
+    "Start Timestamp": "32:52,700",
+    "End Timestamp": "32:53,700",
+    "Transcript": "Oh shit."
+  },
+  {
+    "Start Timestamp": "32:53,700",
+    "End Timestamp": "32:54,700",
+    "Transcript": "How did that happen?"
+  },
+  {
+    "Start Timestamp": "32:54,700",
+    "End Timestamp": "32:55,700",
+    "Transcript": "Damn it sucks."
+  },
+  {
+    "Start Timestamp": "32:55,700",
+    "End Timestamp": "32:58,700",
+    "Transcript": "Perfect I don't mind those kinds of jumps well least these dickheads"
+  },
+  {
+    "Start Timestamp": "32:58,700",
+    "End Timestamp": "33:03,440",
+    "Transcript": "Spin it for a little bit there you go. I got 20 now. I'm just gonna probably say"
+  },
+  {
+    "Start Timestamp": "33:03,440",
+    "End Timestamp": "33:11,080",
+    "Transcript": "You can at least do that. Oh that hurt dick. Oh that also hurt"
+  },
+  {
+    "Start Timestamp": "33:11,080",
+    "End Timestamp": "33:17,780",
+    "Transcript": "I like my outfit my pal her little like pink Chinese outfit really cute"
+  },
+  {
+    "Start Timestamp": "33:17,780",
+    "End Timestamp": "33:21,260",
+    "Transcript": "I'm just gonna avoid all these fucking idiots"
+  },
+  {
+    "Start Timestamp": "33:21,820",
+    "End Timestamp": "33:25,940",
+    "Transcript": "I'll be honest this level is kind of boring. Yeah, this is like my least favorite"
+  },
+  {
+    "Start Timestamp": "33:25,940",
+    "End Timestamp": "33:31,040",
+    "Transcript": "There's like no fuck the guy in the purple shirt is the guy from dragon ball. Yeah except for the girl"
+  },
+  {
+    "Start Timestamp": "33:31,040",
+    "End Timestamp": "33:33,820",
+    "Transcript": "Oh, yeah, you're right general town mercenary tally. There you go"
+  },
+  {
+    "Start Timestamp": "33:33,820",
+    "End Timestamp": "33:38,660",
+    "Transcript": "Except for the girl who like covers up her breasts because you keep knocking off her bra. Yeah, that's all"
+  },
+  {
+    "Start Timestamp": "33:38,660",
+    "End Timestamp": "33:42,180",
+    "Transcript": "That's probably the best part of the city backdrops good to also. Yeah, it looks nice. Oh"
+  },
+  {
+    "Start Timestamp": "33:42,180",
+    "End Timestamp": "33:46,700",
+    "Transcript": "Oh no, it's one of these levels. No, I'm saying"
+  },
+  {
+    "Start Timestamp": "33:47,140",
+    "End Timestamp": "33:47,980",
+    "Transcript": "Gotta do that."
+  },
+  {
+    "Start Timestamp": "33:47,980",
+    "End Timestamp": "33:49,860",
+    "Transcript": "- I like the fucking people in that."
+  },
+  {
+    "Start Timestamp": "33:49,860",
+    "End Timestamp": "33:53,660",
+    "Transcript": "They look like the least Chinese people."
+  },
+  {
+    "Start Timestamp": "33:53,660",
+    "End Timestamp": "33:55,140",
+    "Transcript": "Unless this is supposed to be like,"
+  },
+  {
+    "Start Timestamp": "33:55,140",
+    "End Timestamp": "33:57,460",
+    "Transcript": "like would be like downtown Philly's Chinese district."
+  },
+  {
+    "Start Timestamp": "33:57,460",
+    "End Timestamp": "33:59,820",
+    "Transcript": "- This is septa, that's the septa colors."
+  },
+  {
+    "Start Timestamp": "33:59,820",
+    "End Timestamp": "34:00,660",
+    "Transcript": "- Oh yeah, right."
+  },
+  {
+    "Start Timestamp": "34:00,660",
+    "End Timestamp": "34:01,780",
+    "Transcript": "- This is like Philly."
+  },
+  {
+    "Start Timestamp": "34:01,780",
+    "End Timestamp": "34:03,700",
+    "Transcript": "- This is right behind the new ground's office."
+  },
+  {
+    "Start Timestamp": "34:03,700",
+    "End Timestamp": "34:05,380",
+    "Transcript": "- Yeah, we're gonna go into shrubbery."
+  },
+  {
+    "Start Timestamp": "34:05,380",
+    "End Timestamp": "34:07,660",
+    "Transcript": "And then you have to fight a giant spider."
+  },
+  {
+    "Start Timestamp": "34:07,660",
+    "End Timestamp": "34:09,100",
+    "Transcript": "- Giant spider."
+  },
+  {
+    "Start Timestamp": "34:09,100",
+    "End Timestamp": "34:10,500",
+    "Transcript": "- Oops, I got hit by a girder."
+  },
+  {
+    "Start Timestamp": "34:10,500",
+    "End Timestamp": "34:12,100",
+    "Transcript": "- Watch out for that eye."
+  },
+  {
+    "Start Timestamp": "34:12,100",
+    "End Timestamp": "34:13,380",
+    "Transcript": "- Can I, ooh."
+  },
+  {
+    "Start Timestamp": "34:13,380",
+    "End Timestamp": "34:15,100",
+    "Transcript": "- Oh yeah, the girder, they don't even have any lights"
+  },
+  {
+    "Start Timestamp": "34:15,100",
+    "End Timestamp": "34:16,860",
+    "Transcript": "on the girder, it just shows up."
+  },
+  {
+    "Start Timestamp": "34:16,860",
+    "End Timestamp": "34:17,360",
+    "Transcript": "*gasp*"
+  },
+  {
+    "Start Timestamp": "34:17,360",
+    "End Timestamp": "34:23,260",
+    "Transcript": "Yeah, there's no warning off screen. I mean, they do give you ample space to react to it."
+  },
+  {
+    "Start Timestamp": "34:23,260",
+    "End Timestamp": "34:29,460",
+    "Transcript": "I love this fucking song. This is a song I've put on all the time when I was listening to like random Sega Genesis songs."
+  },
+  {
+    "Start Timestamp": "34:29,460",
+    "End Timestamp": "34:29,960",
+    "Transcript": "Really?"
+  },
+  {
+    "Start Timestamp": "34:29,960",
+    "End Timestamp": "34:30,860",
+    "Transcript": "Yeah, this rocks."
+  },
+  {
+    "Start Timestamp": "34:30,860",
+    "End Timestamp": "34:35,060",
+    "Transcript": "Just looks like- it's like really just like crazy twing, like rocking on a fucking bass and guitar."
+  },
+  {
+    "Start Timestamp": "34:35,060",
+    "End Timestamp": "34:40,060",
+    "Transcript": "There's something very pleasant about all of the fuck I missed that- about all of the Sega since..."
+  },
+  {
+    "Start Timestamp": "34:40,060",
+    "End Timestamp": "34:41,360",
+    "Transcript": "Oh fuck."
+  },
+  {
+    "Start Timestamp": "34:41,360",
+    "End Timestamp": "34:42,360",
+    "Transcript": "They just sound juicy."
+  },
+  {
+    "Start Timestamp": "34:42,360",
+    "End Timestamp": "34:45,260",
+    "Transcript": "They sound good. They sound like you want to play a game with that kind of twing."
+  },
+  {
+    "Start Timestamp": "34:45,260",
+    "End Timestamp": "34:47,580",
+    "Transcript": "Sega Soundfaunts are really nice."
+  },
+  {
+    "Start Timestamp": "34:47,580",
+    "End Timestamp": "34:50,220",
+    "Transcript": "Honestly, every console's unique soundfaunts sound really good."
+  },
+  {
+    "Start Timestamp": "34:50,220",
+    "End Timestamp": "34:51,220",
+    "Transcript": "I kind of miss--"
+  },
+  {
+    "Start Timestamp": "34:51,220",
+    "End Timestamp": "34:52,580",
+    "Transcript": "- That breakdown is really nice."
+  },
+  {
+    "Start Timestamp": "34:52,580",
+    "End Timestamp": "34:53,420",
+    "Transcript": "- Yeah."
+  },
+  {
+    "Start Timestamp": "34:53,420",
+    "End Timestamp": "34:55,580",
+    "Transcript": "- I kind of miss consoles having specific soundfaunts."
+  },
+  {
+    "Start Timestamp": "34:55,580",
+    "End Timestamp": "34:57,180",
+    "Transcript": "I know we live in the future, but it was like--"
+  },
+  {
+    "Start Timestamp": "34:57,180",
+    "End Timestamp": "35:00,780",
+    "Transcript": "- Yeah, where things are like now, Chris showed"
+  },
+  {
+    "Start Timestamp": "35:00,780",
+    "End Timestamp": "35:03,420",
+    "Transcript": "this new ray tracing stuff, which makes things"
+  },
+  {
+    "Start Timestamp": "35:03,420",
+    "End Timestamp": "35:04,780",
+    "Transcript": "literally look real."
+  },
+  {
+    "Start Timestamp": "35:04,780",
+    "End Timestamp": "35:06,780",
+    "Transcript": "So we've come to that point now where"
+  },
+  {
+    "Start Timestamp": "35:06,780",
+    "End Timestamp": "35:09,660",
+    "Transcript": "VR and real stuff is like, we're getting there."
+  },
+  {
+    "Start Timestamp": "35:09,660",
+    "End Timestamp": "35:10,660",
+    "Transcript": "- Yeah."
+  },
+  {
+    "Start Timestamp": "35:10,660",
+    "End Timestamp": "35:14,620",
+    "Transcript": "- I would love a remake of this game with modern graphics."
+  },
+  {
+    "Start Timestamp": "35:14,620",
+    "End Timestamp": "35:17,080",
+    "Transcript": "I just don't want it to be like a cell phone game like some-"
+  },
+  {
+    "Start Timestamp": "35:17,080",
+    "End Timestamp": "35:18,440",
+    "Transcript": "Oh, FUCK!"
+  },
+  {
+    "Start Timestamp": "35:18,440",
+    "End Timestamp": "35:19,880",
+    "Transcript": "I thought I made that."
+  },
+  {
+    "Start Timestamp": "35:19,880",
+    "End Timestamp": "35:20,540",
+    "Transcript": "You got a life."
+  },
+  {
+    "Start Timestamp": "35:20,540",
+    "End Timestamp": "35:22,380",
+    "Transcript": "I would want all the animations to play the same."
+  },
+  {
+    "Start Timestamp": "35:22,380",
+    "End Timestamp": "35:24,220",
+    "Transcript": "I just want them to be real pictures of people."
+  },
+  {
+    "Start Timestamp": "35:24,220",
+    "End Timestamp": "35:25,120",
+    "Transcript": "*laughs*"
+  },
+  {
+    "Start Timestamp": "35:25,120",
+    "End Timestamp": "35:26,620",
+    "Transcript": "Oh god, that starts you right there."
+  },
+  {
+    "Start Timestamp": "35:26,620",
+    "End Timestamp": "35:28,520",
+    "Transcript": "No, yeah, I would hopefully-"
+  },
+  {
+    "Start Timestamp": "35:28,520",
+    "End Timestamp": "35:32,360",
+    "Transcript": "I would hope that they would keep everything about the gameplay exactly the same,"
+  },
+  {
+    "Start Timestamp": "35:32,360",
+    "End Timestamp": "35:34,560",
+    "Transcript": "except for bullshit moments that aren't fair."
+  },
+  {
+    "Start Timestamp": "35:34,560",
+    "End Timestamp": "35:38,200",
+    "Transcript": "They re-released Rocket Knight Adventures on Xbox 360."
+  },
+  {
+    "Start Timestamp": "35:38,200",
+    "End Timestamp": "35:40,760",
+    "Transcript": "It was like a remake, and I hated it."
+  },
+  {
+    "Start Timestamp": "35:40,760",
+    "End Timestamp": "35:41,760",
+    "Transcript": "I did not like it."
+  },
+  {
+    "Start Timestamp": "35:41,760",
+    "End Timestamp": "35:43,860",
+    "Transcript": "It's like cell phone graphics, looking crap,"
+  },
+  {
+    "Start Timestamp": "35:43,860",
+    "End Timestamp": "35:47,480",
+    "Transcript": "It just it wasn't the same that's like games doing remit itself"
+  },
+  {
+    "Start Timestamp": "35:47,480",
+    "End Timestamp": "35:52,000",
+    "Transcript": "It's fucking remakes everyone at Square Enix fucking for making those shitty"
+  },
+  {
+    "Start Timestamp": "35:52,000",
+    "End Timestamp": "35:58,100",
+    "Transcript": "Ports of like the final fantasy and Dragon Quest games with the worst fucking sprites imaginable. Oh my god"
+  },
+  {
+    "Start Timestamp": "35:58,100",
+    "End Timestamp": "36:03,960",
+    "Transcript": "They're not even sprites right aren't they just like shitty 3d models. I can't even honestly tell it's just the worst crap alive"
+  },
+  {
+    "Start Timestamp": "36:03,960",
+    "End Timestamp": "36:12,400",
+    "Transcript": "Square Enix re-released is like their classic RPGs on phones, but they like the beautiful graphics that people slaved over"
+  },
+  {
+    "Start Timestamp": "36:12,400",
+    "End Timestamp": "36:18,760",
+    "Transcript": "They just make them ugly is absolutely yeah, they always like they just do weird filters and shit you want to hear something interesting"
+  },
+  {
+    "Start Timestamp": "36:18,760",
+    "End Timestamp": "36:19,260",
+    "Transcript": "Huh?"
+  },
+  {
+    "Start Timestamp": "36:19,260",
+    "End Timestamp": "36:27,220",
+    "Transcript": "The kid in the Shirley qualifies as one of the strangest of all animals because while it's a mammal it lays eggs in the manner of a reptor"
+  },
+  {
+    "Start Timestamp": "36:27,220",
+    "End Timestamp": "36:29,800",
+    "Transcript": "(upbeat music)"
+  },
+  {
+    "Start Timestamp": "36:29,800",
+    "End Timestamp": "36:32,380",
+    "Transcript": "(upbeat music)"
+  },
+  {
+    "Start Timestamp": "36:32,380",
+    "End Timestamp": "36:34,960",
+    "Transcript": "(upbeat music)"
+  },
+  {
+    "Start Timestamp": "36:34,960",
+    "End Timestamp": "36:37,540",
+    "Transcript": "(upbeat music)"
+  },
+  {
+    "Start Timestamp": "36:37,540",
+    "End Timestamp": "36:40,120",
+    "Transcript": "(upbeat music)"
+  },
+  {
+    "Start Timestamp": "36:40,120",
+    "End Timestamp": "36:42,700",
+    "Transcript": "(upbeat music)"
+  },
+  {
+    "Start Timestamp": "36:42,700",
+    "End Timestamp": "36:45,280",
+    "Transcript": "(upbeat music)"
+  },
+  {
+    "Start Timestamp": "36:45,280",
+    "End Timestamp": "36:47,860",
+    "Transcript": "(upbeat music)"
+  }
+]
+}

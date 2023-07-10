@@ -1,0 +1,1029 @@
+{ "Data":
+[
+  {
+    "Start Timestamp": "00:00,000",
+    "End Timestamp": "00:04,960",
+    "Transcript": "*Intense Music*"
+  },
+  {
+    "Start Timestamp": "00:04,960",
+    "End Timestamp": "00:06,480",
+    "Transcript": "*Ding*"
+  },
+  {
+    "Start Timestamp": "00:06,480",
+    "End Timestamp": "00:08,320",
+    "Transcript": "\"Only plays!\""
+  },
+  {
+    "Start Timestamp": "00:08,320",
+    "End Timestamp": "00:09,200",
+    "Transcript": "*Squeak*"
+  },
+  {
+    "Start Timestamp": "00:09,200",
+    "End Timestamp": "00:10,200",
+    "Transcript": "With Fred!"
+  },
+  {
+    "Start Timestamp": "00:10,200",
+    "End Timestamp": "00:16,720",
+    "Transcript": "I remember even tournament rules that would say you cannot use any freeze moves that's banned from tournament."
+  },
+  {
+    "Start Timestamp": "00:16,720",
+    "End Timestamp": "00:19,040",
+    "Transcript": "Really? Yes. You just couldn't have like ice beam."
+  },
+  {
+    "Start Timestamp": "00:19,040",
+    "End Timestamp": "00:22,320",
+    "Transcript": "Yeah, Nintendo even had an official tournament instead you can't have freezing."
+  },
+  {
+    "Start Timestamp": "00:22,320",
+    "End Timestamp": "00:25,680",
+    "Transcript": "So they just weren't thinking when they set it up."
+  },
+  {
+    "Start Timestamp": "00:25,680",
+    "End Timestamp": "00:29,280",
+    "Transcript": "A lot of the shit in this game just doesn't work. There's a really good"
+  },
+  {
+    "Start Timestamp": "00:29,280",
+    "End Timestamp": "00:36,440",
+    "Transcript": "infographic on it just listing everything that doesn't work in this game because a lot of moves are supposed to do things and"
+  },
+  {
+    "Start Timestamp": "00:36,440",
+    "End Timestamp": "00:40,820",
+    "Transcript": "Then because of the programming they don't do what they're supposed to do. Can we look at the infographic?"
+  },
+  {
+    "Start Timestamp": "00:40,820",
+    "End Timestamp": "00:47,160",
+    "Transcript": "Yeah, let me look this up first. Okay, but one of the things is there's a move that's supposed to increase your accuracy"
+  },
+  {
+    "Start Timestamp": "00:47,160",
+    "End Timestamp": "00:53,800",
+    "Transcript": "But when you yeah decreases it divides it by 255 so you're never going to hit attack ever again"
+  },
+  {
+    "Start Timestamp": "00:53,800",
+    "End Timestamp": "00:56,580",
+    "Transcript": "What the fuck?"
+  },
+  {
+    "Start Timestamp": "00:56,580",
+    "End Timestamp": "01:01,140",
+    "Transcript": "So there's love just fucked up. Yeah, they fucked up that they just didn't"
+  },
+  {
+    "Start Timestamp": "01:01,140",
+    "End Timestamp": "01:06,340",
+    "Transcript": "Put it in right. So something that's supposed to help you completely flex you. Yes. Wow and"
+  },
+  {
+    "Start Timestamp": "01:06,340",
+    "End Timestamp": "01:13,620",
+    "Transcript": "You wouldn't be aware of it in any way unless you do like that's how it was coated. That's pretty epic"
+  },
+  {
+    "Start Timestamp": "01:13,620",
+    "End Timestamp": "01:21,100",
+    "Transcript": "Oh my god, you're getting killed by vault orb by leveling up here. We go. He was little yes his leech seat level seven"
+  },
+  {
+    "Start Timestamp": "01:21,940",
+    "End Timestamp": "01:28,820",
+    "Transcript": "Yeah, it just means that it skipped over it has have you leveled them up again since yeah, that's because he learned"
+  },
+  {
+    "Start Timestamp": "01:28,820",
+    "End Timestamp": "01:31,060",
+    "Transcript": "vine web"
+  },
+  {
+    "Start Timestamp": "01:31,060",
+    "End Timestamp": "01:37,380",
+    "Transcript": "Why would it fucking skip it does so we seriously can't get that move anymore because I guess look up if it's um"
+  },
+  {
+    "Start Timestamp": "01:37,380",
+    "End Timestamp": "01:41,220",
+    "Transcript": "If it's a TM, but I don't think it is better be and if it's a TM"
+  },
+  {
+    "Start Timestamp": "01:41,220",
+    "End Timestamp": "01:44,620",
+    "Transcript": "We could probably just teach it to something that's more interesting like wild plume anyway"
+  },
+  {
+    "Start Timestamp": "01:44,620",
+    "End Timestamp": "01:47,100",
+    "Transcript": "That's true, too. We could just do it through someone else. Oh"
+  },
+  {
+    "Start Timestamp": "01:47,820",
+    "End Timestamp": "01:52,520",
+    "Transcript": "That yeah, actually that's a good point. There's plenty of other Pokemon that have leech seed like your mom"
+  },
+  {
+    "Start Timestamp": "01:52,520",
+    "End Timestamp": "01:55,700",
+    "Transcript": "She leeches on my seed"
+  },
+  {
+    "Start Timestamp": "01:55,700",
+    "End Timestamp": "01:59,320",
+    "Transcript": "That was good Chris. That was a real joke"
+  },
+  {
+    "Start Timestamp": "01:59,320",
+    "End Timestamp": "02:01,460",
+    "Transcript": "she"
+  },
+  {
+    "Start Timestamp": "02:01,460",
+    "End Timestamp": "02:02,860",
+    "Transcript": "She's dead"
+  },
+  {
+    "Start Timestamp": "02:02,860",
+    "End Timestamp": "02:08,380",
+    "Transcript": "Here it is if the effective leech seed is also under the effect of toxic leech seed damage will increase"
+  },
+  {
+    "Start Timestamp": "02:08,380",
+    "End Timestamp": "02:14,660",
+    "Transcript": "Every turn as the end value of toxic increases because leech seed and toxic both use the same damage algorithm"
+  },
+  {
+    "Start Timestamp": "02:15,660",
+    "End Timestamp": "02:17,660",
+    "Transcript": "Oh, I like a rhythm you mister"
+  },
+  {
+    "Start Timestamp": "02:17,660",
+    "End Timestamp": "02:19,480",
+    "Transcript": "Milster"
+  },
+  {
+    "Start Timestamp": "02:19,480",
+    "End Timestamp": "02:20,980",
+    "Transcript": "Mr. Mr"
+  },
+  {
+    "Start Timestamp": "02:20,980",
+    "End Timestamp": "02:24,460",
+    "Transcript": "You know that that's from Julian. What's that from a little happy go more?"
+  },
+  {
+    "Start Timestamp": "02:24,460",
+    "End Timestamp": "02:27,340",
+    "Transcript": "Never saw it. What if you're so happy?"
+  },
+  {
+    "Start Timestamp": "02:27,340",
+    "End Timestamp": "02:32,100",
+    "Transcript": "Mr. Mr. Really annoyed just went yes"
+  },
+  {
+    "Start Timestamp": "02:32,100",
+    "End Timestamp": "02:35,340",
+    "Transcript": "You know it's been a real piece. Yeah, we're gonna have to get it through a"
+  },
+  {
+    "Start Timestamp": "02:35,340",
+    "End Timestamp": "02:38,420",
+    "Transcript": "Vile plume. I mean does Valplume learn leech see"
+  },
+  {
+    "Start Timestamp": "02:38,420",
+    "End Timestamp": "02:40,400",
+    "Transcript": "Probably I'm pretty well"
+  },
+  {
+    "Start Timestamp": "02:40,400",
+    "End Timestamp": "02:46,660",
+    "Transcript": "I'm not sure if it does you better I think if if he doesn't then probably we can get it through victory Bell"
+  },
+  {
+    "Start Timestamp": "02:46,660",
+    "End Timestamp": "02:51,140",
+    "Transcript": "Who's vial plume again?"
+  },
+  {
+    "Start Timestamp": "02:51,140",
+    "End Timestamp": "02:56,680",
+    "Transcript": "He's the the the raffa-lesia someone else for sure he gets toxic"
+  },
+  {
+    "Start Timestamp": "02:56,680",
+    "End Timestamp": "02:59,340",
+    "Transcript": "Fuck is a raffa-lesia. It's the corpse flower"
+  },
+  {
+    "Start Timestamp": "02:59,340",
+    "End Timestamp": "03:03,880",
+    "Transcript": "It smells like it smells like rotting meat or that you look down and you see his little tummy. Yeah"
+  },
+  {
+    "Start Timestamp": "03:03,880",
+    "End Timestamp": "03:07,560",
+    "Transcript": "No, leech seed. Oh"
+  },
+  {
+    "Start Timestamp": "03:07,560",
+    "End Timestamp": "03:12,800",
+    "Transcript": "Who do you get leech seed through just look at look up leech seed and it'll have a list of Pokemon that do it"
+  },
+  {
+    "Start Timestamp": "03:12,800",
+    "End Timestamp": "03:17,320",
+    "Transcript": "That really fucking I didn't know that happens. I make me neither"
+  },
+  {
+    "Start Timestamp": "03:17,320",
+    "End Timestamp": "03:21,380",
+    "Transcript": "It doesn't make sense. Yes, it does because of how program this game is program"
+  },
+  {
+    "Start Timestamp": "03:21,380",
+    "End Timestamp": "03:24,260",
+    "Transcript": "Well, yeah, please sense to me that they didn't even think about that"
+  },
+  {
+    "Start Timestamp": "03:24,260",
+    "End Timestamp": "03:25,920",
+    "Transcript": "I"
+  },
+  {
+    "Start Timestamp": "03:25,920",
+    "End Timestamp": "03:27,720",
+    "Transcript": "Want you would hope is like okay"
+  },
+  {
+    "Start Timestamp": "03:27,720",
+    "End Timestamp": "03:33,280",
+    "Transcript": "Well, if I level up again the game will recognize that I did and I'll give me the move I miss but I don't think it does"
+  },
+  {
+    "Start Timestamp": "03:34,360",
+    "End Timestamp": "03:37,800",
+    "Transcript": "Has you done that haven't you yeah, he's leveled up a bunch of times"
+  },
+  {
+    "Start Timestamp": "03:37,800",
+    "End Timestamp": "03:40,360",
+    "Transcript": "Fucking crazy"
+  },
+  {
+    "Start Timestamp": "03:40,360",
+    "End Timestamp": "03:42,760",
+    "Transcript": "That's too bad. So both of us are fucked now"
+  },
+  {
+    "Start Timestamp": "03:42,760",
+    "End Timestamp": "03:46,860",
+    "Transcript": "You playing the song Chris. Yeah with the can check it out"
+  },
+  {
+    "Start Timestamp": "03:46,860",
+    "End Timestamp": "03:52,320",
+    "Transcript": "Yeah, oh"
+  },
+  {
+    "Start Timestamp": "03:52,320",
+    "End Timestamp": "03:56,720",
+    "Transcript": "I'm cut him at finger"
+  },
+  {
+    "Start Timestamp": "03:56,720",
+    "End Timestamp": "03:59,840",
+    "Transcript": "This hurt"
+  },
+  {
+    "Start Timestamp": "04:02,080",
+    "End Timestamp": "04:04,080",
+    "Transcript": "Whoa, that's bad"
+  },
+  {
+    "Start Timestamp": "04:04,080",
+    "End Timestamp": "04:06,840",
+    "Transcript": "What?"
+  },
+  {
+    "Start Timestamp": "04:06,840",
+    "End Timestamp": "04:13,580",
+    "Transcript": "Bulbasaur execute. Oh, no, I like exactly. Oh, no. No, he's great. Just the problem is we won't get to it"
+  },
+  {
+    "Start Timestamp": "04:13,580",
+    "End Timestamp": "04:16,800",
+    "Transcript": "Sorry Chris. We're not gonna get to it until we get to the safari zone"
+  },
+  {
+    "Start Timestamp": "04:16,800",
+    "End Timestamp": "04:20,320",
+    "Transcript": "We're not gonna get him for a while, but then the other thing is that's it"
+  },
+  {
+    "Start Timestamp": "04:20,320",
+    "End Timestamp": "04:26,640",
+    "Transcript": "Two Pokemon this generation it'll still work and execute execute's good cuz he's no psychic"
+  },
+  {
+    "Start Timestamp": "04:26,640",
+    "End Timestamp": "04:31,360",
+    "Transcript": "Executor is actually really execute part psychic. Yeah. Yeah, but he's a stupid tree"
+  },
+  {
+    "Start Timestamp": "04:31,360",
+    "End Timestamp": "04:38,000",
+    "Transcript": "That's right. Oh, he's actually I can't wait to come back after Thanksgiving because my Pokemon is gonna be waiting for me"
+  },
+  {
+    "Start Timestamp": "04:38,000",
+    "End Timestamp": "04:40,000",
+    "Transcript": "And I can play it"
+  },
+  {
+    "Start Timestamp": "04:40,000",
+    "End Timestamp": "04:43,160",
+    "Transcript": "Pokemon fucking lame. I can't believe that I"
+  },
+  {
+    "Start Timestamp": "04:43,160",
+    "End Timestamp": "04:46,520",
+    "Transcript": "Get to have my long neck"
+  },
+  {
+    "Start Timestamp": "04:46,520",
+    "End Timestamp": "04:53,480",
+    "Transcript": "Oh, you got the new one. Yeah, Julian you're lame dude. I am I'm a little cripple"
+  },
+  {
+    "Start Timestamp": "04:53,480",
+    "End Timestamp": "04:56,280",
+    "Transcript": "No, you're not"
+  },
+  {
+    "Start Timestamp": "04:56,280",
+    "End Timestamp": "05:00,200",
+    "Transcript": "No, what's that about Chris you're not"
+  },
+  {
+    "Start Timestamp": "05:00,200",
+    "End Timestamp": "05:08,080",
+    "Transcript": "No, no, it's not true. Are you looking at porn? No, I'm trying to look up the graphic"
+  },
+  {
+    "Start Timestamp": "05:08,080",
+    "End Timestamp": "05:10,000",
+    "Transcript": "I was talking about what kind of porn is there it is?"
+  },
+  {
+    "Start Timestamp": "05:10,000",
+    "End Timestamp": "05:11,000",
+    "Transcript": "There it is."
+  },
+  {
+    "Start Timestamp": "05:11,000",
+    "End Timestamp": "05:15,240",
+    "Transcript": "Is that Ash of the Future? It is. He turned into a gentle man."
+  },
+  {
+    "Start Timestamp": "05:15,240",
+    "End Timestamp": "05:18,040",
+    "Transcript": "I'm a gentle."
+  },
+  {
+    "Start Timestamp": "05:18,040",
+    "End Timestamp": "05:21,040",
+    "Transcript": "Oh God!"
+  },
+  {
+    "Start Timestamp": "05:21,040",
+    "End Timestamp": "05:21,540",
+    "Transcript": "Oh God!"
+  },
+  {
+    "Start Timestamp": "05:21,540",
+    "End Timestamp": "05:22,040",
+    "Transcript": "Fuck!"
+  },
+  {
+    "Start Timestamp": "05:22,040",
+    "End Timestamp": "05:23,040",
+    "Transcript": "That's not true!"
+  },
+  {
+    "Start Timestamp": "05:23,040",
+    "End Timestamp": "05:24,040",
+    "Transcript": "That's not true!"
+  },
+  {
+    "Start Timestamp": "05:24,040",
+    "End Timestamp": "05:25,040",
+    "Transcript": "You're going to jail!"
+  },
+  {
+    "Start Timestamp": "05:25,040",
+    "End Timestamp": "05:26,040",
+    "Transcript": "Fuck!"
+  },
+  {
+    "Start Timestamp": "05:26,040",
+    "End Timestamp": "05:27,040",
+    "Transcript": "You're going to jail!"
+  },
+  {
+    "Start Timestamp": "05:27,040",
+    "End Timestamp": "05:28,040",
+    "Transcript": "Fuck!"
+  },
+  {
+    "Start Timestamp": "05:28,040",
+    "End Timestamp": "05:29,040",
+    "Transcript": "Oh!"
+  },
+  {
+    "Start Timestamp": "05:29,040",
+    "End Timestamp": "05:30,040",
+    "Transcript": "Hey!"
+  },
+  {
+    "Start Timestamp": "05:30,040",
+    "End Timestamp": "05:31,040",
+    "Transcript": "Hey Ryan!"
+  },
+  {
+    "Start Timestamp": "05:31,040",
+    "End Timestamp": "05:32,040",
+    "Transcript": "Hey!"
+  },
+  {
+    "Start Timestamp": "05:32,040",
+    "End Timestamp": "05:33,040",
+    "Transcript": "How are you guys doing?"
+  },
+  {
+    "Start Timestamp": "05:33,040",
+    "End Timestamp": "05:34,040",
+    "Transcript": "Good, how are you all?"
+  },
+  {
+    "Start Timestamp": "05:34,040",
+    "End Timestamp": "05:35,040",
+    "Transcript": "How's it going?"
+  },
+  {
+    "Start Timestamp": "05:35,040",
+    "End Timestamp": "05:38,040",
+    "Transcript": "I hope you're getting picked up on the mic."
+  },
+  {
+    "Start Timestamp": "05:38,040",
+    "End Timestamp": "05:40,040",
+    "Transcript": "Have you evolved anything?"
+  },
+  {
+    "Start Timestamp": "05:40,040",
+    "End Timestamp": "05:41,040",
+    "Transcript": "Yes."
+  },
+  {
+    "Start Timestamp": "05:41,040",
+    "End Timestamp": "05:42,040",
+    "Transcript": "We got a slide for you."
+  },
+  {
+    "Start Timestamp": "05:42,040",
+    "End Timestamp": "05:44,040",
+    "Transcript": "We got Chubby Cheeks Chameleon."
+  },
+  {
+    "Start Timestamp": "05:44,040",
+    "End Timestamp": "05:45,040",
+    "Transcript": "When I barely show up."
+  },
+  {
+    "Start Timestamp": "05:45,040",
+    "End Timestamp": "05:47,040",
+    "Transcript": "Look, there's a mic all for you."
+  },
+  {
+    "Start Timestamp": "05:47,040",
+    "End Timestamp": "05:49,040",
+    "Transcript": "Let's begin to it."
+  },
+  {
+    "Start Timestamp": "05:49,040",
+    "End Timestamp": "05:50,040",
+    "Transcript": "Hello."
+  },
+  {
+    "Start Timestamp": "05:50,040",
+    "End Timestamp": "05:52,300",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "05:52,300",
+    "End Timestamp": "05:53,460",
+    "Transcript": "- Can you do when your pants are on?"
+  },
+  {
+    "Start Timestamp": "05:53,460",
+    "End Timestamp": "05:55,060",
+    "Transcript": "- That's Ryan from Omi-Megas."
+  },
+  {
+    "Start Timestamp": "05:55,060",
+    "End Timestamp": "05:56,860",
+    "Transcript": "- Okay, get it right next to your face."
+  },
+  {
+    "Start Timestamp": "05:56,860",
+    "End Timestamp": "05:58,140",
+    "Transcript": "- Yeah, get it big, go on."
+  },
+  {
+    "Start Timestamp": "05:58,140",
+    "End Timestamp": "05:59,060",
+    "Transcript": "- Do a two, can you?"
+  },
+  {
+    "Start Timestamp": "05:59,060",
+    "End Timestamp": "05:59,900",
+    "Transcript": "- I'm gonna do it."
+  },
+  {
+    "Start Timestamp": "05:59,900",
+    "End Timestamp": "06:00,740",
+    "Transcript": "- I should do it."
+  },
+  {
+    "Start Timestamp": "06:00,740",
+    "End Timestamp": "06:01,580",
+    "Transcript": "- Do a dance if I straighten it."
+  },
+  {
+    "Start Timestamp": "06:01,580",
+    "End Timestamp": "06:02,420",
+    "Transcript": "- Come on, come on."
+  },
+  {
+    "Start Timestamp": "06:02,420",
+    "End Timestamp": "06:03,260",
+    "Transcript": "- You can't--"
+  },
+  {
+    "Start Timestamp": "06:03,260",
+    "End Timestamp": "06:04,100",
+    "Transcript": "- You actually force yourself."
+  },
+  {
+    "Start Timestamp": "06:04,100",
+    "End Timestamp": "06:04,940",
+    "Transcript": "- I can't do it."
+  },
+  {
+    "Start Timestamp": "06:04,940",
+    "End Timestamp": "06:05,780",
+    "Transcript": "- Ryan, come on."
+  },
+  {
+    "Start Timestamp": "06:05,780",
+    "End Timestamp": "06:07,900",
+    "Transcript": "- It's not like I can force myself to fart."
+  },
+  {
+    "Start Timestamp": "06:07,900",
+    "End Timestamp": "06:09,740",
+    "Transcript": "- Yeah, you can, I know you."
+  },
+  {
+    "Start Timestamp": "06:09,740",
+    "End Timestamp": "06:10,740",
+    "Transcript": "- Farts!"
+  },
+  {
+    "Start Timestamp": "06:10,740",
+    "End Timestamp": "06:11,580",
+    "Transcript": "- I can do it."
+  },
+  {
+    "Start Timestamp": "06:11,580",
+    "End Timestamp": "06:12,420",
+    "Transcript": "- Come on."
+  },
+  {
+    "Start Timestamp": "06:12,420",
+    "End Timestamp": "06:13,420",
+    "Transcript": "- I can do it myself, fart, check this out."
+  },
+  {
+    "Start Timestamp": "06:13,420",
+    "End Timestamp": "06:14,260",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "06:14,260",
+    "End Timestamp": "06:15,700",
+    "Transcript": "- I can do it."
+  },
+  {
+    "Start Timestamp": "06:15,700",
+    "End Timestamp": "06:17,700",
+    "Transcript": "I'll be in the next session."
+  },
+  {
+    "Start Timestamp": "06:17,700",
+    "End Timestamp": "06:18,800",
+    "Transcript": "- I said I looked at Ella's,"
+  },
+  {
+    "Start Timestamp": "06:18,800",
+    "End Timestamp": "06:20,700",
+    "Transcript": "\"What is it?\""
+  },
+  {
+    "Start Timestamp": "06:20,700",
+    "End Timestamp": "06:22,200",
+    "Transcript": "Barnes & Noble, I forget what I was saying."
+  },
+  {
+    "Start Timestamp": "06:22,200",
+    "End Timestamp": "06:23,040",
+    "Transcript": "- What?"
+  },
+  {
+    "Start Timestamp": "06:23,040",
+    "End Timestamp": "06:24,700",
+    "Transcript": "- Oh yeah, the classic Barnes & Noble."
+  },
+  {
+    "Start Timestamp": "06:24,700",
+    "End Timestamp": "06:25,540",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "06:25,540",
+    "End Timestamp": "06:26,700",
+    "Transcript": "- I meant to say Jungle Book,"
+  },
+  {
+    "Start Timestamp": "06:26,700",
+    "End Timestamp": "06:27,540",
+    "Transcript": "but I couldn't think of this."
+  },
+  {
+    "Start Timestamp": "06:27,540",
+    "End Timestamp": "06:28,380",
+    "Transcript": "- What?"
+  },
+  {
+    "Start Timestamp": "06:28,380",
+    "End Timestamp": "06:29,220",
+    "Transcript": "- What?"
+  },
+  {
+    "Start Timestamp": "06:29,220",
+    "End Timestamp": "06:30,060",
+    "Transcript": "- What?"
+  },
+  {
+    "Start Timestamp": "06:30,060",
+    "End Timestamp": "06:30,900",
+    "Transcript": "- You just drew one?"
+  },
+  {
+    "Start Timestamp": "06:30,900",
+    "End Timestamp": "06:31,900",
+    "Transcript": "- Been the fuck."
+  },
+  {
+    "Start Timestamp": "06:31,900",
+    "End Timestamp": "06:32,740",
+    "Transcript": "- Oh, I did you."
+  },
+  {
+    "Start Timestamp": "06:32,740",
+    "End Timestamp": "06:34,300",
+    "Transcript": "- It makes sense because I sell books"
+  },
+  {
+    "Start Timestamp": "06:34,300",
+    "End Timestamp": "06:35,140",
+    "Transcript": "at Barnes & Noble,"
+  },
+  {
+    "Start Timestamp": "06:35,140",
+    "End Timestamp": "06:37,140",
+    "Transcript": "and Jungle Book would have to be a Barnes & Noble."
+  },
+  {
+    "Start Timestamp": "06:37,140",
+    "End Timestamp": "06:38,540",
+    "Transcript": "- Exactly."
+  },
+  {
+    "Start Timestamp": "06:38,540",
+    "End Timestamp": "06:39,860",
+    "Transcript": "- Anyways, I love you, baby."
+  },
+  {
+    "Start Timestamp": "06:39,860",
+    "End Timestamp": "06:42,060",
+    "Transcript": "- I'm gonna, how much more you guys gotta record?"
+  },
+  {
+    "Start Timestamp": "06:42,060",
+    "End Timestamp": "06:43,940",
+    "Transcript": "- We're gonna be here all night."
+  },
+  {
+    "Start Timestamp": "06:43,940",
+    "End Timestamp": "06:45,620",
+    "Transcript": "- Hey, hey."
+  },
+  {
+    "Start Timestamp": "06:45,620",
+    "End Timestamp": "06:47,620",
+    "Transcript": "Ryan look it's you"
+  },
+  {
+    "Start Timestamp": "06:47,620",
+    "End Timestamp": "06:51,200",
+    "Transcript": "Not what's in back home. Oh my back. So I left your mic right on there"
+  },
+  {
+    "Start Timestamp": "06:51,200",
+    "End Timestamp": "06:54,140",
+    "Transcript": "Yeah, thanks for inviting us. Did you get some?"
+  },
+  {
+    "Start Timestamp": "06:54,140",
+    "End Timestamp": "07:01,840",
+    "Transcript": "Kappa maki come sit come for some Tom ago. Oh shit. I yeah, I fucking love the music"
+  },
+  {
+    "Start Timestamp": "07:01,840",
+    "End Timestamp": "07:05,580",
+    "Transcript": "Oh, okay, so this here's the infographic the problem with Jen one"
+  },
+  {
+    "Start Timestamp": "07:05,580",
+    "End Timestamp": "07:09,980",
+    "Transcript": "Jen what did I miss what a bunch of dirty Jen wonders?"
+  },
+  {
+    "Start Timestamp": "07:11,220",
+    "End Timestamp": "07:18,320",
+    "Transcript": "Leech seed and toxic went off the same damage calculator when they were stacked making leech seed drain double the damage"
+  },
+  {
+    "Start Timestamp": "07:18,320",
+    "End Timestamp": "07:22,540",
+    "Transcript": "Toxic doubt and toxic deal double the damage leech seed drain each time"
+  },
+  {
+    "Start Timestamp": "07:22,540",
+    "End Timestamp": "07:27,780",
+    "Transcript": "So it just keeps multiplying and multiplying until they just fucking die. Yep Wow"
+  },
+  {
+    "Start Timestamp": "07:27,780",
+    "End Timestamp": "07:30,420",
+    "Transcript": "That's why I wanted to do it"
+  },
+  {
+    "Start Timestamp": "07:30,420",
+    "End Timestamp": "07:36,080",
+    "Transcript": "Toxic turned into normal poison if you switched out while under the effects of it. What really that sucks"
+  },
+  {
+    "Start Timestamp": "07:36,080",
+    "End Timestamp": "07:41,020",
+    "Transcript": "Critical hits were based off speed making fast sweepers doing same amounts of crit"
+  },
+  {
+    "Start Timestamp": "07:41,020",
+    "End Timestamp": "07:42,420",
+    "Transcript": "Yup, no way."
+  },
+  {
+    "Start Timestamp": "07:42,420",
+    "End Timestamp": "07:46,580",
+    "Transcript": "Instacill moves were also based off speed, making most of them totally useless because"
+  },
+  {
+    "Start Timestamp": "07:46,580",
+    "End Timestamp": "07:49,460",
+    "Transcript": "they were on slower dudes."
+  },
+  {
+    "Start Timestamp": "07:49,460",
+    "End Timestamp": "07:53,980",
+    "Transcript": "Due to a glitch, focus energy cuts your critical hit rate by 75% instead of doubling it like"
+  },
+  {
+    "Start Timestamp": "07:53,980",
+    "End Timestamp": "07:55,740",
+    "Transcript": "what it's supposed to do."
+  },
+  {
+    "Start Timestamp": "07:55,740",
+    "End Timestamp": "07:59,380",
+    "Transcript": "Criticals would ignore stat-ups from both parties rather than just a target."
+  },
+  {
+    "Start Timestamp": "07:59,380",
+    "End Timestamp": "08:04,260",
+    "Transcript": "Three sword dances would do more damage than a critical, resulting in hilarious, look-stacking"
+  },
+  {
+    "Start Timestamp": "08:04,260",
+    "End Timestamp": "08:05,260",
+    "Transcript": "scenarios."
+  },
+  {
+    "Start Timestamp": "08:05,260",
+    "End Timestamp": "08:07,260",
+    "Transcript": "My fucking can't say that word"
+  },
+  {
+    "Start Timestamp": "08:07,260",
+    "End Timestamp": "08:09,500",
+    "Transcript": "scenario"
+  },
+  {
+    "Start Timestamp": "08:09,500",
+    "End Timestamp": "08:16,800",
+    "Transcript": "Using agility would completely negate the speed of speed loss from paralysis as in paralysis cuts your speed in half"
+  },
+  {
+    "Start Timestamp": "08:16,800",
+    "End Timestamp": "08:20,280",
+    "Transcript": "An agility just gives you back regular speed stat and then doubles it"
+  },
+  {
+    "Start Timestamp": "08:20,280",
+    "End Timestamp": "08:23,380",
+    "Transcript": "We're in Jesus the same thing goes for sword dance burn"
+  },
+  {
+    "Start Timestamp": "08:23,380",
+    "End Timestamp": "08:28,080",
+    "Transcript": "If you were frozen, you'd never thought unless someone used a fire attack on you"
+  },
+  {
+    "Start Timestamp": "08:28,080",
+    "End Timestamp": "08:32,040",
+    "Transcript": "Haze with thought the enemy in addition to its intended effect"
+  },
+  {
+    "Start Timestamp": "08:32,840",
+    "End Timestamp": "08:38,280",
+    "Transcript": "So you can use haze to get out of that nice, but not really what do you think of the right you sprite?"
+  },
+  {
+    "Start Timestamp": "08:38,280",
+    "End Timestamp": "08:43,480",
+    "Transcript": "He's a cutie. He looks like he's running really really fast. So it's making him stretch out"
+  },
+  {
+    "Start Timestamp": "08:43,480",
+    "End Timestamp": "08:46,440",
+    "Transcript": "I remember I thought he was obese when I saw him when I was younger"
+  },
+  {
+    "Start Timestamp": "08:46,440",
+    "End Timestamp": "08:51,720",
+    "Transcript": "Yes, I said that he's giant because if the sprites take up the entire area and made them come on. Oh, yeah"
+  },
+  {
+    "Start Timestamp": "08:51,720",
+    "End Timestamp": "08:53,720",
+    "Transcript": "Oh, you thought he was like"
+  },
+  {
+    "Start Timestamp": "08:53,720",
+    "End Timestamp": "08:58,220",
+    "Transcript": "Yeah, I thought he was supposed to be enormous. What did I miss guys? What did I miss? I'm back. We fucked up our game"
+  },
+  {
+    "Start Timestamp": "08:58,220",
+    "End Timestamp": "09:02,600",
+    "Transcript": "Did you really yeah one of the things I wanted to do we can't do because the game fucked up in a way"
+  },
+  {
+    "Start Timestamp": "09:02,600",
+    "End Timestamp": "09:07,420",
+    "Transcript": "I wasn't expected. Ah shit stop shaking your fuck Julian you're messing up the mic. I can't God"
+  },
+  {
+    "Start Timestamp": "09:07,420",
+    "End Timestamp": "09:12,160",
+    "Transcript": "I've got a I've got restless foot syndrome. You've got restless slut syndrome. Oh shit"
+  },
+  {
+    "Start Timestamp": "09:12,160",
+    "End Timestamp": "09:17,680",
+    "Transcript": "Never tell you guys about the uh, restless slut you met. Oh, I like restless slut better"
+  },
+  {
+    "Start Timestamp": "09:17,680",
+    "End Timestamp": "09:20,400",
+    "Transcript": "Sorry, Matt. It's just rude"
+  },
+  {
+    "Start Timestamp": "09:20,400",
+    "End Timestamp": "09:23,440",
+    "Transcript": "How way how she is slush you have no breast?"
+  },
+  {
+    "Start Timestamp": "09:23,440",
+    "End Timestamp": "09:28,280",
+    "Transcript": "Okay, so you're assuming that a woman is only a slut if she is a man whore"
+  },
+  {
+    "Start Timestamp": "09:29,440",
+    "End Timestamp": "09:36,960",
+    "Transcript": "That's true you mean you can't be a man or warp bind spinfire and clamp prevented the opponent from doing anything for two to five moves"
+  },
+  {
+    "Start Timestamp": "09:36,960",
+    "End Timestamp": "09:42,840",
+    "Transcript": "Also, if you switched out while you were holding the enemy they'd still be considered trapped during the switching turn"
+  },
+  {
+    "Start Timestamp": "09:42,840",
+    "End Timestamp": "09:45,280",
+    "Transcript": "What does that mean?"
+  },
+  {
+    "Start Timestamp": "09:45,280",
+    "End Timestamp": "09:47,800",
+    "Transcript": "It means when they sent out the next one their trip to"
+  },
+  {
+    "Start Timestamp": "09:47,800",
+    "End Timestamp": "09:50,640",
+    "Transcript": "whirlwind and roar didn't do anything in versus"
+  },
+  {
+    "Start Timestamp": "09:50,640",
+    "End Timestamp": "09:57,760",
+    "Transcript": "If the enemy stats up your fucked. Did you want me to teach thunderbolt to need okay? No thunder, okay?"
+  },
+  {
+    "Start Timestamp": "09:58,280",
+    "End Timestamp": "10:01,240",
+    "Transcript": "I'm gonna get some water why don't you guys catch me up on what happened?"
+  },
+  {
+    "Start Timestamp": "10:01,240",
+    "End Timestamp": "10:04,920",
+    "Transcript": "What did happen didn't anything I don't think anything"
+  },
+  {
+    "Start Timestamp": "10:04,920",
+    "End Timestamp": "10:10,480",
+    "Transcript": "Can you cut out when I left can you cut out everything between there until I got back no?"
+  },
+  {
+    "Start Timestamp": "10:10,480",
+    "End Timestamp": "10:16,600",
+    "Transcript": "Okay, no, that's fine. I mean we can cut out the gym leader. Where do we get a gym leader? Yes?"
+  },
+  {
+    "Start Timestamp": "10:16,600",
+    "End Timestamp": "10:19,240",
+    "Transcript": "He just beat him. Where do we go next? I don't remember"
+  },
+  {
+    "Start Timestamp": "10:19,240",
+    "End Timestamp": "10:22,080",
+    "Transcript": "You want to get"
+  },
+  {
+    "Start Timestamp": "10:22,080",
+    "End Timestamp": "10:24,080",
+    "Transcript": "Been over I'll show you Julian"
+  },
+  {
+    "Start Timestamp": "10:25,360",
+    "End Timestamp": "10:28,040",
+    "Transcript": "That's back baby man so stupid"
+  },
+  {
+    "Start Timestamp": "10:28,040",
+    "End Timestamp": "10:30,780",
+    "Transcript": "[Music]"
+  }
+]
+}

@@ -1,0 +1,124 @@
+{ "Data":
+[
+  {
+    "Start Timestamp": "00:00,000",
+    "End Timestamp": "00:10,000",
+    "Transcript": "[Music]"
+  },
+  {
+    "Start Timestamp": "00:10,000",
+    "End Timestamp": "00:32,000",
+    "Transcript": "[Music]"
+  },
+  {
+    "Start Timestamp": "00:32,000",
+    "End Timestamp": "00:34,000",
+    "Transcript": "It's a passion for skin today."
+  },
+  {
+    "Start Timestamp": "00:34,000",
+    "End Timestamp": "00:36,580",
+    "Transcript": "(gentle music)"
+  },
+  {
+    "Start Timestamp": "00:36,580",
+    "End Timestamp": "00:53,800",
+    "Transcript": "Okay, okay."
+  },
+  {
+    "Start Timestamp": "00:53,800",
+    "End Timestamp": "00:56,540",
+    "Transcript": "(dramatic music)"
+  },
+  {
+    "Start Timestamp": "00:56,540",
+    "End Timestamp": "00:59,280",
+    "Transcript": "(dramatic music)"
+  },
+  {
+    "Start Timestamp": "00:59,280",
+    "End Timestamp": "01:08,880",
+    "Transcript": "Mom, mom, mom."
+  },
+  {
+    "Start Timestamp": "01:08,880",
+    "End Timestamp": "01:11,880",
+    "Transcript": "It's you, yeah."
+  },
+  {
+    "Start Timestamp": "01:11,880",
+    "End Timestamp": "01:12,800",
+    "Transcript": "It's you, today, mom."
+  },
+  {
+    "Start Timestamp": "01:12,800",
+    "End Timestamp": "01:15,800",
+    "Transcript": "Mom, it's you, yeah. (laughs)"
+  },
+  {
+    "Start Timestamp": "01:15,800",
+    "End Timestamp": "01:18,540",
+    "Transcript": "(dramatic music)"
+  },
+  {
+    "Start Timestamp": "01:18,540",
+    "End Timestamp": "01:21,300",
+    "Transcript": "(dramatic music)"
+  },
+  {
+    "Start Timestamp": "01:21,300",
+    "End Timestamp": "01:24,060",
+    "Transcript": "(dramatic music)"
+  },
+  {
+    "Start Timestamp": "01:24,060",
+    "End Timestamp": "01:26,820",
+    "Transcript": "(dramatic music)"
+  },
+  {
+    "Start Timestamp": "01:26,820",
+    "End Timestamp": "01:29,560",
+    "Transcript": "(dramatic music)"
+  },
+  {
+    "Start Timestamp": "01:29,560",
+    "End Timestamp": "01:32,320",
+    "Transcript": "(dramatic music)"
+  },
+  {
+    "Start Timestamp": "01:32,320",
+    "End Timestamp": "01:56,460",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "01:56,460",
+    "End Timestamp": "01:59,540",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "01:59,540",
+    "End Timestamp": "02:01,960",
+    "Transcript": "(soft music)"
+  },
+  {
+    "Start Timestamp": "02:01,960",
+    "End Timestamp": "02:04,460",
+    "Transcript": "(light music)"
+  },
+  {
+    "Start Timestamp": "02:04,460",
+    "End Timestamp": "02:06,880",
+    "Transcript": "(soft music)"
+  },
+  {
+    "Start Timestamp": "02:06,880",
+    "End Timestamp": "02:32,880",
+    "Transcript": "[Music]"
+  },
+  {
+    "Start Timestamp": "02:32,880",
+    "End Timestamp": "02:36,240",
+    "Transcript": "(music)"
+  }
+]
+}

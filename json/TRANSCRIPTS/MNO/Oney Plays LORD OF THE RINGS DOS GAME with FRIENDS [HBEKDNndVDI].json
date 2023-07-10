@@ -1,0 +1,2639 @@
+{ "Data":
+[
+  {
+    "Start Timestamp": "00:00,000",
+    "End Timestamp": "00:01,600",
+    "Transcript": "*phone rings*"
+  },
+  {
+    "Start Timestamp": "00:01,600",
+    "End Timestamp": "00:03,400",
+    "Transcript": "On a plane!"
+  },
+  {
+    "Start Timestamp": "00:03,400",
+    "End Timestamp": "00:04,400",
+    "Transcript": "*sigh*"
+  },
+  {
+    "Start Timestamp": "00:04,400",
+    "End Timestamp": "00:05,600",
+    "Transcript": "With friends."
+  },
+  {
+    "Start Timestamp": "00:05,600",
+    "End Timestamp": "00:07,100",
+    "Transcript": "Do we want pictures?"
+  },
+  {
+    "Start Timestamp": "00:07,100",
+    "End Timestamp": "00:07,900",
+    "Transcript": "Yes."
+  },
+  {
+    "Start Timestamp": "00:07,900",
+    "End Timestamp": "00:08,400",
+    "Transcript": "Yes."
+  },
+  {
+    "Start Timestamp": "00:08,400",
+    "End Timestamp": "00:08,900",
+    "Transcript": "Yeah."
+  },
+  {
+    "Start Timestamp": "00:08,900",
+    "End Timestamp": "00:12,400",
+    "Transcript": "*whispers* Which fruit, which pippin' do we want to be?"
+  },
+  {
+    "Start Timestamp": "00:12,400",
+    "End Timestamp": "00:14,900",
+    "Transcript": "Type in \"florable\"."
+  },
+  {
+    "Start Timestamp": "00:14,900",
+    "End Timestamp": "00:16,400",
+    "Transcript": "Type in \"maria doc\"."
+  },
+  {
+    "Start Timestamp": "00:16,400",
+    "End Timestamp": "00:18,900",
+    "Transcript": "I don't know the first word for \"florable\"."
+  },
+  {
+    "Start Timestamp": "00:18,900",
+    "End Timestamp": "00:20,900",
+    "Transcript": "I want to be Sammy's favorite."
+  },
+  {
+    "Start Timestamp": "00:20,900",
+    "End Timestamp": "00:21,400",
+    "Transcript": "Say hi."
+  },
+  {
+    "Start Timestamp": "00:21,400",
+    "End Timestamp": "00:22,400",
+    "Transcript": "Why do you like Sam?"
+  },
+  {
+    "Start Timestamp": "00:22,400",
+    "End Timestamp": "00:24,400",
+    "Transcript": "Uh, cause he's cool."
+  },
+  {
+    "Start Timestamp": "00:24,400",
+    "End Timestamp": "00:28,400",
+    "Transcript": "In a comfortable borough with a round window and a green door to the east."
+  },
+  {
+    "Start Timestamp": "00:28,400",
+    "End Timestamp": "00:29,400",
+    "Transcript": "Is that green?"
+  },
+  {
+    "Start Timestamp": "00:29,400",
+    "End Timestamp": "00:31,400",
+    "Transcript": "It's a pretty good impression."
+  },
+  {
+    "Start Timestamp": "00:31,400",
+    "End Timestamp": "00:32,400",
+    "Transcript": "*laughs*"
+  },
+  {
+    "Start Timestamp": "00:32,400",
+    "End Timestamp": "00:34,400",
+    "Transcript": "Oh, Mr. Frodo."
+  },
+  {
+    "Start Timestamp": "00:34,400",
+    "End Timestamp": "00:37,400",
+    "Transcript": "You were an uncomfortable pearl."
+  },
+  {
+    "Start Timestamp": "00:37,400",
+    "End Timestamp": "00:39,400",
+    "Transcript": "Screwed in a wallow's nose board."
+  },
+  {
+    "Start Timestamp": "00:39,400",
+    "End Timestamp": "00:40,400",
+    "Transcript": "*laughs*"
+  },
+  {
+    "Start Timestamp": "00:40,400",
+    "End Timestamp": "00:42,400",
+    "Transcript": "You could have did the whole thing though."
+  },
+  {
+    "Start Timestamp": "00:42,400",
+    "End Timestamp": "00:45,400",
+    "Transcript": "The notice board is a group of photographs."
+  },
+  {
+    "Start Timestamp": "00:45,400",
+    "End Timestamp": "00:47,400",
+    "Transcript": "They had those?"
+  },
+  {
+    "Start Timestamp": "00:47,400",
+    "End Timestamp": "00:48,400",
+    "Transcript": "Yeah."
+  },
+  {
+    "Start Timestamp": "00:48,400",
+    "End Timestamp": "00:49,400",
+    "Transcript": "Pined over the group of photographs."
+  },
+  {
+    "Start Timestamp": "00:49,400",
+    "End Timestamp": "00:50,400",
+    "Transcript": "I have picked up boxes."
+  },
+  {
+    "Start Timestamp": "00:50,400",
+    "End Timestamp": "00:52,400",
+    "Transcript": "Against one wall is a kitchen dresser."
+  },
+  {
+    "Start Timestamp": "00:52,400",
+    "End Timestamp": "00:55,400",
+    "Transcript": "In the kitchen dresser, or a drawer, and a cupboard."
+  },
+  {
+    "Start Timestamp": "00:55,400",
+    "End Timestamp": "00:57,400",
+    "Transcript": "Near the door is a large heavy wooden chest."
+  },
+  {
+    "Start Timestamp": "00:57,400",
+    "End Timestamp": "00:58,400",
+    "Transcript": "Open the chest!"
+  },
+  {
+    "Start Timestamp": "00:58,400",
+    "End Timestamp": "01:02,460",
+    "Transcript": "You can see Frodo and Pippin'"
+  },
+  {
+    "Start Timestamp": "01:02,460",
+    "End Timestamp": "01:04,960",
+    "Transcript": "Caring by Frodo's small gold ring."
+  },
+  {
+    "Start Timestamp": "01:04,960",
+    "End Timestamp": "01:06,160",
+    "Transcript": "Get the ring!"
+  },
+  {
+    "Start Timestamp": "01:06,160",
+    "End Timestamp": "01:08,260",
+    "Transcript": "[laughter]"
+  },
+  {
+    "Start Timestamp": "01:08,260",
+    "End Timestamp": "01:09,240",
+    "Transcript": "You have to take that ring."
+  },
+  {
+    "Start Timestamp": "01:09,240",
+    "End Timestamp": "01:10,240",
+    "Transcript": "You're Frodo!"
+  },
+  {
+    "Start Timestamp": "01:10,240",
+    "End Timestamp": "01:11,740",
+    "Transcript": "[laughter]"
+  },
+  {
+    "Start Timestamp": "01:11,740",
+    "End Timestamp": "01:12,740",
+    "Transcript": "Oh my god!"
+  },
+  {
+    "Start Timestamp": "01:12,740",
+    "End Timestamp": "01:13,740",
+    "Transcript": "No!"
+  },
+  {
+    "Start Timestamp": "01:13,740",
+    "End Timestamp": "01:14,740",
+    "Transcript": "[laughter]"
+  },
+  {
+    "Start Timestamp": "01:14,740",
+    "End Timestamp": "01:15,740",
+    "Transcript": "No!"
+  },
+  {
+    "Start Timestamp": "01:15,740",
+    "End Timestamp": "01:16,740",
+    "Transcript": "No!"
+  },
+  {
+    "Start Timestamp": "01:16,740",
+    "End Timestamp": "01:17,740",
+    "Transcript": "You attack Frodo."
+  },
+  {
+    "Start Timestamp": "01:17,740",
+    "End Timestamp": "01:18,740",
+    "Transcript": "You hit Frodo right on the shoulder."
+  },
+  {
+    "Start Timestamp": "01:18,740",
+    "End Timestamp": "01:20,740",
+    "Transcript": "Frodo staggers almost falls."
+  },
+  {
+    "Start Timestamp": "01:20,740",
+    "End Timestamp": "01:21,740",
+    "Transcript": "Frodo attacks you."
+  },
+  {
+    "Start Timestamp": "01:21,740",
+    "End Timestamp": "01:23,740",
+    "Transcript": "But the effort is wasted."
+  },
+  {
+    "Start Timestamp": "01:23,740",
+    "End Timestamp": "01:25,740",
+    "Transcript": "And this is so strong."
+  },
+  {
+    "Start Timestamp": "01:25,740",
+    "End Timestamp": "01:26,740",
+    "Transcript": "Oh my god."
+  },
+  {
+    "Start Timestamp": "01:26,740",
+    "End Timestamp": "01:29,140",
+    "Transcript": "Oh my god, you're stronger than all of them."
+  },
+  {
+    "Start Timestamp": "01:29,140",
+    "End Timestamp": "01:31,140",
+    "Transcript": "Pippin' attacks you covered as well."
+  },
+  {
+    "Start Timestamp": "01:31,140",
+    "End Timestamp": "01:32,540",
+    "Transcript": "Kill Frodo, kill Frodo."
+  },
+  {
+    "Start Timestamp": "01:32,540",
+    "End Timestamp": "01:34,140",
+    "Transcript": "You're offense is too strong."
+  },
+  {
+    "Start Timestamp": "01:34,140",
+    "End Timestamp": "01:35,540",
+    "Transcript": "You're too strong for them."
+  },
+  {
+    "Start Timestamp": "01:35,540",
+    "End Timestamp": "01:36,540",
+    "Transcript": "Prangle, Pippin' up."
+  },
+  {
+    "Start Timestamp": "01:36,540",
+    "End Timestamp": "01:38,540",
+    "Transcript": "(crying)"
+  },
+  {
+    "Start Timestamp": "01:38,540",
+    "End Timestamp": "01:43,340",
+    "Transcript": "You can pick an Anasti slash in the leg."
+  },
+  {
+    "Start Timestamp": "01:43,340",
+    "End Timestamp": "01:45,340",
+    "Transcript": "They're just weight aches."
+  },
+  {
+    "Start Timestamp": "01:45,340",
+    "End Timestamp": "01:46,340",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "01:46,340",
+    "End Timestamp": "01:47,340",
+    "Transcript": "He's Frodo."
+  },
+  {
+    "Start Timestamp": "01:47,340",
+    "End Timestamp": "01:49,340",
+    "Transcript": "(crying)"
+  },
+  {
+    "Start Timestamp": "01:49,340",
+    "End Timestamp": "01:51,340",
+    "Transcript": "Boy, there's no way to kill."
+  },
+  {
+    "Start Timestamp": "01:51,340",
+    "End Timestamp": "01:53,340",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "01:53,340",
+    "End Timestamp": "01:54,340",
+    "Transcript": "Um, talk to Frodo."
+  },
+  {
+    "Start Timestamp": "01:54,340",
+    "End Timestamp": "01:55,340",
+    "Transcript": "Take the ring."
+  },
+  {
+    "Start Timestamp": "01:55,340",
+    "End Timestamp": "01:56,340",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "01:56,340",
+    "End Timestamp": "01:58,040",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "01:58,040",
+    "End Timestamp": "01:59,680",
+    "Transcript": "- A kill Frodo."
+  },
+  {
+    "Start Timestamp": "01:59,680",
+    "End Timestamp": "02:00,520",
+    "Transcript": "- A kill Frodo."
+  },
+  {
+    "Start Timestamp": "02:00,520",
+    "End Timestamp": "02:03,340",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "02:03,340",
+    "End Timestamp": "02:04,340",
+    "Transcript": "- With one more place, come on."
+  },
+  {
+    "Start Timestamp": "02:04,340",
+    "End Timestamp": "02:06,600",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "02:06,600",
+    "End Timestamp": "02:12,580",
+    "Transcript": "- With one well placed blow, you cleave his skull."
+  },
+  {
+    "Start Timestamp": "02:12,580",
+    "End Timestamp": "02:13,920",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "02:13,920",
+    "End Timestamp": "02:15,820",
+    "Transcript": "- With the upper ring."
+  },
+  {
+    "Start Timestamp": "02:15,820",
+    "End Timestamp": "02:18,060",
+    "Transcript": "- Take the ring, take the ring."
+  },
+  {
+    "Start Timestamp": "02:18,060",
+    "End Timestamp": "02:19,260",
+    "Transcript": "- You're the princess to show."
+  },
+  {
+    "Start Timestamp": "02:19,260",
+    "End Timestamp": "02:20,420",
+    "Transcript": "- Take the ring."
+  },
+  {
+    "Start Timestamp": "02:20,420",
+    "End Timestamp": "02:21,500",
+    "Transcript": "- Take the ring."
+  },
+  {
+    "Start Timestamp": "02:21,500",
+    "End Timestamp": "02:23,020",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "02:23,020",
+    "End Timestamp": "02:24,460",
+    "Transcript": "- Now you take the small gold ring."
+  },
+  {
+    "Start Timestamp": "02:24,460",
+    "End Timestamp": "02:25,300",
+    "Transcript": "- We're rings."
+  },
+  {
+    "Start Timestamp": "02:25,300",
+    "End Timestamp": "02:26,140",
+    "Transcript": "- We're rings."
+  },
+  {
+    "Start Timestamp": "02:26,140",
+    "End Timestamp": "02:56,020",
+    "Transcript": "people on this phone holdry destroy universe kill pimpin pimpin pimpin go home go to rosy oh no rosy come on rosy go home go home go home you want to put her I don't know how they banished him for murdering uh open"
+  },
+  {
+    "Start Timestamp": "02:56,020",
+    "End Timestamp": "02:57,580",
+    "Transcript": "- Open chest."
+  },
+  {
+    "Start Timestamp": "02:57,580",
+    "End Timestamp": "02:59,080",
+    "Transcript": "- Open sesame."
+  },
+  {
+    "Start Timestamp": "02:59,080",
+    "End Timestamp": "03:00,340",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "03:00,340",
+    "End Timestamp": "03:01,920",
+    "Transcript": "- Open chest."
+  },
+  {
+    "Start Timestamp": "03:01,920",
+    "End Timestamp": "03:05,780",
+    "Transcript": "You opened the large heavy wooden chest."
+  },
+  {
+    "Start Timestamp": "03:05,780",
+    "End Timestamp": "03:07,140",
+    "Transcript": "In the large heavy wooden chest"
+  },
+  {
+    "Start Timestamp": "03:07,140",
+    "End Timestamp": "03:09,380",
+    "Transcript": "are a length of strong rope."
+  },
+  {
+    "Start Timestamp": "03:09,380",
+    "End Timestamp": "03:10,220",
+    "Transcript": "- Take rope."
+  },
+  {
+    "Start Timestamp": "03:10,220",
+    "End Timestamp": "03:11,860",
+    "Transcript": "- Take the rope."
+  },
+  {
+    "Start Timestamp": "03:11,860",
+    "End Timestamp": "03:12,980",
+    "Transcript": "- Take rope."
+  },
+  {
+    "Start Timestamp": "03:12,980",
+    "End Timestamp": "03:13,820",
+    "Transcript": "Take rope."
+  },
+  {
+    "Start Timestamp": "03:13,820",
+    "End Timestamp": "03:15,420",
+    "Transcript": "- Take rope."
+  },
+  {
+    "Start Timestamp": "03:15,420",
+    "End Timestamp": "03:17,460",
+    "Transcript": "- Okay, and change yourself with rope."
+  },
+  {
+    "Start Timestamp": "03:17,460",
+    "End Timestamp": "03:18,300",
+    "Transcript": "- Change yourself."
+  },
+  {
+    "Start Timestamp": "03:18,300",
+    "End Timestamp": "03:19,300",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "03:19,300",
+    "End Timestamp": "03:21,180",
+    "Transcript": "- Take the canvas back, Peck."
+  },
+  {
+    "Start Timestamp": "03:21,180",
+    "End Timestamp": "03:22,260",
+    "Transcript": "Hang so."
+  },
+  {
+    "Start Timestamp": "03:22,260",
+    "End Timestamp": "03:23,820",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "03:23,820",
+    "End Timestamp": "03:24,660",
+    "Transcript": "- You broke my soul."
+  },
+  {
+    "Start Timestamp": "03:24,660",
+    "End Timestamp": "03:26,660",
+    "Transcript": "I know"
+  },
+  {
+    "Start Timestamp": "03:26,660",
+    "End Timestamp": "03:33,660",
+    "Transcript": "The word tie throw ring throw ring into the piss of fire"
+  },
+  {
+    "Start Timestamp": "03:33,660",
+    "End Timestamp": "03:45,860",
+    "Transcript": "I go outside go outside. I don't see any outside the goat revive Frodo"
+  },
+  {
+    "Start Timestamp": "03:45,860",
+    "End Timestamp": "03:50,060",
+    "Transcript": "Leave open door"
+  },
+  {
+    "Start Timestamp": "03:50,060",
+    "End Timestamp": "03:52,420",
+    "Transcript": "Open door"
+  },
+  {
+    "Start Timestamp": "03:53,860",
+    "End Timestamp": "03:57,820",
+    "Transcript": "Open it go out open door go outside"
+  },
+  {
+    "Start Timestamp": "03:57,820",
+    "End Timestamp": "04:03,240",
+    "Transcript": "Sife what walk door walk door"
+  },
+  {
+    "Start Timestamp": "04:03,240",
+    "End Timestamp": "04:06,980",
+    "Transcript": "Then go to door go to door"
+  },
+  {
+    "Start Timestamp": "04:06,980",
+    "End Timestamp": "04:13,200",
+    "Transcript": "What's going on? I don't know how to do that leave door am I supposed to do I'm wearing the fucking ring of fire"
+  },
+  {
+    "Start Timestamp": "04:13,200",
+    "End Timestamp": "04:17,160",
+    "Transcript": "My friends are cleaving their skulls are smashed inside"
+  },
+  {
+    "Start Timestamp": "04:22,160",
+    "End Timestamp": "04:26,440",
+    "Transcript": "That you happen to pick the one that no one could fight so they all just"
+  },
+  {
+    "Start Timestamp": "04:26,440",
+    "End Timestamp": "04:38,320",
+    "Transcript": "Why would they do that why would they set it up that you can just murder everybody"
+  },
+  {
+    "Start Timestamp": "04:38,320",
+    "End Timestamp": "04:43,720",
+    "Transcript": "Type help you say hello"
+  },
+  {
+    "Start Timestamp": "04:43,720",
+    "End Timestamp": "04:47,520",
+    "Transcript": "- dead friends"
+  },
+  {
+    "Start Timestamp": "04:47,520",
+    "End Timestamp": "04:49,520",
+    "Transcript": "What"
+  },
+  {
+    "Start Timestamp": "04:49,520",
+    "End Timestamp": "04:54,580",
+    "Transcript": "Don't be silly. I've never played a game that when you type help it says don't be silly"
+  },
+  {
+    "Start Timestamp": "04:54,580",
+    "End Timestamp": "05:10,680",
+    "Transcript": "So what do I fucking do you're probably just stuck because we would know you probably needed to talk to them to leave or something no"
+  },
+  {
+    "Start Timestamp": "05:10,680",
+    "End Timestamp": "05:12,840",
+    "Transcript": "board"
+  },
+  {
+    "Start Timestamp": "05:12,840",
+    "End Timestamp": "05:18,960",
+    "Transcript": "You see a notice board covering the nose is bored as group of photographs. There's a note. Okay, we know"
+  },
+  {
+    "Start Timestamp": "05:18,960",
+    "End Timestamp": "05:19,800",
+    "Transcript": "At note."
+  },
+  {
+    "Start Timestamp": "05:19,800",
+    "End Timestamp": "05:24,080",
+    "Transcript": "You see a note on a large piece of no paper"
+  },
+  {
+    "Start Timestamp": "05:24,080",
+    "End Timestamp": "05:24,920",
+    "Transcript": "bearing the message."
+  },
+  {
+    "Start Timestamp": "05:24,920",
+    "End Timestamp": "05:28,240",
+    "Transcript": "See what Riven Del, the master's urgent."
+  },
+  {
+    "Start Timestamp": "05:28,240",
+    "End Timestamp": "05:31,480",
+    "Transcript": "Watch out for the Black Riders, all the best Gandalf."
+  },
+  {
+    "Start Timestamp": "05:31,480",
+    "End Timestamp": "05:32,720",
+    "Transcript": "I'm gonna take that note."
+  },
+  {
+    "Start Timestamp": "05:32,720",
+    "End Timestamp": "05:36,440",
+    "Transcript": "You take the note, you're feeling weary"
+  },
+  {
+    "Start Timestamp": "05:36,440",
+    "End Timestamp": "05:38,080",
+    "Transcript": "and stretched the ring feels very heavy."
+  },
+  {
+    "Start Timestamp": "05:38,080",
+    "End Timestamp": "05:39,120",
+    "Transcript": "Oh fuck."
+  },
+  {
+    "Start Timestamp": "05:39,120",
+    "End Timestamp": "05:40,040",
+    "Transcript": "- They're coming for you."
+  },
+  {
+    "Start Timestamp": "05:40,040",
+    "End Timestamp": "05:41,080",
+    "Transcript": "- Take off the ring."
+  },
+  {
+    "Start Timestamp": "05:41,080",
+    "End Timestamp": "05:43,920",
+    "Transcript": "Take off the smaller ring."
+  },
+  {
+    "Start Timestamp": "05:43,920",
+    "End Timestamp": "05:44,760",
+    "Transcript": "- Throw ring."
+  },
+  {
+    "Start Timestamp": "05:44,760",
+    "End Timestamp": "05:45,760",
+    "Transcript": "- It's a swallow ring."
+  },
+  {
+    "Start Timestamp": "05:45,760",
+    "End Timestamp": "05:46,920",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "05:46,920",
+    "End Timestamp": "05:47,920",
+    "Transcript": "- Insert ring."
+  },
+  {
+    "Start Timestamp": "05:47,920",
+    "End Timestamp": "05:49,820",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "05:49,820",
+    "End Timestamp": "05:51,480",
+    "Transcript": "Put ring on Frodo."
+  },
+  {
+    "Start Timestamp": "05:51,480",
+    "End Timestamp": "05:57,680",
+    "Transcript": "On put ring on Frodo, but I can't."
+  },
+  {
+    "Start Timestamp": "05:57,680",
+    "End Timestamp": "05:58,520",
+    "Transcript": "- Why?"
+  },
+  {
+    "Start Timestamp": "05:58,520",
+    "End Timestamp": "06:00,520",
+    "Transcript": "- Frodo's finger's all bloody and falling."
+  },
+  {
+    "Start Timestamp": "06:00,520",
+    "End Timestamp": "06:03,120",
+    "Transcript": "- He's fucking dead, you cleat the skull."
+  },
+  {
+    "Start Timestamp": "06:03,120",
+    "End Timestamp": "06:03,960",
+    "Transcript": "You can wear it."
+  },
+  {
+    "Start Timestamp": "06:03,960",
+    "End Timestamp": "06:06,200",
+    "Transcript": "- He's got a ring into brain matter."
+  },
+  {
+    "Start Timestamp": "06:06,200",
+    "End Timestamp": "06:08,320",
+    "Transcript": "- Fine Gandalf and put the ring on him."
+  },
+  {
+    "Start Timestamp": "06:08,320",
+    "End Timestamp": "06:10,320",
+    "Transcript": "Insert paper into eye."
+  },
+  {
+    "Start Timestamp": "06:10,320",
+    "End Timestamp": "06:13,060",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "06:13,060",
+    "End Timestamp": "06:13,900",
+    "Transcript": "Chris."
+  },
+  {
+    "Start Timestamp": "06:13,900",
+    "End Timestamp": "06:15,200",
+    "Transcript": "- What?"
+  },
+  {
+    "Start Timestamp": "06:15,200",
+    "End Timestamp": "06:17,000",
+    "Transcript": "- Okay, you open the door, right?"
+  },
+  {
+    "Start Timestamp": "06:17,000",
+    "End Timestamp": "06:18,080",
+    "Transcript": "Open the door."
+  },
+  {
+    "Start Timestamp": "06:18,080",
+    "End Timestamp": "06:19,040",
+    "Transcript": "Exit door."
+  },
+  {
+    "Start Timestamp": "06:19,040",
+    "End Timestamp": "06:20,640",
+    "Transcript": "Roaring outside."
+  },
+  {
+    "Start Timestamp": "06:20,640",
+    "End Timestamp": "06:22,480",
+    "Transcript": "Outside the--"
+  },
+  {
+    "Start Timestamp": "06:22,480",
+    "End Timestamp": "06:25,320",
+    "Transcript": "Pin-trayer."
+  },
+  {
+    "Start Timestamp": "06:25,320",
+    "End Timestamp": "06:26,400",
+    "Transcript": "Dance."
+  },
+  {
+    "Start Timestamp": "06:26,400",
+    "End Timestamp": "06:27,920",
+    "Transcript": "Dance?"
+  },
+  {
+    "Start Timestamp": "06:27,920",
+    "End Timestamp": "06:28,920",
+    "Transcript": "I danced."
+  },
+  {
+    "Start Timestamp": "06:28,920",
+    "End Timestamp": "06:29,360",
+    "Transcript": "Sir."
+  },
+  {
+    "Start Timestamp": "06:29,360",
+    "End Timestamp": "06:34,720",
+    "Transcript": "Look in kitchen dresser in the drawer."
+  },
+  {
+    "Start Timestamp": "06:34,720",
+    "End Timestamp": "06:37,760",
+    "Transcript": "Oh, in the drawer I remap a deer skin pouch,"
+  },
+  {
+    "Start Timestamp": "06:37,760",
+    "End Timestamp": "06:40,920",
+    "Transcript": "an old wooden pipe, a new pipe, along a rabble"
+  },
+  {
+    "Start Timestamp": "06:40,920",
+    "End Timestamp": "06:41,960",
+    "Transcript": "liberally carved pipe."
+  },
+  {
+    "Start Timestamp": "06:41,960",
+    "End Timestamp": "06:43,480",
+    "Transcript": "Get the pipe in matchbox, like the pipes."
+  },
+  {
+    "Start Timestamp": "06:43,480",
+    "End Timestamp": "06:44,520",
+    "Transcript": "Get some of the pipes."
+  },
+  {
+    "Start Timestamp": "06:44,520",
+    "End Timestamp": "06:47,240",
+    "Transcript": "The deer skin pouch is some pipe weed."
+  },
+  {
+    "Start Timestamp": "06:47,240",
+    "End Timestamp": "06:49,880",
+    "Transcript": "Okay, can I not just say get everything?"
+  },
+  {
+    "Start Timestamp": "06:49,880",
+    "End Timestamp": "06:51,480",
+    "Transcript": "That would be nice."
+  },
+  {
+    "Start Timestamp": "06:51,480",
+    "End Timestamp": "06:52,680",
+    "Transcript": "I don't know everything."
+  },
+  {
+    "Start Timestamp": "06:52,680",
+    "End Timestamp": "06:53,820",
+    "Transcript": "- Take all maybe."
+  },
+  {
+    "Start Timestamp": "06:53,820",
+    "End Timestamp": "06:56,320",
+    "Transcript": "Okay, there we go."
+  },
+  {
+    "Start Timestamp": "06:56,320",
+    "End Timestamp": "06:57,160",
+    "Transcript": "- Whoa!"
+  },
+  {
+    "Start Timestamp": "06:57,160",
+    "End Timestamp": "06:58,000",
+    "Transcript": "- Son of a bitch."
+  },
+  {
+    "Start Timestamp": "06:58,000",
+    "End Timestamp": "06:58,840",
+    "Transcript": "- Nice."
+  },
+  {
+    "Start Timestamp": "06:58,840",
+    "End Timestamp": "06:59,680",
+    "Transcript": "- More."
+  },
+  {
+    "Start Timestamp": "06:59,680",
+    "End Timestamp": "07:00,520",
+    "Transcript": "- Why does it say more?"
+  },
+  {
+    "Start Timestamp": "07:00,520",
+    "End Timestamp": "07:01,360",
+    "Transcript": "- Says I am Sam."
+  },
+  {
+    "Start Timestamp": "07:01,360",
+    "End Timestamp": "07:03,600",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "07:03,600",
+    "End Timestamp": "07:07,920",
+    "Transcript": "Light match."
+  },
+  {
+    "Start Timestamp": "07:07,920",
+    "End Timestamp": "07:09,800",
+    "Transcript": "- Light match."
+  },
+  {
+    "Start Timestamp": "07:09,800",
+    "End Timestamp": "07:11,120",
+    "Transcript": "Burn floor."
+  },
+  {
+    "Start Timestamp": "07:11,120",
+    "End Timestamp": "07:12,120",
+    "Transcript": "- Burn."
+  },
+  {
+    "Start Timestamp": "07:12,120",
+    "End Timestamp": "07:12,960",
+    "Transcript": "- Burn photo."
+  },
+  {
+    "Start Timestamp": "07:12,960",
+    "End Timestamp": "07:14,040",
+    "Transcript": "- Burn photo."
+  },
+  {
+    "Start Timestamp": "07:14,040",
+    "End Timestamp": "07:17,040",
+    "Transcript": "Oh, come on."
+  },
+  {
+    "Start Timestamp": "07:17,040",
+    "End Timestamp": "07:20,040",
+    "Transcript": "Okay, go east."
+  },
+  {
+    "Start Timestamp": "07:20,040",
+    "End Timestamp": "07:21,040",
+    "Transcript": "Hey!"
+  },
+  {
+    "Start Timestamp": "07:21,040",
+    "End Timestamp": "07:23,040",
+    "Transcript": "Oh, what? No way!"
+  },
+  {
+    "Start Timestamp": "07:23,040",
+    "End Timestamp": "07:25,040",
+    "Transcript": "You're at a well-tended garden."
+  },
+  {
+    "Start Timestamp": "07:25,040",
+    "End Timestamp": "07:27,040",
+    "Transcript": "Pick pretty flowers."
+  },
+  {
+    "Start Timestamp": "07:27,040",
+    "End Timestamp": "07:33,040",
+    "Transcript": "Late, matched, set, grass, on fire."
+  },
+  {
+    "Start Timestamp": "07:33,040",
+    "End Timestamp": "07:34,040",
+    "Transcript": "Sign work."
+  },
+  {
+    "Start Timestamp": "07:34,040",
+    "End Timestamp": "07:37,040",
+    "Transcript": "Go, weased."
+  },
+  {
+    "Start Timestamp": "07:37,040",
+    "End Timestamp": "07:39,040",
+    "Transcript": "Oh, you're back in the forest."
+  },
+  {
+    "Start Timestamp": "07:39,040",
+    "End Timestamp": "07:40,040",
+    "Transcript": "Go east."
+  },
+  {
+    "Start Timestamp": "07:40,040",
+    "End Timestamp": "07:42,040",
+    "Transcript": "Go south."
+  },
+  {
+    "Start Timestamp": "07:42,040",
+    "End Timestamp": "07:44,240",
+    "Transcript": "Hey, where the fuck are you?"
+  },
+  {
+    "Start Timestamp": "07:44,240",
+    "End Timestamp": "07:47,740",
+    "Transcript": "Grassy shoulders running east west through the shire and"
+  },
+  {
+    "Start Timestamp": "07:47,740",
+    "End Timestamp": "07:50,840",
+    "Transcript": "Play stream"
+  },
+  {
+    "Start Timestamp": "07:50,840",
+    "End Timestamp": "07:57,640",
+    "Transcript": "You run a broad paved highway with grassy shoulders running east west"
+  },
+  {
+    "Start Timestamp": "07:57,640",
+    "End Timestamp": "07:59,640",
+    "Transcript": "Go north, run stop!"
+  },
+  {
+    "Start Timestamp": "07:59,640",
+    "End Timestamp": "08:03,940",
+    "Transcript": "You're feeling hungry in turn back in your garden you fuck eat the rain"
+  },
+  {
+    "Start Timestamp": "08:07,740",
+    "End Timestamp": "08:12,800",
+    "Transcript": "Eat the pipe we eat some of it, but you can't eat Frodo"
+  },
+  {
+    "Start Timestamp": "08:12,800",
+    "End Timestamp": "08:17,420",
+    "Transcript": "I don't see any Frodo to eat some of you have to go back inside"
+  },
+  {
+    "Start Timestamp": "08:17,420",
+    "End Timestamp": "08:23,980",
+    "Transcript": "He's I want to go back to Frodo and eat them you should really have a meal about now"
+  },
+  {
+    "Start Timestamp": "08:23,980",
+    "End Timestamp": "08:29,380",
+    "Transcript": "You're on a stretch of broad paved highways surrounded by a pleasant quite forest with a tall graceful trees look for food"
+  },
+  {
+    "Start Timestamp": "08:29,380",
+    "End Timestamp": "08:31,380",
+    "Transcript": "The road runs east-west in a narrow pathways"
+  },
+  {
+    "Start Timestamp": "08:33,300",
+    "End Timestamp": "08:35,660",
+    "Transcript": "- Of course, to the status that you go west east,"
+  },
+  {
+    "Start Timestamp": "08:35,660",
+    "End Timestamp": "08:36,860",
+    "Transcript": "how are you supposed to keep track"
+  },
+  {
+    "Start Timestamp": "08:36,860",
+    "End Timestamp": "08:38,220",
+    "Transcript": "of where the fuck you're going?"
+  },
+  {
+    "Start Timestamp": "08:38,220",
+    "End Timestamp": "08:39,060",
+    "Transcript": "- Climb."
+  },
+  {
+    "Start Timestamp": "08:39,060",
+    "End Timestamp": "08:40,820",
+    "Transcript": "- I would say the main climb."
+  },
+  {
+    "Start Timestamp": "08:40,820",
+    "End Timestamp": "08:43,060",
+    "Transcript": "- You go east, you should really have a meal about now."
+  },
+  {
+    "Start Timestamp": "08:43,060",
+    "End Timestamp": "08:44,260",
+    "Transcript": "- Climb me."
+  },
+  {
+    "Start Timestamp": "08:44,260",
+    "End Timestamp": "08:45,260",
+    "Transcript": "- You were in the middle of a long--"
+  },
+  {
+    "Start Timestamp": "08:45,260",
+    "End Timestamp": "08:47,700",
+    "Transcript": "- We tried to climb up you, but you can't."
+  },
+  {
+    "Start Timestamp": "08:47,700",
+    "End Timestamp": "08:49,440",
+    "Transcript": "- You were in the middle of a long gloomy,"
+  },
+  {
+    "Start Timestamp": "08:49,440",
+    "End Timestamp": "08:50,280",
+    "Transcript": "couldn't you?"
+  },
+  {
+    "Start Timestamp": "08:50,280",
+    "End Timestamp": "08:51,700",
+    "Transcript": "- I want a picture of that."
+  },
+  {
+    "Start Timestamp": "08:51,700",
+    "End Timestamp": "08:53,300",
+    "Transcript": "- Climb, climb ring."
+  },
+  {
+    "Start Timestamp": "08:53,300",
+    "End Timestamp": "08:57,180",
+    "Transcript": "- He's desperately trying to climb up the smoke."
+  },
+  {
+    "Start Timestamp": "08:57,180",
+    "End Timestamp": "08:59,140",
+    "Transcript": "- Chris, how did he try to climb up the smoke"
+  },
+  {
+    "Start Timestamp": "08:59,140",
+    "End Timestamp": "09:00,460",
+    "Transcript": "while the ring?"
+  },
+  {
+    "Start Timestamp": "09:00,460",
+    "End Timestamp": "09:03,100",
+    "Transcript": "- He put the ring on the ground and he tried to slow it down."
+  },
+  {
+    "Start Timestamp": "09:03,100",
+    "End Timestamp": "09:03,940",
+    "Transcript": "- What about it?"
+  },
+  {
+    "Start Timestamp": "09:03,940",
+    "End Timestamp": "09:07,020",
+    "Transcript": "- First above is dark and thick with undergrowth."
+  },
+  {
+    "Start Timestamp": "09:07,020",
+    "End Timestamp": "09:09,180",
+    "Transcript": "- Yeah, two treasures to climb."
+  },
+  {
+    "Start Timestamp": "09:09,180",
+    "End Timestamp": "09:10,100",
+    "Transcript": "- Eat grass."
+  },
+  {
+    "Start Timestamp": "09:10,100",
+    "End Timestamp": "09:11,460",
+    "Transcript": "- Eat undergrowth."
+  },
+  {
+    "Start Timestamp": "09:11,460",
+    "End Timestamp": "09:13,940",
+    "Transcript": "Hang out, what do I have?"
+  },
+  {
+    "Start Timestamp": "09:13,940",
+    "End Timestamp": "09:18,380",
+    "Transcript": "Dear Skin Pouch, Pipe Weed, an old wooden pipe,"
+  },
+  {
+    "Start Timestamp": "09:18,380",
+    "End Timestamp": "09:21,100",
+    "Transcript": "a new pipe along a lavatory carved pipe."
+  },
+  {
+    "Start Timestamp": "09:21,100",
+    "End Timestamp": "09:22,500",
+    "Transcript": "- Why is there so many fucking pipes?"
+  },
+  {
+    "Start Timestamp": "09:22,500",
+    "End Timestamp": "09:23,740",
+    "Transcript": "- I don't know."
+  },
+  {
+    "Start Timestamp": "09:23,740",
+    "End Timestamp": "09:25,900",
+    "Transcript": "- Combine all pipes."
+  },
+  {
+    "Start Timestamp": "09:25,900",
+    "End Timestamp": "09:27,500",
+    "Transcript": "(all laughing)"
+  },
+  {
+    "Start Timestamp": "09:27,500",
+    "End Timestamp": "09:28,900",
+    "Transcript": "- There's a known a few of it."
+  },
+  {
+    "Start Timestamp": "09:28,900",
+    "End Timestamp": "09:31,340",
+    "Transcript": "(all laughing)"
+  },
+  {
+    "Start Timestamp": "09:31,340",
+    "End Timestamp": "09:33,100",
+    "Transcript": "- You have the mythical multi-pipe."
+  },
+  {
+    "Start Timestamp": "09:33,100",
+    "End Timestamp": "09:34,380",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "09:34,380",
+    "End Timestamp": "09:35,220",
+    "Transcript": "- Burn river."
+  },
+  {
+    "Start Timestamp": "09:35,220",
+    "End Timestamp": "09:36,620",
+    "Transcript": "- Burn river."
+  },
+  {
+    "Start Timestamp": "09:36,620",
+    "End Timestamp": "09:39,020",
+    "Transcript": "Burn hair."
+  },
+  {
+    "Start Timestamp": "09:39,020",
+    "End Timestamp": "09:41,660",
+    "Transcript": "I'll see if he hares the light."
+  },
+  {
+    "Start Timestamp": "09:41,660",
+    "End Timestamp": "09:43,060",
+    "Transcript": "- He doesn't have puberty yet."
+  },
+  {
+    "Start Timestamp": "09:43,060",
+    "End Timestamp": "09:44,060",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "09:44,060",
+    "End Timestamp": "09:44,900",
+    "Transcript": "- Poor Sam."
+  },
+  {
+    "Start Timestamp": "09:44,900",
+    "End Timestamp": "09:46,020",
+    "Transcript": "- I'm gonna grow in my pew."
+  },
+  {
+    "Start Timestamp": "09:46,020",
+    "End Timestamp": "09:47,540",
+    "Transcript": "- Go east."
+  },
+  {
+    "Start Timestamp": "09:47,540",
+    "End Timestamp": "09:48,380",
+    "Transcript": "- Oh."
+  },
+  {
+    "Start Timestamp": "09:48,380",
+    "End Timestamp": "09:49,220",
+    "Transcript": "- Oh."
+  },
+  {
+    "Start Timestamp": "09:49,220",
+    "End Timestamp": "09:50,940",
+    "Transcript": "- You're on a stone bridge with many arches"
+  },
+  {
+    "Start Timestamp": "09:50,940",
+    "End Timestamp": "09:52,740",
+    "Transcript": "over a wide river."
+  },
+  {
+    "Start Timestamp": "09:52,740",
+    "End Timestamp": "09:53,580",
+    "Transcript": "Okay, go down there."
+  },
+  {
+    "Start Timestamp": "09:53,580",
+    "End Timestamp": "09:54,420",
+    "Transcript": "- Cross bridge."
+  },
+  {
+    "Start Timestamp": "09:54,420",
+    "End Timestamp": "09:55,820",
+    "Transcript": "- Three black riders enter."
+  },
+  {
+    "Start Timestamp": "09:55,820",
+    "End Timestamp": "09:56,660",
+    "Transcript": "- You were fucking brave."
+  },
+  {
+    "Start Timestamp": "09:56,660",
+    "End Timestamp": "09:57,840",
+    "Transcript": "- Where ring?"
+  },
+  {
+    "Start Timestamp": "09:57,840",
+    "End Timestamp": "09:58,840",
+    "Transcript": "- Wave to riders."
+  },
+  {
+    "Start Timestamp": "09:58,840",
+    "End Timestamp": "10:00,340",
+    "Transcript": "- It's not gonna work with them."
+  },
+  {
+    "Start Timestamp": "10:00,340",
+    "End Timestamp": "10:02,340",
+    "Transcript": "Hello"
+  },
+  {
+    "Start Timestamp": "10:02,340",
+    "End Timestamp": "10:08,480",
+    "Transcript": "You say hello a black-writer fixes you with his coldly burning eyes you feel the chill spread over you who fails"
+  },
+  {
+    "Start Timestamp": "10:08,480",
+    "End Timestamp": "10:10,980",
+    "Transcript": "Sarah now has the ring"
+  },
+  {
+    "Start Timestamp": "10:10,980",
+    "End Timestamp": "10:14,800",
+    "Transcript": "That was the most bullshit ending this story you try"
+  },
+  {
+    "Start Timestamp": "10:14,800",
+    "End Timestamp": "10:20,700",
+    "Transcript": "What do you mean me try it's your fault you killed everybody they could have taken a photo if he was there"
+  },
+  {
+    "Start Timestamp": "10:20,700",
+    "End Timestamp": "10:27,620",
+    "Transcript": "Fine, I'll be you smashed his head and you cleaved it. I'll be Frodo this time. Okay"
+  },
+  {
+    "Start Timestamp": "10:28,740",
+    "End Timestamp": "10:30,740",
+    "Transcript": "Now get him back kill him"
+  },
+  {
+    "Start Timestamp": "10:30,740",
+    "End Timestamp": "10:34,740",
+    "Transcript": "Pippin's a little peepy"
+  },
+  {
+    "Start Timestamp": "10:34,740",
+    "End Timestamp": "10:41,860",
+    "Transcript": "You swing in is the last moment jump pimp it jumps the side you tax you put the effort is wasted your defenses too strong"
+  },
+  {
+    "Start Timestamp": "10:41,860",
+    "End Timestamp": "10:48,500",
+    "Transcript": "Sam attacks pimpin some slices of sand. What the fuck he's helping you slowly to the ground kill very dramatic"
+  },
+  {
+    "Start Timestamp": "10:48,500",
+    "End Timestamp": "10:52,660",
+    "Transcript": "ugly face"
+  },
+  {
+    "Start Timestamp": "10:52,660",
+    "End Timestamp": "10:58,100",
+    "Transcript": "Kill him again kill him again"
+  },
+  {
+    "Start Timestamp": "10:58,100",
+    "End Timestamp": "11:06,460",
+    "Transcript": "You take Pippin you cleave. Oh my god. Hi Sam. Congratulations. Say hello. Say hello"
+  },
+  {
+    "Start Timestamp": "11:06,460",
+    "End Timestamp": "11:11,800",
+    "Transcript": "Sam wait, he's just standing there staring"
+  },
+  {
+    "Start Timestamp": "11:11,800",
+    "End Timestamp": "11:19,340",
+    "Transcript": "Feed Sam"
+  },
+  {
+    "Start Timestamp": "11:19,340",
+    "End Timestamp": "11:22,540",
+    "Transcript": "Feed it feeds him"
+  },
+  {
+    "Start Timestamp": "11:22,540",
+    "End Timestamp": "11:26,980",
+    "Transcript": "Sam get feed him be Sam Pippin"
+  },
+  {
+    "Start Timestamp": "11:26,980",
+    "End Timestamp": "11:32,860",
+    "Transcript": "Okay, open the dresser get the pipes talk to Sam"
+  },
+  {
+    "Start Timestamp": "11:32,860",
+    "End Timestamp": "11:35,580",
+    "Transcript": "Talk to Sam"
+  },
+  {
+    "Start Timestamp": "11:35,580",
+    "End Timestamp": "11:42,900",
+    "Transcript": "Now in complete you talk to Sam you had a conversation apparently"
+  },
+  {
+    "Start Timestamp": "11:42,900",
+    "End Timestamp": "11:47,020",
+    "Transcript": "Okay, climb Sam wait. Let's open the cupboard"
+  },
+  {
+    "Start Timestamp": "11:47,020",
+    "End Timestamp": "11:51,020",
+    "Transcript": "Was I still covered it didn't know there's a P"
+  },
+  {
+    "Start Timestamp": "11:51,580",
+    "End Timestamp": "11:53,580",
+    "Transcript": "Open cupboard. Yeah"
+  },
+  {
+    "Start Timestamp": "11:53,580",
+    "End Timestamp": "11:57,540",
+    "Transcript": "Food in the bottle take all"
+  },
+  {
+    "Start Timestamp": "11:57,540",
+    "End Timestamp": "12:02,580",
+    "Transcript": "Okay, we good the fuck you take the match. Sam wait you take the match Sam"
+  },
+  {
+    "Start Timestamp": "12:02,580",
+    "End Timestamp": "12:08,020",
+    "Transcript": "He's try to go east with the green doors close. Oh my god. Got an open door open door"
+  },
+  {
+    "Start Timestamp": "12:08,020",
+    "End Timestamp": "12:11,260",
+    "Transcript": "Go east"
+  },
+  {
+    "Start Timestamp": "12:11,260",
+    "End Timestamp": "12:15,060",
+    "Transcript": "In a sunny well-tended garden go easy"
+  },
+  {
+    "Start Timestamp": "12:15,060",
+    "End Timestamp": "12:21,220",
+    "Transcript": "Go south"
+  },
+  {
+    "Start Timestamp": "12:21,220",
+    "End Timestamp": "12:23,220",
+    "Transcript": "You got a bug play really?"
+  },
+  {
+    "Start Timestamp": "12:23,220",
+    "End Timestamp": "12:28,800",
+    "Transcript": "Running east west. I like these pictures. Okay. Um you can go. Let's go west this time"
+  },
+  {
+    "Start Timestamp": "12:28,800",
+    "End Timestamp": "12:33,940",
+    "Transcript": "At crossroads traveled by fire read sign"
+  },
+  {
+    "Start Timestamp": "12:33,940",
+    "End Timestamp": "12:36,980",
+    "Transcript": "Sam enters"
+  },
+  {
+    "Start Timestamp": "12:36,980",
+    "End Timestamp": "12:40,180",
+    "Transcript": "You see you being carried by you were a map"
+  },
+  {
+    "Start Timestamp": "12:40,180",
+    "End Timestamp": "12:48,900",
+    "Transcript": "In the bottles of wine drink wine drink wine get blasted"
+  },
+  {
+    "Start Timestamp": "12:48,900",
+    "End Timestamp": "12:52,900",
+    "Transcript": "You drink some of the wine, Sam wonders if this is a good idea."
+  },
+  {
+    "Start Timestamp": "12:52,900",
+    "End Timestamp": "12:54,900",
+    "Transcript": "This is going to be a little bit more."
+  },
+  {
+    "Start Timestamp": "12:54,900",
+    "End Timestamp": "12:55,900",
+    "Transcript": "It kills Sam."
+  },
+  {
+    "Start Timestamp": "12:55,900",
+    "End Timestamp": "12:57,900",
+    "Transcript": "Sam drinks some of the wine."
+  },
+  {
+    "Start Timestamp": "12:57,900",
+    "End Timestamp": "12:59,900",
+    "Transcript": "Break wine bottle of your Sam's head."
+  },
+  {
+    "Start Timestamp": "12:59,900",
+    "End Timestamp": "13:01,900",
+    "Transcript": "Break bottle."
+  },
+  {
+    "Start Timestamp": "13:01,900",
+    "End Timestamp": "13:03,900",
+    "Transcript": "Sam's Sam."
+  },
+  {
+    "Start Timestamp": "13:03,900",
+    "End Timestamp": "13:05,900",
+    "Transcript": "Okay, you broke the bottle."
+  },
+  {
+    "Start Timestamp": "13:05,900",
+    "End Timestamp": "13:08,900",
+    "Transcript": "The wine evaporates."
+  },
+  {
+    "Start Timestamp": "13:08,900",
+    "End Timestamp": "13:11,900",
+    "Transcript": "I attack Sam with bottle."
+  },
+  {
+    "Start Timestamp": "13:11,900",
+    "End Timestamp": "13:12,900",
+    "Transcript": "Slice."
+  },
+  {
+    "Start Timestamp": "13:12,900",
+    "End Timestamp": "13:13,900",
+    "Transcript": "Slice."
+  },
+  {
+    "Start Timestamp": "13:13,900",
+    "End Timestamp": "13:15,900",
+    "Transcript": "Oh, throw it."
+  },
+  {
+    "Start Timestamp": "13:15,900",
+    "End Timestamp": "13:17,900",
+    "Transcript": "Oh."
+  },
+  {
+    "Start Timestamp": "13:17,900",
+    "End Timestamp": "13:19,900",
+    "Transcript": "attack self"
+  },
+  {
+    "Start Timestamp": "13:19,900",
+    "End Timestamp": "13:21,900",
+    "Transcript": "uh..."
+  },
+  {
+    "Start Timestamp": "13:21,900",
+    "End Timestamp": "13:23,900",
+    "Transcript": "self-harm"
+  },
+  {
+    "Start Timestamp": "13:23,900",
+    "End Timestamp": "13:25,900",
+    "Transcript": "attack-attack-frotto"
+  },
+  {
+    "Start Timestamp": "13:25,900",
+    "End Timestamp": "13:27,900",
+    "Transcript": "I'm-I'm Frodo"
+  },
+  {
+    "Start Timestamp": "13:27,900",
+    "End Timestamp": "13:29,900",
+    "Transcript": "Yes, so what?"
+  },
+  {
+    "Start Timestamp": "13:29,900",
+    "End Timestamp": "13:31,900",
+    "Transcript": "He's defensive, too strong anyway"
+  },
+  {
+    "Start Timestamp": "13:31,900",
+    "End Timestamp": "13:33,900",
+    "Transcript": "He's just-he's killing Sam again"
+  },
+  {
+    "Start Timestamp": "13:33,900",
+    "End Timestamp": "13:35,900",
+    "Transcript": "He's waiting for you to so do it, so bro"
+  },
+  {
+    "Start Timestamp": "13:35,900",
+    "End Timestamp": "13:37,900",
+    "Transcript": "Sam attacks you"
+  },
+  {
+    "Start Timestamp": "13:37,900",
+    "End Timestamp": "13:39,900",
+    "Transcript": "What the fuck?"
+  },
+  {
+    "Start Timestamp": "13:39,900",
+    "End Timestamp": "13:41,900",
+    "Transcript": "*laughter*"
+  },
+  {
+    "Start Timestamp": "13:41,900",
+    "End Timestamp": "13:43,900",
+    "Transcript": "He's just-he's been standing here in silence"
+  },
+  {
+    "Start Timestamp": "13:43,900",
+    "End Timestamp": "13:45,900",
+    "Transcript": "and then he just killed you"
+  },
+  {
+    "Start Timestamp": "13:45,900",
+    "End Timestamp": "13:47,900",
+    "Transcript": "I clean my skull."
+  },
+  {
+    "Start Timestamp": "13:47,900",
+    "End Timestamp": "13:48,400",
+    "Transcript": "Yes."
+  },
+  {
+    "Start Timestamp": "13:48,400",
+    "End Timestamp": "13:50,400",
+    "Transcript": "This time I want to be married."
+  },
+  {
+    "Start Timestamp": "13:50,400",
+    "End Timestamp": "13:51,400",
+    "Transcript": "Here to go."
+  },
+  {
+    "Start Timestamp": "13:51,400",
+    "End Timestamp": "13:54,400",
+    "Transcript": "Oh, this is a different eat pig head."
+  },
+  {
+    "Start Timestamp": "13:54,400",
+    "End Timestamp": "13:57,900",
+    "Transcript": "You were on a comfortable, eat furnished cottage with round windows."
+  },
+  {
+    "Start Timestamp": "13:57,900",
+    "End Timestamp": "13:59,900",
+    "Transcript": "You see a table on the table is a welcome meal."
+  },
+  {
+    "Start Timestamp": "13:59,900",
+    "End Timestamp": "14:00,900",
+    "Transcript": "Eat the meal."
+  },
+  {
+    "Start Timestamp": "14:00,900",
+    "End Timestamp": "14:04,900",
+    "Transcript": "Possible exits are through the yellow door and through the yellow door."
+  },
+  {
+    "Start Timestamp": "14:04,900",
+    "End Timestamp": "14:05,900",
+    "Transcript": "Okay."
+  },
+  {
+    "Start Timestamp": "14:05,900",
+    "End Timestamp": "14:07,900",
+    "Transcript": "Eat meal."
+  },
+  {
+    "Start Timestamp": "14:07,900",
+    "End Timestamp": "14:08,900",
+    "Transcript": "Yeah, eat food."
+  },
+  {
+    "Start Timestamp": "14:08,900",
+    "End Timestamp": "14:10,900",
+    "Transcript": "Eat meal."
+  },
+  {
+    "Start Timestamp": "14:10,900",
+    "End Timestamp": "14:12,900",
+    "Transcript": "You eat some of the walking."
+  },
+  {
+    "Start Timestamp": "14:12,900",
+    "End Timestamp": "14:13,900",
+    "Transcript": "Eat more."
+  },
+  {
+    "Start Timestamp": "14:13,900",
+    "End Timestamp": "14:14,900",
+    "Transcript": "Open doors."
+  },
+  {
+    "Start Timestamp": "14:14,900",
+    "End Timestamp": "14:16,900",
+    "Transcript": "doors"
+  },
+  {
+    "Start Timestamp": "14:16,900",
+    "End Timestamp": "14:18,900",
+    "Transcript": "the other doors already open"
+  },
+  {
+    "Start Timestamp": "14:18,900",
+    "End Timestamp": "14:20,900",
+    "Transcript": "go east"
+  },
+  {
+    "Start Timestamp": "14:20,900",
+    "End Timestamp": "14:23,900",
+    "Transcript": "at the entrance to a dark tunnel going east under a high"
+  },
+  {
+    "Start Timestamp": "14:23,900",
+    "End Timestamp": "14:28,900",
+    "Transcript": "hedge which would be too thick to hide a climb and too thick to go through"
+  },
+  {
+    "Start Timestamp": "14:28,900",
+    "End Timestamp": "14:31,900",
+    "Transcript": "uh... go through"
+  },
+  {
+    "Start Timestamp": "14:31,900",
+    "End Timestamp": "14:35,900",
+    "Transcript": "go through the yellow door"
+  },
+  {
+    "Start Timestamp": "14:35,900",
+    "End Timestamp": "14:37,900",
+    "Transcript": "i'm in back in my face"
+  },
+  {
+    "Start Timestamp": "14:37,900",
+    "End Timestamp": "14:39,900",
+    "Transcript": "i still be in dry west"
+  },
+  {
+    "Start Timestamp": "14:39,900",
+    "End Timestamp": "14:41,900",
+    "Transcript": "south"
+  },
+  {
+    "Start Timestamp": "14:41,900",
+    "End Timestamp": "14:48,800",
+    "Transcript": "a wooden fuck me. Oh, oh my god you're all"
+  },
+  {
+    "Start Timestamp": "14:48,800",
+    "End Timestamp": "14:56,620",
+    "Transcript": "You're on a rocky overcroble overlooking forever running southeast through a wide ravine"
+  },
+  {
+    "Start Timestamp": "14:56,620",
+    "End Timestamp": "15:00,900",
+    "Transcript": "You can go northwest. Let's go. I"
+  },
+  {
+    "Start Timestamp": "15:00,900",
+    "End Timestamp": "15:06,920",
+    "Transcript": "West"
+  },
+  {
+    "Start Timestamp": "15:06,920",
+    "End Timestamp": "15:10,640",
+    "Transcript": "The brushy, cliff top, and the northeast end of the lake."
+  },
+  {
+    "Start Timestamp": "15:10,640",
+    "End Timestamp": "15:14,480",
+    "Transcript": "The south bank of a river flowed southeast of the lake."
+  },
+  {
+    "Start Timestamp": "15:14,480",
+    "End Timestamp": "15:16,480",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "15:16,480",
+    "End Timestamp": "15:19,960",
+    "Transcript": "You were on the sandy beach of a white silver lake"
+  },
+  {
+    "Start Timestamp": "15:19,960",
+    "End Timestamp": "15:21,240",
+    "Transcript": "in a shallow green valley."
+  },
+  {
+    "Start Timestamp": "15:21,240",
+    "End Timestamp": "15:22,240",
+    "Transcript": "The lake is oval."
+  },
+  {
+    "Start Timestamp": "15:22,240",
+    "End Timestamp": "15:24,440",
+    "Transcript": "Its long axis is aligned southwest,"
+  },
+  {
+    "Start Timestamp": "15:24,440",
+    "End Timestamp": "15:26,600",
+    "Transcript": "northeast, and it looks very pleasant."
+  },
+  {
+    "Start Timestamp": "15:26,600",
+    "End Timestamp": "15:27,440",
+    "Transcript": "Swim."
+  },
+  {
+    "Start Timestamp": "15:27,440",
+    "End Timestamp": "15:28,280",
+    "Transcript": "Sit down."
+  },
+  {
+    "Start Timestamp": "15:28,280",
+    "End Timestamp": "15:30,200",
+    "Transcript": "Sit down."
+  },
+  {
+    "Start Timestamp": "15:30,200",
+    "End Timestamp": "15:31,040",
+    "Transcript": "Sit down."
+  },
+  {
+    "Start Timestamp": "15:31,040",
+    "End Timestamp": "15:31,880",
+    "Transcript": "Sit down."
+  },
+  {
+    "Start Timestamp": "15:31,880",
+    "End Timestamp": "15:34,400",
+    "Transcript": "I don't see any sit-to-clank there."
+  },
+  {
+    "Start Timestamp": "15:34,400",
+    "End Timestamp": "15:35,240",
+    "Transcript": "Sit down."
+  },
+  {
+    "Start Timestamp": "15:35,240",
+    "End Timestamp": "15:36,040",
+    "Transcript": "Dude!"
+  },
+  {
+    "Start Timestamp": "15:36,040",
+    "End Timestamp": "15:38,840",
+    "Transcript": "Swim!"
+  },
+  {
+    "Start Timestamp": "15:38,840",
+    "End Timestamp": "15:40,040",
+    "Transcript": "Swim!"
+  },
+  {
+    "Start Timestamp": "15:40,040",
+    "End Timestamp": "15:42,640",
+    "Transcript": "You swim in the lake."
+  },
+  {
+    "Start Timestamp": "15:42,640",
+    "End Timestamp": "15:45,540",
+    "Transcript": "Out from the water rises the water retards head."
+  },
+  {
+    "Start Timestamp": "15:45,540",
+    "End Timestamp": "15:46,140",
+    "Transcript": "What?"
+  },
+  {
+    "Start Timestamp": "15:46,140",
+    "End Timestamp": "15:48,940",
+    "Transcript": "Out of my boat or your horrible little hobbit she shrieks."
+  },
+  {
+    "Start Timestamp": "15:48,940",
+    "End Timestamp": "15:51,440",
+    "Transcript": "The water retards throw something in the water retards."
+  },
+  {
+    "Start Timestamp": "15:51,440",
+    "End Timestamp": "15:53,040",
+    "Transcript": "Since then, don't take something."
+  },
+  {
+    "Start Timestamp": "15:53,040",
+    "End Timestamp": "15:53,540",
+    "Transcript": "Hello."
+  },
+  {
+    "Start Timestamp": "15:53,540",
+    "End Timestamp": "15:54,340",
+    "Transcript": "Take it."
+  },
+  {
+    "Start Timestamp": "15:54,340",
+    "End Timestamp": "15:56,240",
+    "Transcript": "You guys type tackle."
+  },
+  {
+    "Start Timestamp": "15:56,240",
+    "End Timestamp": "15:57,740",
+    "Transcript": "Say hello."
+  },
+  {
+    "Start Timestamp": "15:57,740",
+    "End Timestamp": "15:59,240",
+    "Transcript": "Hello."
+  },
+  {
+    "Start Timestamp": "15:59,240",
+    "End Timestamp": "16:02,240",
+    "Transcript": "Something."
+  },
+  {
+    "Start Timestamp": "16:02,240",
+    "End Timestamp": "16:03,940",
+    "Transcript": "I don't know the words."
+  },
+  {
+    "Start Timestamp": "16:03,940",
+    "End Timestamp": "16:04,740",
+    "Transcript": "Take all."
+  },
+  {
+    "Start Timestamp": "16:04,740",
+    "End Timestamp": "16:09,020",
+    "Transcript": "Take all good idea nothing. Okay. Well, that was point drowned"
+  },
+  {
+    "Start Timestamp": "16:09,020",
+    "End Timestamp": "16:18,260",
+    "Transcript": "What you attack you swing feebly at you"
+  },
+  {
+    "Start Timestamp": "16:18,260",
+    "End Timestamp": "16:27,060",
+    "Transcript": "drowned you become what what okay, so wait you try to punch yourself and somehow miss and then you drowned"
+  },
+  {
+    "Start Timestamp": "16:31,220",
+    "End Timestamp": "16:32,820",
+    "Transcript": "Oh, it was I Marry your pippin'"
+  },
+  {
+    "Start Timestamp": "16:32,820",
+    "End Timestamp": "16:33,620",
+    "Transcript": "You were very..."
+  },
+  {
+    "Start Timestamp": "16:33,620",
+    "End Timestamp": "16:34,620",
+    "Transcript": "I'm very stinky"
+  },
+  {
+    "Start Timestamp": "16:34,620",
+    "End Timestamp": "16:38,320",
+    "Transcript": "I wanna be this time I would be pippin'"
+  },
+  {
+    "Start Timestamp": "16:38,320",
+    "End Timestamp": "16:39,320",
+    "Transcript": "For Gandalf"
+  },
+  {
+    "Start Timestamp": "16:39,320",
+    "End Timestamp": "16:41,220",
+    "Transcript": "You can't be Gandalf"
+  },
+  {
+    "Start Timestamp": "16:41,220",
+    "End Timestamp": "16:42,220",
+    "Transcript": "I don't know"
+  },
+  {
+    "Start Timestamp": "16:42,220",
+    "End Timestamp": "16:43,220",
+    "Transcript": "Whoa"
+  },
+  {
+    "Start Timestamp": "16:43,220",
+    "End Timestamp": "16:44,220",
+    "Transcript": "Maybe it's a secret"
+  },
+  {
+    "Start Timestamp": "16:44,220",
+    "End Timestamp": "16:46,720",
+    "Transcript": "Am I with my friends?"
+  },
+  {
+    "Start Timestamp": "16:46,720",
+    "End Timestamp": "16:47,220",
+    "Transcript": "Yeah"
+  },
+  {
+    "Start Timestamp": "16:47,220",
+    "End Timestamp": "16:48,720",
+    "Transcript": "Frodo waits and Sam waits"
+  },
+  {
+    "Start Timestamp": "16:48,720",
+    "End Timestamp": "16:49,720",
+    "Transcript": "Sam"
+  },
+  {
+    "Start Timestamp": "16:49,720",
+    "End Timestamp": "16:50,720",
+    "Transcript": "War Sam"
+  },
+  {
+    "Start Timestamp": "16:50,720",
+    "End Timestamp": "16:51,720",
+    "Transcript": "War Who's Sam?"
+  },
+  {
+    "Start Timestamp": "16:51,720",
+    "End Timestamp": "16:54,220",
+    "Transcript": "You can't recruit Sam"
+  },
+  {
+    "Start Timestamp": "16:54,220",
+    "End Timestamp": "16:56,720",
+    "Transcript": "Stack Frodo on Sam"
+  },
+  {
+    "Start Timestamp": "16:56,720",
+    "End Timestamp": "17:00,720",
+    "Transcript": "You see, group of photographs of prize wooden vegetables"
+  },
+  {
+    "Start Timestamp": "17:00,720",
+    "End Timestamp": "17:05,960",
+    "Transcript": "Pigs wearing blue satin sashes and hobbits of all ages and their Sunday clothes get pigs"
+  },
+  {
+    "Start Timestamp": "17:05,960",
+    "End Timestamp": "17:22,520",
+    "Transcript": "Nice my break bottle over Frodo"
+  },
+  {
+    "Start Timestamp": "17:22,520",
+    "End Timestamp": "17:29,680",
+    "Transcript": "Drink wine drink all"
+  },
+  {
+    "Start Timestamp": "17:29,680",
+    "End Timestamp": "17:30,520",
+    "Transcript": "- Drink wine."
+  },
+  {
+    "Start Timestamp": "17:30,520",
+    "End Timestamp": "17:32,360",
+    "Transcript": "- Drink wine."
+  },
+  {
+    "Start Timestamp": "17:32,360",
+    "End Timestamp": "17:33,200",
+    "Transcript": "You drink some of the wine,"
+  },
+  {
+    "Start Timestamp": "17:33,200",
+    "End Timestamp": "17:34,040",
+    "Transcript": "photo drinks of the wine."
+  },
+  {
+    "Start Timestamp": "17:34,040",
+    "End Timestamp": "17:34,880",
+    "Transcript": "- Do it again."
+  },
+  {
+    "Start Timestamp": "17:34,880",
+    "End Timestamp": "17:36,540",
+    "Transcript": "- Drink wine."
+  },
+  {
+    "Start Timestamp": "17:36,540",
+    "End Timestamp": "17:40,840",
+    "Transcript": "- Rhoda says, \"Traveling always makes one thirsty.\""
+  },
+  {
+    "Start Timestamp": "17:40,840",
+    "End Timestamp": "17:41,680",
+    "Transcript": "- Drink wine."
+  },
+  {
+    "Start Timestamp": "17:41,680",
+    "End Timestamp": "17:43,400",
+    "Transcript": "- Does ever run out?"
+  },
+  {
+    "Start Timestamp": "17:43,400",
+    "End Timestamp": "17:44,240",
+    "Transcript": "- I hope so."
+  },
+  {
+    "Start Timestamp": "17:44,240",
+    "End Timestamp": "17:46,800",
+    "Transcript": "The wine is now finished."
+  },
+  {
+    "Start Timestamp": "17:46,800",
+    "End Timestamp": "17:49,280",
+    "Transcript": "- Fuck."
+  },
+  {
+    "Start Timestamp": "17:49,280",
+    "End Timestamp": "17:50,640",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "17:50,640",
+    "End Timestamp": "17:52,120",
+    "Transcript": "- So come to urges."
+  },
+  {
+    "Start Timestamp": "17:52,120",
+    "End Timestamp": "17:54,320",
+    "Transcript": "- Come queer."
+  },
+  {
+    "Start Timestamp": "17:54,320",
+    "End Timestamp": "17:56,560",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "17:57,560",
+    "End Timestamp": "17:59,560",
+    "Transcript": "Hey, doesn't know that word."
+  },
+  {
+    "Start Timestamp": "17:59,560",
+    "End Timestamp": "18:01,560",
+    "Transcript": "Tug gets me."
+  },
+  {
+    "Start Timestamp": "18:01,560",
+    "End Timestamp": "18:03,560",
+    "Transcript": "[LAUGHTER]"
+  },
+  {
+    "Start Timestamp": "18:03,560",
+    "End Timestamp": "18:04,560",
+    "Transcript": "Tug one out."
+  },
+  {
+    "Start Timestamp": "18:04,560",
+    "End Timestamp": "18:06,560",
+    "Transcript": "[LAUGHTER]"
+  },
+  {
+    "Start Timestamp": "18:06,560",
+    "End Timestamp": "18:09,560",
+    "Transcript": "No stupid."
+  },
+  {
+    "Start Timestamp": "18:09,560",
+    "End Timestamp": "18:11,560",
+    "Transcript": "[LAUGHTER]"
+  },
+  {
+    "Start Timestamp": "18:11,560",
+    "End Timestamp": "18:16,560",
+    "Transcript": "Chris."
+  },
+  {
+    "Start Timestamp": "18:16,560",
+    "End Timestamp": "18:17,560",
+    "Transcript": "Oh, my."
+  },
+  {
+    "Start Timestamp": "18:17,560",
+    "End Timestamp": "18:21,560",
+    "Transcript": "He's sitting in a garden trunk."
+  },
+  {
+    "Start Timestamp": "18:21,560",
+    "End Timestamp": "18:22,560",
+    "Transcript": "I'm sorry."
+  },
+  {
+    "Start Timestamp": "18:22,560",
+    "End Timestamp": "18:23,560",
+    "Transcript": "B-frotto."
+  },
+  {
+    "Start Timestamp": "18:23,560",
+    "End Timestamp": "18:25,560",
+    "Transcript": "[LAUGHTER]"
+  },
+  {
+    "Start Timestamp": "18:25,560",
+    "End Timestamp": "18:27,560",
+    "Transcript": "*laughter*"
+  },
+  {
+    "Start Timestamp": "18:27,560",
+    "End Timestamp": "18:29,560",
+    "Transcript": "You throwed them."
+  },
+  {
+    "Start Timestamp": "18:29,560",
+    "End Timestamp": "18:30,560",
+    "Transcript": "Oh my god."
+  },
+  {
+    "Start Timestamp": "18:30,560",
+    "End Timestamp": "18:31,560",
+    "Transcript": "Become Frodo."
+  },
+  {
+    "Start Timestamp": "18:31,560",
+    "End Timestamp": "18:32,560",
+    "Transcript": "Become Frodo."
+  },
+  {
+    "Start Timestamp": "18:32,560",
+    "End Timestamp": "18:33,560",
+    "Transcript": "Bite Frodo."
+  },
+  {
+    "Start Timestamp": "18:33,560",
+    "End Timestamp": "18:35,560",
+    "Transcript": "*laughter*"
+  },
+  {
+    "Start Timestamp": "18:35,560",
+    "End Timestamp": "18:37,560",
+    "Transcript": "I don't know what to bite."
+  },
+  {
+    "Start Timestamp": "18:37,560",
+    "End Timestamp": "18:38,560",
+    "Transcript": "Uh..."
+  },
+  {
+    "Start Timestamp": "18:38,560",
+    "End Timestamp": "18:39,560",
+    "Transcript": "Jump in place."
+  },
+  {
+    "Start Timestamp": "18:39,560",
+    "End Timestamp": "18:40,560",
+    "Transcript": "*laughter*"
+  },
+  {
+    "Start Timestamp": "18:40,560",
+    "End Timestamp": "18:41,560",
+    "Transcript": "Fall."
+  },
+  {
+    "Start Timestamp": "18:41,560",
+    "End Timestamp": "18:42,560",
+    "Transcript": "Lay up scotch."
+  },
+  {
+    "Start Timestamp": "18:42,560",
+    "End Timestamp": "18:43,560",
+    "Transcript": "Flap."
+  },
+  {
+    "Start Timestamp": "18:43,560",
+    "End Timestamp": "18:44,560",
+    "Transcript": "*laughter*"
+  },
+  {
+    "Start Timestamp": "18:44,560",
+    "End Timestamp": "18:45,560",
+    "Transcript": "You do nothing!"
+  },
+  {
+    "Start Timestamp": "18:45,560",
+    "End Timestamp": "18:47,560",
+    "Transcript": "*laughter*"
+  },
+  {
+    "Start Timestamp": "18:47,560",
+    "End Timestamp": "18:49,560",
+    "Transcript": "On a stretch of broad paint,"
+  },
+  {
+    "Start Timestamp": "18:49,560",
+    "End Timestamp": "18:51,560",
+    "Transcript": "I always surrounded by pleasant white fours"
+  },
+  {
+    "Start Timestamp": "18:51,560",
+    "End Timestamp": "18:52,560",
+    "Transcript": "with tall dreams."
+  },
+  {
+    "Start Timestamp": "18:52,560",
+    "End Timestamp": "18:53,560",
+    "Transcript": "Fucking dreams."
+  },
+  {
+    "Start Timestamp": "18:53,560",
+    "End Timestamp": "18:54,560",
+    "Transcript": "Fucking trees."
+  },
+  {
+    "Start Timestamp": "18:54,560",
+    "End Timestamp": "18:57,640",
+    "Transcript": "Let's go south again. Yeah, let's go south forever"
+  },
+  {
+    "Start Timestamp": "18:57,640",
+    "End Timestamp": "19:03,280",
+    "Transcript": "You're in a small spooky in a small grassy glade in the middle of light match"
+  },
+  {
+    "Start Timestamp": "19:03,280",
+    "End Timestamp": "19:08,500",
+    "Transcript": "Okay, light they got up in the matchbox. Okay open"
+  },
+  {
+    "Start Timestamp": "19:08,500",
+    "End Timestamp": "19:12,000",
+    "Transcript": "match"
+  },
+  {
+    "Start Timestamp": "19:12,000",
+    "End Timestamp": "19:19,480",
+    "Transcript": "Oh no, we're in for a world of hurt break bottle"
+  },
+  {
+    "Start Timestamp": "19:21,360",
+    "End Timestamp": "19:24,080",
+    "Transcript": "Break the bottle you need to be armed break"
+  },
+  {
+    "Start Timestamp": "19:24,080",
+    "End Timestamp": "19:33,080",
+    "Transcript": "You gotta break the ball go east you go east you're in a very thick part of the forest the trees grow closer"
+  },
+  {
+    "Start Timestamp": "19:33,080",
+    "End Timestamp": "19:38,120",
+    "Transcript": "And I obscure the sky with their foliage the underbrushes they quit brambles yourself"
+  },
+  {
+    "Start Timestamp": "19:38,120",
+    "End Timestamp": "19:43,320",
+    "Transcript": "Your sound there's some browns and surrounded by chimps"
+  },
+  {
+    "Start Timestamp": "19:49,560",
+    "End Timestamp": "19:51,860",
+    "Transcript": "How would you feel if you're surrounded by Jim?"
+  },
+  {
+    "Start Timestamp": "19:51,860",
+    "End Timestamp": "19:55,660",
+    "Transcript": "Learn of the rings. Yeah, let's go West"
+  },
+  {
+    "Start Timestamp": "19:55,660",
+    "End Timestamp": "19:58,860",
+    "Transcript": "Marci country"
+  },
+  {
+    "Start Timestamp": "19:58,860",
+    "End Timestamp": "20:03,540",
+    "Transcript": "This is where Frodo falls his dumb fucking head into the okay, let's see a push Frodo"
+  },
+  {
+    "Start Timestamp": "20:03,540",
+    "End Timestamp": "20:07,340",
+    "Transcript": "The ground is very buggy and all around you are tall trees and scrooby trees"
+  },
+  {
+    "Start Timestamp": "20:07,340",
+    "End Timestamp": "20:15,000",
+    "Transcript": "The Musketes are terrible and you sure there are leeches in your socks. Oh my god. Wait. We don't wear socks. We're fucking hobbits"
+  },
+  {
+    "Start Timestamp": "20:15,000",
+    "End Timestamp": "20:17,080",
+    "Transcript": "That's a good point. They don't wear shoes. Oh, yeah"
+  },
+  {
+    "Start Timestamp": "20:17,660",
+    "End Timestamp": "20:21,420",
+    "Transcript": "Can't empty the socks eat socks pick toes"
+  },
+  {
+    "Start Timestamp": "20:21,420",
+    "End Timestamp": "20:28,180",
+    "Transcript": "I can't pick me told I'm gonna go east I guess"
+  },
+  {
+    "Start Timestamp": "20:28,180",
+    "End Timestamp": "20:33,260",
+    "Transcript": "You're in some brown sand. We should not be as funny as it is"
+  },
+  {
+    "Start Timestamp": "20:33,260",
+    "End Timestamp": "20:40,300",
+    "Transcript": "Okay, we're in brown sand now. Okay, no sand we're going just all the way back up north now. Yeah"
+  },
+  {
+    "Start Timestamp": "20:40,300",
+    "End Timestamp": "20:42,720",
+    "Transcript": "Riders"
+  },
+  {
+    "Start Timestamp": "20:42,720",
+    "End Timestamp": "20:47,360",
+    "Transcript": "Hide we're on a stretch of broad paved highway south you can see three black"
+  },
+  {
+    "Start Timestamp": "20:47,360",
+    "End Timestamp": "20:50,880",
+    "Transcript": "Sowsers more least southeast"
+  },
+  {
+    "Start Timestamp": "20:50,880",
+    "End Timestamp": "20:55,740",
+    "Transcript": "Well, it's nice you were in a grove of trees in a farm"
+  },
+  {
+    "Start Timestamp": "20:55,740",
+    "End Timestamp": "20:59,320",
+    "Transcript": "farm"
+  },
+  {
+    "Start Timestamp": "20:59,320",
+    "End Timestamp": "21:02,000",
+    "Transcript": "Farm begin life"
+  },
+  {
+    "Start Timestamp": "21:02,000",
+    "End Timestamp": "21:05,000",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "21:05,000",
+    "End Timestamp": "21:09,000",
+    "Transcript": "Give Frodo, you gotta conserve your strength Mr. Frodo."
+  },
+  {
+    "Start Timestamp": "21:09,000",
+    "End Timestamp": "21:13,000",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "21:13,000",
+    "End Timestamp": "21:16,000",
+    "Transcript": "Don't want your tune of sandwich."
+  },
+  {
+    "Start Timestamp": "21:16,000",
+    "End Timestamp": "21:17,000",
+    "Transcript": "Fine, okay uh..."
+  },
+  {
+    "Start Timestamp": "21:17,000",
+    "End Timestamp": "21:19,000",
+    "Transcript": "Sam no!"
+  },
+  {
+    "Start Timestamp": "21:19,000",
+    "End Timestamp": "21:26,000",
+    "Transcript": "Okay we're on our hierarchy outcrop overlooking the river running south of East through the ride for V."
+  },
+  {
+    "Start Timestamp": "21:26,000",
+    "End Timestamp": "21:29,000",
+    "Transcript": "Push Sam off of me."
+  },
+  {
+    "Start Timestamp": "21:30,000",
+    "End Timestamp": "21:33,120",
+    "Transcript": "You can't jump off"
+  },
+  {
+    "Start Timestamp": "21:33,120",
+    "End Timestamp": "21:40,200",
+    "Transcript": "You came all this way out here to do that. He doesn't know to do it slip"
+  },
+  {
+    "Start Timestamp": "21:40,200",
+    "End Timestamp": "21:58,280",
+    "Transcript": "Keep going"
+  },
+  {
+    "Start Timestamp": "21:58,280",
+    "End Timestamp": "22:00,280",
+    "Transcript": "Twitter."
+  },
+  {
+    "Start Timestamp": "22:00,280",
+    "End Timestamp": "22:02,280",
+    "Transcript": "[laughter]"
+  },
+  {
+    "Start Timestamp": "22:02,280",
+    "End Timestamp": "22:04,280",
+    "Transcript": "There's more."
+  },
+  {
+    "Start Timestamp": "22:04,280",
+    "End Timestamp": "22:06,280",
+    "Transcript": "Just keep going."
+  },
+  {
+    "Start Timestamp": "22:06,280",
+    "End Timestamp": "22:08,280",
+    "Transcript": "Keep going."
+  },
+  {
+    "Start Timestamp": "22:08,280",
+    "End Timestamp": "22:12,280",
+    "Transcript": "[laughter]"
+  },
+  {
+    "Start Timestamp": "22:12,280",
+    "End Timestamp": "22:14,280",
+    "Transcript": "Keep going."
+  },
+  {
+    "Start Timestamp": "22:14,280",
+    "End Timestamp": "22:16,280",
+    "Transcript": "Keep moving."
+  },
+  {
+    "Start Timestamp": "22:16,280",
+    "End Timestamp": "22:22,280",
+    "Transcript": "On a brushy cliff top at the northeast end of the lake on the south bank of the river flowing southeast of the..."
+  },
+  {
+    "Start Timestamp": "22:22,280",
+    "End Timestamp": "22:24,280",
+    "Transcript": "What the fuck sentences this?"
+  },
+  {
+    "Start Timestamp": "22:24,280",
+    "End Timestamp": "22:25,280",
+    "Transcript": "[laughter]"
+  },
+  {
+    "Start Timestamp": "22:25,280",
+    "End Timestamp": "22:26,280",
+    "Transcript": "Just keep going."
+  },
+  {
+    "Start Timestamp": "22:26,280",
+    "End Timestamp": "22:29,020",
+    "Transcript": "Keep going. Go southwest. I'm getting dizzy from"
+  },
+  {
+    "Start Timestamp": "22:29,020",
+    "End Timestamp": "22:35,280",
+    "Transcript": "southwest southwest. Okay, you are on the sandy beach of a wide silver lake. This is where the bitch was. Go south"
+  },
+  {
+    "Start Timestamp": "22:35,280",
+    "End Timestamp": "22:39,920",
+    "Transcript": "We're back to fucking shire. Love is dark and thick with undergrowth. He's we're going east"
+  },
+  {
+    "Start Timestamp": "22:39,920",
+    "End Timestamp": "22:43,200",
+    "Transcript": "You're in a broad page. He's fucking why?"
+  },
+  {
+    "Start Timestamp": "22:43,200",
+    "End Timestamp": "22:45,720",
+    "Transcript": "Because we gotta go some east"
+  },
+  {
+    "Start Timestamp": "22:45,720",
+    "End Timestamp": "22:51,560",
+    "Transcript": "We're back in this stupid fucking he's dead. We want to keep going. Okay"
+  },
+  {
+    "Start Timestamp": "22:51,560",
+    "End Timestamp": "22:54,840",
+    "Transcript": "East oh no"
+  },
+  {
+    "Start Timestamp": "22:54,840",
+    "End Timestamp": "23:01,640",
+    "Transcript": "Whoa, whoa, you don't know the writer show fucking god. Are you fucking serious? Okay? That's the end"
+  },
+  {
+    "Start Timestamp": "23:01,640",
+    "End Timestamp": "23:03,640",
+    "Transcript": "This game is never a good"
+  },
+  {
+    "Start Timestamp": "23:03,640",
+    "End Timestamp": "23:06,120",
+    "Transcript": "Hang on I got an idea"
+  },
+  {
+    "Start Timestamp": "23:06,720",
+    "End Timestamp": "23:24,720",
+    "Transcript": "Hope you want to see this back."
+  },
+  {
+    "Start Timestamp": "23:25,680",
+    "End Timestamp": "23:30,520",
+    "Transcript": "this game stains were done."
+  }
+]
+}

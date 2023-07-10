@@ -1,0 +1,934 @@
+{ "Data":
+[
+  {
+    "Start Timestamp": "00:00,000",
+    "End Timestamp": "00:05,000",
+    "Transcript": "*Music*"
+  },
+  {
+    "Start Timestamp": "00:05,000",
+    "End Timestamp": "00:06,500",
+    "Transcript": "*Phone rings*"
+  },
+  {
+    "Start Timestamp": "00:06,500",
+    "End Timestamp": "00:08,300",
+    "Transcript": "Oh, they play!"
+  },
+  {
+    "Start Timestamp": "00:08,300",
+    "End Timestamp": "00:09,300",
+    "Transcript": "*Squeak*"
+  },
+  {
+    "Start Timestamp": "00:09,300",
+    "End Timestamp": "00:10,400",
+    "Transcript": "With friends!"
+  },
+  {
+    "Start Timestamp": "00:10,400",
+    "End Timestamp": "00:11,000",
+    "Transcript": "You ready?"
+  },
+  {
+    "Start Timestamp": "00:11,000",
+    "End Timestamp": "00:11,500",
+    "Transcript": "Yeah."
+  },
+  {
+    "Start Timestamp": "00:11,500",
+    "End Timestamp": "00:12,500",
+    "Transcript": "You ready?"
+  },
+  {
+    "Start Timestamp": "00:12,500",
+    "End Timestamp": "00:13,500",
+    "Transcript": "Mm."
+  },
+  {
+    "Start Timestamp": "00:13,500",
+    "End Timestamp": "00:15,500",
+    "Transcript": "Are you f*ckin' me?"
+  },
+  {
+    "Start Timestamp": "00:15,500",
+    "End Timestamp": "00:19,300",
+    "Transcript": "That old Xbox logo makes me nostalgic."
+  },
+  {
+    "Start Timestamp": "00:19,300",
+    "End Timestamp": "00:20,300",
+    "Transcript": "Look at that guy!"
+  },
+  {
+    "Start Timestamp": "00:20,300",
+    "End Timestamp": "00:22,300",
+    "Transcript": "Makes me want to play Luigi's Mansion instead."
+  },
+  {
+    "Start Timestamp": "00:22,300",
+    "End Timestamp": "00:25,900",
+    "Transcript": "Julian, look at this Simpson character."
+  },
+  {
+    "Start Timestamp": "00:25,900",
+    "End Timestamp": "00:26,800",
+    "Transcript": "He's so skinny."
+  },
+  {
+    "Start Timestamp": "00:26,800",
+    "End Timestamp": "00:27,800",
+    "Transcript": "Oh, he's dead."
+  },
+  {
+    "Start Timestamp": "00:27,800",
+    "End Timestamp": "00:29,100",
+    "Transcript": "Yeah, there he is."
+  },
+  {
+    "Start Timestamp": "00:29,100",
+    "End Timestamp": "00:30,460",
+    "Transcript": "Here's the ugliest man alive."
+  },
+  {
+    "Start Timestamp": "00:30,460",
+    "End Timestamp": "00:31,820",
+    "Transcript": "It's Obi-Wan."
+  },
+  {
+    "Start Timestamp": "00:31,820",
+    "End Timestamp": "00:34,300",
+    "Transcript": "He's the fastest thing ever."
+  },
+  {
+    "Start Timestamp": "00:34,300",
+    "End Timestamp": "00:35,740",
+    "Transcript": "[growling]"
+  },
+  {
+    "Start Timestamp": "00:35,740",
+    "End Timestamp": "00:37,100",
+    "Transcript": "He's not very happy."
+  },
+  {
+    "Start Timestamp": "00:37,100",
+    "End Timestamp": "00:37,900",
+    "Transcript": "Okay, ready?"
+  },
+  {
+    "Start Timestamp": "00:37,900",
+    "End Timestamp": "00:39,260",
+    "Transcript": "I love Obi-Wan."
+  },
+  {
+    "Start Timestamp": "00:39,260",
+    "End Timestamp": "00:41,020",
+    "Transcript": "Start a new game."
+  },
+  {
+    "Start Timestamp": "00:41,020",
+    "End Timestamp": "00:42,220",
+    "Transcript": "Star Wars, Obi-"
+  },
+  {
+    "Start Timestamp": "00:42,220",
+    "End Timestamp": "00:44,140",
+    "Transcript": "I thought his name is Obi-Wan."
+  },
+  {
+    "Start Timestamp": "00:44,140",
+    "End Timestamp": "00:45,580",
+    "Transcript": "No, it's Jedi-Wan."
+  },
+  {
+    "Start Timestamp": "00:45,580",
+    "End Timestamp": "00:45,900",
+    "Transcript": "No."
+  },
+  {
+    "Start Timestamp": "00:45,900",
+    "End Timestamp": "00:49,580",
+    "Transcript": "It's O-G-C."
+  },
+  {
+    "Start Timestamp": "00:49,580",
+    "End Timestamp": "00:50,780",
+    "Transcript": "O-C."
+  },
+  {
+    "Start Timestamp": "00:50,780",
+    "End Timestamp": "00:51,580",
+    "Transcript": "O-C."
+  },
+  {
+    "Start Timestamp": "00:51,580",
+    "End Timestamp": "00:52,380",
+    "Transcript": "That's not it, no."
+  },
+  {
+    "Start Timestamp": "00:52,380",
+    "End Timestamp": "00:56,780",
+    "Transcript": "O-O-B."
+  },
+  {
+    "Start Timestamp": "00:56,780",
+    "End Timestamp": "00:59,640",
+    "Transcript": "No, but you know I like it"
+  },
+  {
+    "Start Timestamp": "00:59,640",
+    "End Timestamp": "01:07,120",
+    "Transcript": "Don't like he's given me. Oh"
+  },
+  {
+    "Start Timestamp": "01:07,120",
+    "End Timestamp": "01:14,360",
+    "Transcript": "No, he said a urinal. Oh, no, look at this it froze I"
+  },
+  {
+    "Start Timestamp": "01:14,360",
+    "End Timestamp": "01:18,960",
+    "Transcript": "Think it's no way. It's just really slow. Oh wow"
+  },
+  {
+    "Start Timestamp": "01:18,960",
+    "End Timestamp": "01:25,380",
+    "Transcript": "Old technology is using Jedi mind tricks to make it go faster. It's not working"
+  },
+  {
+    "Start Timestamp": "01:25,380",
+    "End Timestamp": "01:26,740",
+    "Transcript": "-I'm too young. -[LAUGHTER]"
+  },
+  {
+    "Start Timestamp": "01:26,740",
+    "End Timestamp": "01:29,060",
+    "Transcript": "It's because he's a young pet for one."
+  },
+  {
+    "Start Timestamp": "01:29,060",
+    "End Timestamp": "01:30,660",
+    "Transcript": "-Papa one? -Papa one."
+  },
+  {
+    "Start Timestamp": "01:30,660",
+    "End Timestamp": "01:36,180",
+    "Transcript": "-Obe? -Is this the darkness of space?"
+  },
+  {
+    "Start Timestamp": "01:36,180",
+    "End Timestamp": "01:38,660",
+    "Transcript": "-Oh, beep! -Oh!"
+  },
+  {
+    "Start Timestamp": "01:38,660",
+    "End Timestamp": "01:40,340",
+    "Transcript": "-Is it going to do it? -Is it going to do it?"
+  },
+  {
+    "Start Timestamp": "01:40,340",
+    "End Timestamp": "01:42,660",
+    "Transcript": "-A long time ago. -Beep!"
+  },
+  {
+    "Start Timestamp": "01:42,660",
+    "End Timestamp": "01:43,660",
+    "Transcript": "-Do it. -Yay!"
+  },
+  {
+    "Start Timestamp": "01:43,660",
+    "End Timestamp": "01:45,300",
+    "Transcript": "-Yay! -Yay!"
+  },
+  {
+    "Start Timestamp": "01:45,300",
+    "End Timestamp": "01:47,780",
+    "Transcript": "-[GASPING]"
+  },
+  {
+    "Start Timestamp": "01:47,780",
+    "End Timestamp": "01:53,940",
+    "Transcript": "-Everybody, welcome to the only place, Star of Space."
+  },
+  {
+    "Start Timestamp": "01:53,940",
+    "End Timestamp": "01:55,940",
+    "Transcript": "Obi-Wan Space Base"
+  },
+  {
+    "Start Timestamp": "01:55,940",
+    "End Timestamp": "02:03,020",
+    "Transcript": "We're gonna be playing for now you know Star Wars games up until the release of the Rode Gwen's Jugget C-led on over and over and over again"
+  },
+  {
+    "Start Timestamp": "02:03,020",
+    "End Timestamp": "02:08,220",
+    "Transcript": "I wish editor you could do that it'd be pretty easy"
+  },
+  {
+    "Start Timestamp": "02:08,220",
+    "End Timestamp": "02:11,660",
+    "Transcript": "throughout the galaxy"
+  },
+  {
+    "Start Timestamp": "02:11,660",
+    "End Timestamp": "02:13,660",
+    "Transcript": "For thousands of years the Jedi Knights"
+  },
+  {
+    "Start Timestamp": "02:13,660",
+    "End Timestamp": "02:16,580",
+    "Transcript": "Observe the Republic is defenders of peace and juice dice"
+  },
+  {
+    "Start Timestamp": "02:16,580",
+    "End Timestamp": "02:19,580",
+    "Transcript": "Obi-Wan Kenobi trademark"
+  },
+  {
+    "Start Timestamp": "02:20,060",
+    "End Timestamp": "02:25,360",
+    "Transcript": "Whose duty to become a fully fledged pilot must prove himself to his master Quiggin?"
+  },
+  {
+    "Start Timestamp": "02:25,360",
+    "End Timestamp": "02:28,400",
+    "Transcript": "Jin and the Jedi Council."
+  },
+  {
+    "Start Timestamp": "02:28,400",
+    "End Timestamp": "02:32,220",
+    "Transcript": "I'm a Qui-Gon. Yeah, he's quite gone. He's quite gone."
+  },
+  {
+    "Start Timestamp": "02:32,220",
+    "End Timestamp": "02:36,000",
+    "Transcript": "As part of his ongoing training Obi-Wan is commissioned by"
+  },
+  {
+    "Start Timestamp": "02:36,000",
+    "End Timestamp": "02:40,560",
+    "Transcript": "- by the Mays - - Windu - Windu to investigate the rise of a dangerous new"
+  },
+  {
+    "Start Timestamp": "02:40,560",
+    "End Timestamp": "02:45,540",
+    "Transcript": "- I like that all their names are capitalized. Remember them. - No, levels of chorus can't."
+  },
+  {
+    "Start Timestamp": "02:45,540",
+    "End Timestamp": "02:47,480",
+    "Transcript": "- Karuskant? - Karuskant."
+  },
+  {
+    "Start Timestamp": "02:47,480",
+    "End Timestamp": "02:48,920",
+    "Transcript": "- Chris? - Yeah?"
+  },
+  {
+    "Start Timestamp": "02:48,920",
+    "End Timestamp": "02:50,220",
+    "Transcript": "Do you like Star Wars?"
+  },
+  {
+    "Start Timestamp": "02:50,220",
+    "End Timestamp": "02:51,520",
+    "Transcript": "Uh, I like"
+  },
+  {
+    "Start Timestamp": "02:51,520",
+    "End Timestamp": "02:54,220",
+    "Transcript": "I'm not gonna blame four and five."
+  },
+  {
+    "Start Timestamp": "02:54,220",
+    "End Timestamp": "02:57,880",
+    "Transcript": "No, not completely removed from the current like everything a Star Wars."
+  },
+  {
+    "Start Timestamp": "02:57,880",
+    "End Timestamp": "02:58,820",
+    "Transcript": "I have to say really quick."
+  },
+  {
+    "Start Timestamp": "02:58,820",
+    "End Timestamp": "03:00,120",
+    "Transcript": "Like as a kid, where you're in."
+  },
+  {
+    "Start Timestamp": "03:00,120",
+    "End Timestamp": "03:01,020",
+    "Transcript": "Okay, go on."
+  },
+  {
+    "Start Timestamp": "03:01,020",
+    "End Timestamp": "03:03,920",
+    "Transcript": "I don't blame little Annie for not being able to read that."
+  },
+  {
+    "Start Timestamp": "03:03,920",
+    "End Timestamp": "03:04,620",
+    "Transcript": "Oh, for God."
+  },
+  {
+    "Start Timestamp": "03:04,620",
+    "End Timestamp": "03:06,520",
+    "Transcript": "That's how it's spelled."
+  },
+  {
+    "Start Timestamp": "03:06,520",
+    "End Timestamp": "03:07,620",
+    "Transcript": "This looks like the movie."
+  },
+  {
+    "Start Timestamp": "03:07,620",
+    "End Timestamp": "03:08,820",
+    "Transcript": "This looks real."
+  },
+  {
+    "Start Timestamp": "03:08,820",
+    "End Timestamp": "03:11,120",
+    "Transcript": "Wow."
+  },
+  {
+    "Start Timestamp": "03:11,120",
+    "End Timestamp": "03:12,620",
+    "Transcript": "That is really real."
+  },
+  {
+    "Start Timestamp": "03:12,620",
+    "End Timestamp": "03:14,420",
+    "Transcript": "Is that planet Kenobi?"
+  },
+  {
+    "Start Timestamp": "03:14,420",
+    "End Timestamp": "03:18,620",
+    "Transcript": "Yeah, there's a bunch of them on where he comes from."
+  },
+  {
+    "Start Timestamp": "03:18,620",
+    "End Timestamp": "03:20,620",
+    "Transcript": "This game freezing what's happening?"
+  },
+  {
+    "Start Timestamp": "03:20,620",
+    "End Timestamp": "03:25,420",
+    "Transcript": "I think it froze no"
+  },
+  {
+    "Start Timestamp": "03:25,420",
+    "End Timestamp": "03:33,220",
+    "Transcript": "So this is the power of the Xbox is that a wonky"
+  },
+  {
+    "Start Timestamp": "03:33,220",
+    "End Timestamp": "03:41,140",
+    "Transcript": "You have to be patient for is that gross plan hotel that gross cell shading"
+  },
+  {
+    "Start Timestamp": "03:41,140",
+    "End Timestamp": "03:45,020",
+    "Transcript": "Here looks like a raps nest"
+  },
+  {
+    "Start Timestamp": "03:47,300",
+    "End Timestamp": "03:49,460",
+    "Transcript": "- This is a beautiful station nearby."
+  },
+  {
+    "Start Timestamp": "03:49,460",
+    "End Timestamp": "03:51,100",
+    "Transcript": "- Oh, come on, you guys."
+  },
+  {
+    "Start Timestamp": "03:51,100",
+    "End Timestamp": "03:53,060",
+    "Transcript": "- Remember him from-- - It's Greedo!"
+  },
+  {
+    "Start Timestamp": "03:53,060",
+    "End Timestamp": "03:54,740",
+    "Transcript": "- Yeah, he's pretty."
+  },
+  {
+    "Start Timestamp": "03:54,740",
+    "End Timestamp": "03:55,980",
+    "Transcript": "- Oh, he shot first."
+  },
+  {
+    "Start Timestamp": "03:55,980",
+    "End Timestamp": "03:57,660",
+    "Transcript": "- I'm coming for you."
+  },
+  {
+    "Start Timestamp": "03:57,660",
+    "End Timestamp": "04:00,180",
+    "Transcript": "- As Guido, yeah, I love him."
+  },
+  {
+    "Start Timestamp": "04:00,180",
+    "End Timestamp": "04:01,340",
+    "Transcript": "- You can't say Guido."
+  },
+  {
+    "Start Timestamp": "04:01,340",
+    "End Timestamp": "04:02,180",
+    "Transcript": "- Why?"
+  },
+  {
+    "Start Timestamp": "04:02,180",
+    "End Timestamp": "04:03,020",
+    "Transcript": "- Boo."
+  },
+  {
+    "Start Timestamp": "04:03,020",
+    "End Timestamp": "04:04,340",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "04:04,340",
+    "End Timestamp": "04:05,180",
+    "Transcript": "- Ah!"
+  },
+  {
+    "Start Timestamp": "04:05,180",
+    "End Timestamp": "04:06,180",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "04:06,180",
+    "End Timestamp": "04:07,660",
+    "Transcript": "- Chris, you're not murdering anybody."
+  },
+  {
+    "Start Timestamp": "04:07,660",
+    "End Timestamp": "04:09,660",
+    "Transcript": "It's just like the movie."
+  },
+  {
+    "Start Timestamp": "04:09,660",
+    "End Timestamp": "04:10,940",
+    "Transcript": "- Yeah, remember this part?"
+  },
+  {
+    "Start Timestamp": "04:10,940",
+    "End Timestamp": "04:11,780",
+    "Transcript": "- Doc."
+  },
+  {
+    "Start Timestamp": "04:11,780",
+    "End Timestamp": "04:12,780",
+    "Transcript": "- Look, it's a sexy mama."
+  },
+  {
+    "Start Timestamp": "04:12,780",
+    "End Timestamp": "04:14,140",
+    "Transcript": "- Whoa!"
+  },
+  {
+    "Start Timestamp": "04:14,140",
+    "End Timestamp": "04:16,140",
+    "Transcript": "- Her name is Doc, thanks a lot."
+  },
+  {
+    "Start Timestamp": "04:16,140",
+    "End Timestamp": "04:23,940",
+    "Transcript": "Tumbly what do you mean quit tumbling you had to use the force oh wow off of tumbler"
+  },
+  {
+    "Start Timestamp": "04:23,940",
+    "End Timestamp": "04:30,660",
+    "Transcript": "This is pretty cool use the right analog stick to smack people upon you know what I wish we would we were playing more than this"
+  },
+  {
+    "Start Timestamp": "04:30,660",
+    "End Timestamp": "04:35,020",
+    "Transcript": "I wish there was a rock and roll game. Why's there so many gritos?"
+  },
+  {
+    "Start Timestamp": "04:35,020",
+    "End Timestamp": "04:41,880",
+    "Transcript": "Yes, there's a whole race of them. No, you're lying they come from a climate. They're all dressed all the same"
+  },
+  {
+    "Start Timestamp": "04:41,880",
+    "End Timestamp": "04:44,340",
+    "Transcript": "That's true. They are"
+  },
+  {
+    "Start Timestamp": "04:44,340",
+    "End Timestamp": "04:50,980",
+    "Transcript": "Get out of here you losers. Don't you know who I am jump off the cliff. Why don't you?"
+  },
+  {
+    "Start Timestamp": "04:50,980",
+    "End Timestamp": "04:55,700",
+    "Transcript": "Oh, he's fine"
+  },
+  {
+    "Start Timestamp": "04:55,700",
+    "End Timestamp": "05:03,500",
+    "Transcript": "Attempts for me. Oh, okay. I gotta take the series. Oh better better loan it all again. Oh"
+  },
+  {
+    "Start Timestamp": "05:03,500",
+    "End Timestamp": "05:07,420",
+    "Transcript": "No, why do you sit to that cutscene?"
+  },
+  {
+    "Start Timestamp": "05:12,940",
+    "End Timestamp": "05:20,340",
+    "Transcript": "It'll be one I'm I'll be what I can see you through the tell I am loading we're playing with your toes. I can I"
+  },
+  {
+    "Start Timestamp": "05:20,340",
+    "End Timestamp": "05:23,160",
+    "Transcript": "Need to keep doing that all right then I"
+  },
+  {
+    "Start Timestamp": "05:23,160",
+    "End Timestamp": "05:29,560",
+    "Transcript": "Don't really mind how come there's two Obi-Wan's there there's three oh, yeah"
+  },
+  {
+    "Start Timestamp": "05:29,560",
+    "End Timestamp": "05:34,200",
+    "Transcript": "Obi-Wan Obi-2 and Obi-3 I actually don't dare it and I was like who's there?"
+  },
+  {
+    "Start Timestamp": "05:34,200",
+    "End Timestamp": "05:38,260",
+    "Transcript": "Oh, yeah, he got old I forgot"
+  },
+  {
+    "Start Timestamp": "05:40,140",
+    "End Timestamp": "05:43,660",
+    "Transcript": "You were asking me what's my favorite to do I even like Star Wars? Oh, yeah"
+  },
+  {
+    "Start Timestamp": "05:43,660",
+    "End Timestamp": "05:49,180",
+    "Transcript": "Yeah, I like episode four and five and I don't don't really like any of the other ones"
+  },
+  {
+    "Start Timestamp": "05:49,180",
+    "End Timestamp": "05:56,060",
+    "Transcript": "Get out of here. You filthy episode ones really funny. Oh, no, I actually really like to prequels just cuz"
+  },
+  {
+    "Start Timestamp": "05:56,060",
+    "End Timestamp": "05:58,580",
+    "Transcript": "They're terrible and funny"
+  },
+  {
+    "Start Timestamp": "05:58,580",
+    "End Timestamp": "06:04,140",
+    "Transcript": "They're fucking good. I can't say that about episode two episode two is really boring"
+  },
+  {
+    "Start Timestamp": "06:04,140",
+    "End Timestamp": "06:09,100",
+    "Transcript": "I'll still put it on just to for background noise. I like it. What are all these fools doing?"
+  },
+  {
+    "Start Timestamp": "06:09,620",
+    "End Timestamp": "06:12,100",
+    "Transcript": "Why they have golf clubs, I don't know"
+  },
+  {
+    "Start Timestamp": "06:12,100",
+    "End Timestamp": "06:21,420",
+    "Transcript": "It was the forky who's this tall man, that's bag head"
+  },
+  {
+    "Start Timestamp": "06:21,420",
+    "End Timestamp": "06:24,720",
+    "Transcript": "That is bag head and bumble brown"
+  },
+  {
+    "Start Timestamp": "06:24,720",
+    "End Timestamp": "06:29,300",
+    "Transcript": "They always had really weird names"
+  },
+  {
+    "Start Timestamp": "06:29,300",
+    "End Timestamp": "06:32,540",
+    "Transcript": "Yeah, like Dexter Jettster. Oh"
+  },
+  {
+    "Start Timestamp": "06:32,540",
+    "End Timestamp": "06:36,500",
+    "Transcript": "Chris what he was not peaceful"
+  },
+  {
+    "Start Timestamp": "06:36,860",
+    "End Timestamp": "06:40,600",
+    "Transcript": "He doesn't know where he's going. What's the what's the werewolf called again?"
+  },
+  {
+    "Start Timestamp": "06:40,600",
+    "End Timestamp": "06:45,740",
+    "Transcript": "Loki the one from the cantina. Oh, yeah, that guy"
+  },
+  {
+    "Start Timestamp": "06:45,740",
+    "End Timestamp": "06:48,260",
+    "Transcript": "He was just called like the wolf man or something"
+  },
+  {
+    "Start Timestamp": "06:48,260",
+    "End Timestamp": "06:51,520",
+    "Transcript": "Frofgo gum go that's whisk glorious"
+  },
+  {
+    "Start Timestamp": "06:51,520",
+    "End Timestamp": "06:58,000",
+    "Transcript": "Like Chris's name is better. I was trying to think more Star Wars. That's why I don't like them"
+  },
+  {
+    "Start Timestamp": "06:58,000",
+    "End Timestamp": "07:02,960",
+    "Transcript": "I was that's what I was leading to I was never really into Star Wars as a kid"
+  },
+  {
+    "Start Timestamp": "07:02,960",
+    "End Timestamp": "07:07,760",
+    "Transcript": "my dad would be like these are the best movies ever made and I was kind of like okay."
+  },
+  {
+    "Start Timestamp": "07:07,760",
+    "End Timestamp": "07:11,680",
+    "Transcript": "Four or five are pretty good and good. They're actually good. They're not good because they're"
+  },
+  {
+    "Start Timestamp": "07:11,680",
+    "End Timestamp": "07:15,840",
+    "Transcript": "dumb. I haven't seen them in years so maybe I would like them more than I did at the time."
+  },
+  {
+    "Start Timestamp": "07:15,840",
+    "End Timestamp": "07:20,240",
+    "Transcript": "No, when I was a kid I didn't really care for it that much. I actually like the prequels as a kid"
+  },
+  {
+    "Start Timestamp": "07:20,240",
+    "End Timestamp": "07:25,920",
+    "Transcript": "because they were made for dumb little kids like me. I think I've said this before but when I came"
+  },
+  {
+    "Start Timestamp": "07:25,920",
+    "End Timestamp": "07:31,280",
+    "Transcript": "out of episode one I remember feeling weird because it's like okay it's Star Wars I'm supposed to"
+  },
+  {
+    "Start Timestamp": "07:31,280",
+    "End Timestamp": "07:36,420",
+    "Transcript": "like this. I didn't get anything out of it, but I don't want to feel embarrassed, so I"
+  },
+  {
+    "Start Timestamp": "07:36,420",
+    "End Timestamp": "07:37,580",
+    "Transcript": "pretended I liked it."
+  },
+  {
+    "Start Timestamp": "07:37,580",
+    "End Timestamp": "07:39,180",
+    "Transcript": "Finish the whole game walking backwards."
+  },
+  {
+    "Start Timestamp": "07:39,180",
+    "End Timestamp": "07:40,700",
+    "Transcript": "Yeah, I do that."
+  },
+  {
+    "Start Timestamp": "07:40,700",
+    "End Timestamp": "07:42,700",
+    "Transcript": "[sings]"
+  },
+  {
+    "Start Timestamp": "07:42,700",
+    "End Timestamp": "07:49,940",
+    "Transcript": "This is a good game, actually. I finally liked it."
+  },
+  {
+    "Start Timestamp": "07:49,940",
+    "End Timestamp": "07:51,100",
+    "Transcript": "You can walk backwards."
+  },
+  {
+    "Start Timestamp": "07:51,100",
+    "End Timestamp": "07:52,100",
+    "Transcript": "Yeah."
+  },
+  {
+    "Start Timestamp": "07:52,100",
+    "End Timestamp": "07:56,900",
+    "Transcript": "Remember how they could run very quickly with the force, but then they only did it one time,"
+  },
+  {
+    "Start Timestamp": "07:56,900",
+    "End Timestamp": "07:58,900",
+    "Transcript": "and any time they needed it, they didn't do it."
+  },
+  {
+    "Start Timestamp": "07:58,900",
+    "End Timestamp": "08:01,220",
+    "Transcript": "What are you talking about? You're just being a fool."
+  },
+  {
+    "Start Timestamp": "08:01,220",
+    "End Timestamp": "08:05,900",
+    "Transcript": "Remember when Obi Wan Kenobi force pushed his firstborn child out the window"
+  },
+  {
+    "Start Timestamp": "08:05,900",
+    "End Timestamp": "08:14,760",
+    "Transcript": "Am I supposed to go down here you have to go tickle the wookie tickle the wookie is it my wonky"
+  },
+  {
+    "Start Timestamp": "08:14,760",
+    "End Timestamp": "08:27,500",
+    "Transcript": "Get out of here. Oh my god. I don't think you were supposed to kill him"
+  },
+  {
+    "Start Timestamp": "08:30,580",
+    "End Timestamp": "08:34,140",
+    "Transcript": "Isn't wonky hilarious wonky is hilarious"
+  },
+  {
+    "Start Timestamp": "08:34,140",
+    "End Timestamp": "08:41,860",
+    "Transcript": "He's pretty to be holy what is he doing leave him alone no"
+  },
+  {
+    "Start Timestamp": "08:41,860",
+    "End Timestamp": "08:46,780",
+    "Transcript": "He's clearly not gonna die"
+  },
+  {
+    "Start Timestamp": "08:46,780",
+    "End Timestamp": "08:54,420",
+    "Transcript": "Pretty's your friend stop what do you call that you died see you later. I didn't know mukies had"
+  },
+  {
+    "Start Timestamp": "08:54,420",
+    "End Timestamp": "08:58,460",
+    "Transcript": "Lightsaber takes his games seriously. Don't you know the objective?"
+  },
+  {
+    "Start Timestamp": "08:59,540",
+    "End Timestamp": "09:01,540",
+    "Transcript": "Jump on the smokey"
+  },
+  {
+    "Start Timestamp": "09:01,540",
+    "End Timestamp": "09:05,180",
+    "Transcript": "Jesus"
+  },
+  {
+    "Start Timestamp": "09:05,180",
+    "End Timestamp": "09:11,860",
+    "Transcript": "Stop driving roll. Just use your fourth to get rid of it the fourth do I have to hold down the force button to land down here?"
+  },
+  {
+    "Start Timestamp": "09:11,860",
+    "End Timestamp": "09:13,860",
+    "Transcript": "Is that the thing oh?"
+  },
+  {
+    "Start Timestamp": "09:13,860",
+    "End Timestamp": "09:16,220",
+    "Transcript": "apparently"
+  },
+  {
+    "Start Timestamp": "09:16,220",
+    "End Timestamp": "09:20,300",
+    "Transcript": "I'm scared there's a man coming at me. It's the pipe man"
+  },
+  {
+    "Start Timestamp": "09:20,300",
+    "End Timestamp": "09:26,660",
+    "Transcript": "Okay, what is your mission murder all civilians just dropped you off here to"
+  },
+  {
+    "Start Timestamp": "09:26,660",
+    "End Timestamp": "09:28,660",
+    "Transcript": "Everybody that you"
+  },
+  {
+    "Start Timestamp": "09:28,660",
+    "End Timestamp": "09:33,860",
+    "Transcript": "What if you pause the game and under objectives it just said OB one"
+  },
+  {
+    "Start Timestamp": "09:33,860",
+    "End Timestamp": "09:38,140",
+    "Transcript": "Every single word is just Obi-Wan"
+  },
+  {
+    "Start Timestamp": "09:38,140",
+    "End Timestamp": "09:44,740",
+    "Transcript": "Oh, look what I found the secret slide wait click the analog stick in if you could hear Obi-Wan's thoughts"
+  },
+  {
+    "Start Timestamp": "09:44,740",
+    "End Timestamp": "09:49,260",
+    "Transcript": "I never mind. Oh, you're you're you're you're just gonna be one Obi-Wan Obi-Wan. I'll be one"
+  },
+  {
+    "Start Timestamp": "09:49,260",
+    "End Timestamp": "09:51,980",
+    "Transcript": "I'll be like I'll be lied"
+  },
+  {
+    "Start Timestamp": "09:51,980",
+    "End Timestamp": "09:54,180",
+    "Transcript": "What are you doing here? I'll be wanting oh?"
+  },
+  {
+    "Start Timestamp": "09:56,260",
+    "End Timestamp": "09:58,260",
+    "Transcript": "It's a good belch, John"
+  },
+  {
+    "Start Timestamp": "09:58,260",
+    "End Timestamp": "10:09,300",
+    "Transcript": "Dooski did anybody have normal names in the prequels yeah, there was no what the fuck was that?"
+  },
+  {
+    "Start Timestamp": "10:09,300",
+    "End Timestamp": "10:12,900",
+    "Transcript": "Because you have like Luke and Leia and Ben"
+  },
+  {
+    "Start Timestamp": "10:12,900",
+    "End Timestamp": "10:19,900",
+    "Transcript": "Leia's not bad normal. I guess Leia's is I'm thinking of Leah you know what I love in a video game"
+  },
+  {
+    "Start Timestamp": "10:21,660",
+    "End Timestamp": "10:25,740",
+    "Transcript": "Death oh fucking dead end when you unlock stupendous mode"
+  },
+  {
+    "Start Timestamp": "10:25,740",
+    "End Timestamp": "10:27,740",
+    "Transcript": "You can't just load a lot!"
+  },
+  {
+    "Start Timestamp": "10:27,740",
+    "End Timestamp": "10:28,740",
+    "Transcript": "Yeah!"
+  },
+  {
+    "Start Timestamp": "10:28,740",
+    "End Timestamp": "10:30,740",
+    "Transcript": "You can't just load a lot!"
+  },
+  {
+    "Start Timestamp": "10:30,740",
+    "End Timestamp": "10:32,740",
+    "Transcript": "This is stupendous!"
+  }
+]
+}

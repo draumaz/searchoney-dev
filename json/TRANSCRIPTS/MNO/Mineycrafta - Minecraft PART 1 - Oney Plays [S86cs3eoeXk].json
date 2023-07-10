@@ -1,0 +1,2884 @@
+{ "Data":
+[
+  {
+    "Start Timestamp": "00:00,000",
+    "End Timestamp": "00:01,600",
+    "Transcript": "*phone rings*"
+  },
+  {
+    "Start Timestamp": "00:01,600",
+    "End Timestamp": "00:03,400",
+    "Transcript": "Oh, they play!"
+  },
+  {
+    "Start Timestamp": "00:03,400",
+    "End Timestamp": "00:04,400",
+    "Transcript": "*sigh*"
+  },
+  {
+    "Start Timestamp": "00:04,400",
+    "End Timestamp": "00:05,600",
+    "Transcript": "With friends!"
+  },
+  {
+    "Start Timestamp": "00:05,600",
+    "End Timestamp": "00:07,800",
+    "Transcript": "Welcome to Minecraft, JAVA edition."
+  },
+  {
+    "Start Timestamp": "00:07,800",
+    "End Timestamp": "00:08,800",
+    "Transcript": "Right, Tomar?"
+  },
+  {
+    "Start Timestamp": "00:08,800",
+    "End Timestamp": "00:09,600",
+    "Transcript": "That's correct."
+  },
+  {
+    "Start Timestamp": "00:09,600",
+    "End Timestamp": "00:10,100",
+    "Transcript": "Okay."
+  },
+  {
+    "Start Timestamp": "00:10,100",
+    "End Timestamp": "00:13,400",
+    "Transcript": "That Tomar, you've been specifically excited for this one."
+  },
+  {
+    "Start Timestamp": "00:13,400",
+    "End Timestamp": "00:17,000",
+    "Transcript": "I've been looking forward to this all year."
+  },
+  {
+    "Start Timestamp": "00:17,000",
+    "End Timestamp": "00:19,400",
+    "Transcript": "He's working on his calendar, Tomartopia."
+  },
+  {
+    "Start Timestamp": "00:19,400",
+    "End Timestamp": "00:20,400",
+    "Transcript": "Fuck yes, bro."
+  },
+  {
+    "Start Timestamp": "00:20,400",
+    "End Timestamp": "00:21,400",
+    "Transcript": "It's our topic."
+  },
+  {
+    "Start Timestamp": "00:21,400",
+    "End Timestamp": "00:23,400",
+    "Transcript": "*laughs*"
+  },
+  {
+    "Start Timestamp": "00:23,400",
+    "End Timestamp": "00:26,200",
+    "Transcript": "This better be good if it's gonna have my name attached to it."
+  },
+  {
+    "Start Timestamp": "00:26,200",
+    "End Timestamp": "00:26,800",
+    "Transcript": "Whoa, dude."
+  },
+  {
+    "Start Timestamp": "00:26,800",
+    "End Timestamp": "00:28,600",
+    "Transcript": "It's a virus."
+  },
+  {
+    "Start Timestamp": "00:28,600",
+    "End Timestamp": "00:29,200",
+    "Transcript": "This is new."
+  },
+  {
+    "Start Timestamp": "00:29,200",
+    "End Timestamp": "00:31,580",
+    "Transcript": "Oh yeah, you're like growing a little thing in a Petri dish."
+  },
+  {
+    "Start Timestamp": "00:31,580",
+    "End Timestamp": "00:32,740",
+    "Transcript": "I guess this is what it does now"
+  },
+  {
+    "Start Timestamp": "00:32,740",
+    "End Timestamp": "00:34,900",
+    "Transcript": "when it's like seeding out the map."
+  },
+  {
+    "Start Timestamp": "00:34,900",
+    "End Timestamp": "00:37,380",
+    "Transcript": "- Okay, we haven't played Minecraft since the last time"
+  },
+  {
+    "Start Timestamp": "00:37,380",
+    "End Timestamp": "00:39,620",
+    "Transcript": "we played Minecraft with the moth flying around."
+  },
+  {
+    "Start Timestamp": "00:39,620",
+    "End Timestamp": "00:40,980",
+    "Transcript": "And Tomer wasn't even there for that."
+  },
+  {
+    "Start Timestamp": "00:40,980",
+    "End Timestamp": "00:44,700",
+    "Transcript": "- Yeah, I don't think I've played Minecraft since like 2011."
+  },
+  {
+    "Start Timestamp": "00:44,700",
+    "End Timestamp": "00:46,940",
+    "Transcript": "- Whoa, like what is this, please?"
+  },
+  {
+    "Start Timestamp": "00:46,940",
+    "End Timestamp": "00:50,820",
+    "Transcript": "- If these blocks hold on, wait, hold on, you can put J3,"
+  },
+  {
+    "Start Timestamp": "00:50,820",
+    "End Timestamp": "00:52,580",
+    "Transcript": "wait a minute, this is a little bit different than this."
+  },
+  {
+    "Start Timestamp": "00:52,580",
+    "End Timestamp": "00:54,340",
+    "Transcript": "- This is exactly what you said last time."
+  },
+  {
+    "Start Timestamp": "00:54,340",
+    "End Timestamp": "00:56,020",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "00:56,020",
+    "End Timestamp": "00:57,740",
+    "Transcript": "Okay, so Tomer, what is the plan?"
+  },
+  {
+    "Start Timestamp": "00:57,740",
+    "End Timestamp": "00:59,060",
+    "Transcript": "We're gonna make a house."
+  },
+  {
+    "Start Timestamp": "00:59,060",
+    "End Timestamp": "00:59,900",
+    "Transcript": "- Yep."
+  },
+  {
+    "Start Timestamp": "00:59,900",
+    "End Timestamp": "01:00,740",
+    "Transcript": "- We're gonna survive."
+  },
+  {
+    "Start Timestamp": "01:00,740",
+    "End Timestamp": "01:01,580",
+    "Transcript": "- Yeah."
+  },
+  {
+    "Start Timestamp": "01:01,580",
+    "End Timestamp": "01:05,180",
+    "Transcript": "- They've added missions into the game, right?"
+  },
+  {
+    "Start Timestamp": "01:05,180",
+    "End Timestamp": "01:06,020",
+    "Transcript": "- Uh, apparently."
+  },
+  {
+    "Start Timestamp": "01:06,020",
+    "End Timestamp": "01:07,180",
+    "Transcript": "- But that's no fun, right?"
+  },
+  {
+    "Start Timestamp": "01:07,180",
+    "End Timestamp": "01:08,020",
+    "Transcript": "- I don't know."
+  },
+  {
+    "Start Timestamp": "01:08,020",
+    "End Timestamp": "01:10,580",
+    "Transcript": "Everyone's always like, we must defeat the Ender Dragon."
+  },
+  {
+    "Start Timestamp": "01:10,580",
+    "End Timestamp": "01:11,780",
+    "Transcript": "- I don't think I've ever done that"
+  },
+  {
+    "Start Timestamp": "01:11,780",
+    "End Timestamp": "01:13,580",
+    "Transcript": "in the one billion times to play this game."
+  },
+  {
+    "Start Timestamp": "01:13,580",
+    "End Timestamp": "01:15,140",
+    "Transcript": "- Maybe we should actually try to do that then."
+  },
+  {
+    "Start Timestamp": "01:15,140",
+    "End Timestamp": "01:15,980",
+    "Transcript": "- No, let's just give them a turn."
+  },
+  {
+    "Start Timestamp": "01:15,980",
+    "End Timestamp": "01:17,620",
+    "Transcript": "- It's imperative that you open your inventory"
+  },
+  {
+    "Start Timestamp": "01:17,620",
+    "End Timestamp": "01:19,020",
+    "Transcript": "by pressing E."
+  },
+  {
+    "Start Timestamp": "01:19,020",
+    "End Timestamp": "01:20,460",
+    "Transcript": "- E for inventory."
+  },
+  {
+    "Start Timestamp": "01:20,460",
+    "End Timestamp": "01:21,300",
+    "Transcript": "Let's do it."
+  },
+  {
+    "Start Timestamp": "01:21,300",
+    "End Timestamp": "01:22,140",
+    "Transcript": "- Ee!"
+  },
+  {
+    "Start Timestamp": "01:22,140",
+    "End Timestamp": "01:24,580",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "01:24,580",
+    "End Timestamp": "01:25,940",
+    "Transcript": "- I'm like running a rap so fast,"
+  },
+  {
+    "Start Timestamp": "01:25,940",
+    "End Timestamp": "01:26,780",
+    "Transcript": "I can't even fucking see."
+  },
+  {
+    "Start Timestamp": "01:26,780",
+    "End Timestamp": "01:28,380",
+    "Transcript": "- Let me get you, get sick of it!"
+  },
+  {
+    "Start Timestamp": "01:28,380",
+    "End Timestamp": "01:30,380",
+    "Transcript": "You threw out my kidney milk, Mummy!"
+  },
+  {
+    "Start Timestamp": "01:30,380",
+    "End Timestamp": "01:37,380",
+    "Transcript": "Tomer, let's go to a nice fucking outlook vista. What do you say? Yeah, let's build some place beautiful. That looks kind of nice"
+  },
+  {
+    "Start Timestamp": "01:37,380",
+    "End Timestamp": "01:43,420",
+    "Transcript": "It definitely needs to be a waterfront. That's a beautiful tower. Let's tower over everybody. This is kind of beautiful right here"
+  },
+  {
+    "Start Timestamp": "01:43,420",
+    "End Timestamp": "01:49,460",
+    "Transcript": "Do you just like what happened with that? I fell. You crack a hole in the ground. No you did that?"
+  },
+  {
+    "Start Timestamp": "01:49,460",
+    "End Timestamp": "01:53,780",
+    "Transcript": "I thought you like I thought you like bodysl like butt-powered did the fucking dirt away"
+  },
+  {
+    "Start Timestamp": "01:54,500",
+    "End Timestamp": "02:00,740",
+    "Transcript": "I'm I might be kind of stupid, but last time I played Minecraft. I don't remember him automatically running up blocks"
+  },
+  {
+    "Start Timestamp": "02:00,740",
+    "End Timestamp": "02:07,900",
+    "Transcript": "I guess they added that because for like the mobile versions of the game to jump more annoying. Yeah. Oh, yeah"
+  },
+  {
+    "Start Timestamp": "02:07,900",
+    "End Timestamp": "02:15,040",
+    "Transcript": "Look at that. It came it came over. I'm trying. I hope there's nothing scary in here. Whoa"
+  },
+  {
+    "Start Timestamp": "02:15,040",
+    "End Timestamp": "02:20,320",
+    "Transcript": "Oh, you little squid buddy and little fishes. It's a squibbilla you guys. Hey little guys"
+  },
+  {
+    "Start Timestamp": "02:20,580",
+    "End Timestamp": "02:24,940",
+    "Transcript": "Whoa, look how deep this is whoa go fishing with your fists fuckers"
+  },
+  {
+    "Start Timestamp": "02:24,940",
+    "End Timestamp": "02:29,980",
+    "Transcript": "We're these little fish always in the game. They were always this is new. No, they definitely weren't fish when I used to play"
+  },
+  {
+    "Start Timestamp": "02:29,980",
+    "End Timestamp": "02:34,900",
+    "Transcript": "At least at least not like that Tom are used to run a really popular server back in the day"
+  },
+  {
+    "Start Timestamp": "02:34,900",
+    "End Timestamp": "02:40,320",
+    "Transcript": "I don't know if I'd call it really popular, but it did run a server every time I went into there was like 68 million children running around"
+  },
+  {
+    "Start Timestamp": "02:45,820",
+    "End Timestamp": "02:51,460",
+    "Transcript": "information. This was before COPPA of course. Yeah, yeah, yeah. You stop a cubed publicly"
+  },
+  {
+    "Start Timestamp": "02:51,460",
+    "End Timestamp": "02:55,020",
+    "Transcript": "accusing me of violating COPPA. This was in 2011. I would never accuse you of violating"
+  },
+  {
+    "Start Timestamp": "02:55,020",
+    "End Timestamp": "03:00,460",
+    "Transcript": "COPPA in 2019. Yeah, totally. You should get some of that coal or wait, no, you probably"
+  },
+  {
+    "Start Timestamp": "03:00,460",
+    "End Timestamp": "03:05,220",
+    "Transcript": "can't without a pickaxe. I need to make a pickaxe out of wood. You can probably make"
+  },
+  {
+    "Start Timestamp": "03:05,220",
+    "End Timestamp": "03:09,380",
+    "Transcript": "one right now, couldn't you? I just want to get to the top so I can start, get it in"
+  },
+  {
+    "Start Timestamp": "03:09,380",
+    "End Timestamp": "03:13,540",
+    "Transcript": "my way. Beautiful vantage point of view. You got to build your first crafting table,"
+  },
+  {
+    "Start Timestamp": "03:13,540",
+    "End Timestamp": "03:15,940",
+    "Transcript": "Yeah, I want to do it up here away from all the"
+  },
+  {
+    "Start Timestamp": "03:15,940",
+    "End Timestamp": "03:18,620",
+    "Transcript": "There you go. See?"
+  },
+  {
+    "Start Timestamp": "03:18,620",
+    "End Timestamp": "03:19,620",
+    "Transcript": "Bleep out the word dirt."
+  },
+  {
+    "Start Timestamp": "03:19,620",
+    "End Timestamp": "03:21,180",
+    "Transcript": "Tomar look, this is perfect."
+  },
+  {
+    "Start Timestamp": "03:21,180",
+    "End Timestamp": "03:23,140",
+    "Transcript": "We have a little fortress area."
+  },
+  {
+    "Start Timestamp": "03:23,140",
+    "End Timestamp": "03:24,220",
+    "Transcript": "All right, let's build a year."
+  },
+  {
+    "Start Timestamp": "03:24,220",
+    "End Timestamp": "03:25,300",
+    "Transcript": "This is a nice little flat."
+  },
+  {
+    "Start Timestamp": "03:25,300",
+    "End Timestamp": "03:27,700",
+    "Transcript": "Right here. Yeah, this little, yeah, this little area right here."
+  },
+  {
+    "Start Timestamp": "03:27,700",
+    "End Timestamp": "03:28,900",
+    "Transcript": "It did to the earth."
+  },
+  {
+    "Start Timestamp": "03:28,900",
+    "End Timestamp": "03:31,060",
+    "Transcript": "You got nearby fucking women and everything."
+  },
+  {
+    "Start Timestamp": "03:31,060",
+    "End Timestamp": "03:33,220",
+    "Transcript": "And you have and you have fossil fuel resources."
+  },
+  {
+    "Start Timestamp": "03:33,220",
+    "End Timestamp": "03:34,460",
+    "Transcript": "We got chicks."
+  },
+  {
+    "Start Timestamp": "03:34,460",
+    "End Timestamp": "03:36,260",
+    "Transcript": "We got pigs."
+  },
+  {
+    "Start Timestamp": "03:36,260",
+    "End Timestamp": "03:37,500",
+    "Transcript": "That is the chicks right there."
+  },
+  {
+    "Start Timestamp": "03:37,500",
+    "End Timestamp": "03:38,500",
+    "Transcript": "Hey."
+  },
+  {
+    "Start Timestamp": "03:38,500",
+    "End Timestamp": "03:40,540",
+    "Transcript": "Hey."
+  },
+  {
+    "Start Timestamp": "03:40,540",
+    "End Timestamp": "03:42,340",
+    "Transcript": "Got miniature chicks."
+  },
+  {
+    "Start Timestamp": "03:42,340",
+    "End Timestamp": "03:43,380",
+    "Transcript": "- Geez."
+  },
+  {
+    "Start Timestamp": "03:43,380",
+    "End Timestamp": "03:45,220",
+    "Transcript": "- Okay, we're gonna set up a shop here."
+  },
+  {
+    "Start Timestamp": "03:45,220",
+    "End Timestamp": "03:46,540",
+    "Transcript": "- Shop here crafting table."
+  },
+  {
+    "Start Timestamp": "03:46,540",
+    "End Timestamp": "03:48,380",
+    "Transcript": "- Tell me how do I do it though?"
+  },
+  {
+    "Start Timestamp": "03:48,380",
+    "End Timestamp": "03:49,700",
+    "Transcript": "- See, it's on the left there."
+  },
+  {
+    "Start Timestamp": "03:49,700",
+    "End Timestamp": "03:50,780",
+    "Transcript": "- Look told me I did it."
+  },
+  {
+    "Start Timestamp": "03:50,780",
+    "End Timestamp": "03:52,260",
+    "Transcript": "- There you did it."
+  },
+  {
+    "Start Timestamp": "03:52,260",
+    "End Timestamp": "03:55,060",
+    "Transcript": "That's not bad work for our first day."
+  },
+  {
+    "Start Timestamp": "03:55,060",
+    "End Timestamp": "03:56,540",
+    "Transcript": "So now I go."
+  },
+  {
+    "Start Timestamp": "03:56,540",
+    "End Timestamp": "03:57,380",
+    "Transcript": "- Plot."
+  },
+  {
+    "Start Timestamp": "03:57,380",
+    "End Timestamp": "03:59,940",
+    "Transcript": "And now you get the three by three grid."
+  },
+  {
+    "Start Timestamp": "03:59,940",
+    "End Timestamp": "04:00,780",
+    "Transcript": "- That's what it's not."
+  },
+  {
+    "Start Timestamp": "04:00,780",
+    "End Timestamp": "04:02,100",
+    "Transcript": "- That's right."
+  },
+  {
+    "Start Timestamp": "04:02,100",
+    "End Timestamp": "04:04,020",
+    "Transcript": "- I think yeah, you gotta make more sticks."
+  },
+  {
+    "Start Timestamp": "04:04,020",
+    "End Timestamp": "04:05,340",
+    "Transcript": "There you go."
+  },
+  {
+    "Start Timestamp": "04:05,340",
+    "End Timestamp": "04:06,460",
+    "Transcript": "- What do sticks do?"
+  },
+  {
+    "Start Timestamp": "04:06,460",
+    "End Timestamp": "04:09,180",
+    "Transcript": "- Sticks can be used for handles on tools."
+  },
+  {
+    "Start Timestamp": "04:09,180",
+    "End Timestamp": "04:11,580",
+    "Transcript": "- It can be used for smashing in people's faces."
+  },
+  {
+    "Start Timestamp": "04:11,580",
+    "End Timestamp": "04:16,180",
+    "Transcript": "Can you just use a stick by self-dispatience with ice socket or do you have to put it with other stuff?"
+  },
+  {
+    "Start Timestamp": "04:16,180",
+    "End Timestamp": "04:21,340",
+    "Transcript": "It's definitely more effective to build like a sword if you want to smash somebody's ice socket"
+  },
+  {
+    "Start Timestamp": "04:21,340",
+    "End Timestamp": "04:26,660",
+    "Transcript": "Was I really necessary Zach really do I did we just say that those you should look it's a sword"
+  },
+  {
+    "Start Timestamp": "04:26,660",
+    "End Timestamp": "04:30,540",
+    "Transcript": "Remember to buskis do you like my sword sword?"
+  },
+  {
+    "Start Timestamp": "04:30,540",
+    "End Timestamp": "04:36,320",
+    "Transcript": "That's all I need for now, right? I think you're good. Yeah, oops. I'll get you going"
+  },
+  {
+    "Start Timestamp": "04:36,320",
+    "End Timestamp": "04:40,820",
+    "Transcript": "Okay, let's go. You can collect stone. Let's go mine and craft today"
+  },
+  {
+    "Start Timestamp": "04:40,820",
+    "End Timestamp": "04:43,060",
+    "Transcript": "- Wait a minute, say that again."
+  },
+  {
+    "Start Timestamp": "04:43,060",
+    "End Timestamp": "04:45,580",
+    "Transcript": "- Wait, did you just, is that what?"
+  },
+  {
+    "Start Timestamp": "04:45,580",
+    "End Timestamp": "04:48,980",
+    "Transcript": "- Wait, but I just, but you just, but wait."
+  },
+  {
+    "Start Timestamp": "04:48,980",
+    "End Timestamp": "04:49,900",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "04:49,900",
+    "End Timestamp": "04:50,820",
+    "Transcript": "(imitating"
+  },
+  {
+    "Start Timestamp": "04:50,820",
+    "End Timestamp": "04:53,360",
+    "Transcript": "- Oh, boom, boom, boom, boom, boom."
+  },
+  {
+    "Start Timestamp": "04:53,360",
+    "End Timestamp": "04:54,200",
+    "Transcript": "- Should I get that?"
+  },
+  {
+    "Start Timestamp": "04:54,200",
+    "End Timestamp": "04:55,200",
+    "Transcript": "- Yeah, you can step on it."
+  },
+  {
+    "Start Timestamp": "04:55,200",
+    "End Timestamp": "04:56,040",
+    "Transcript": "- You're afraid to get it?"
+  },
+  {
+    "Start Timestamp": "04:56,040",
+    "End Timestamp": "04:56,880",
+    "Transcript": "- I don't know, man."
+  },
+  {
+    "Start Timestamp": "04:56,880",
+    "End Timestamp": "04:57,720",
+    "Transcript": "- Stop on it."
+  },
+  {
+    "Start Timestamp": "04:57,720",
+    "End Timestamp": "04:58,840",
+    "Transcript": "- Why are you afraid of that call?"
+  },
+  {
+    "Start Timestamp": "04:58,840",
+    "End Timestamp": "05:02,520",
+    "Transcript": "It looks like some kind of thing."
+  },
+  {
+    "Start Timestamp": "05:02,520",
+    "End Timestamp": "05:03,760",
+    "Transcript": "- I don't know if that reads red book,"
+  },
+  {
+    "Start Timestamp": "05:03,760",
+    "End Timestamp": "05:05,360",
+    "Transcript": "I know it's a cool piece of call."
+  },
+  {
+    "Start Timestamp": "05:05,360",
+    "End Timestamp": "05:08,840",
+    "Transcript": "- Check your recipe, Buck."
+  },
+  {
+    "Start Timestamp": "05:08,840",
+    "End Timestamp": "05:11,600",
+    "Transcript": "So what should be our first fucking achievement"
+  },
+  {
+    "Start Timestamp": "05:11,600",
+    "End Timestamp": "05:12,600",
+    "Transcript": "in Minecraft?"
+  },
+  {
+    "Start Timestamp": "05:12,600",
+    "End Timestamp": "05:15,840",
+    "Transcript": "- Let's build, I think we need to come up"
+  },
+  {
+    "Start Timestamp": "05:15,840",
+    "End Timestamp": "05:17,880",
+    "Transcript": "with some bold, like,"
+  },
+  {
+    "Start Timestamp": "05:17,880",
+    "End Timestamp": "05:19,600",
+    "Transcript": "- Toilet system. - And goal here."
+  },
+  {
+    "Start Timestamp": "05:19,600",
+    "End Timestamp": "05:22,040",
+    "Transcript": "- We need a place to put the sewage."
+  },
+  {
+    "Start Timestamp": "05:22,040",
+    "End Timestamp": "05:24,000",
+    "Transcript": "It's gonna keep piling up if we don't get it somewhere."
+  },
+  {
+    "Start Timestamp": "05:24,000",
+    "End Timestamp": "05:26,320",
+    "Transcript": "- Yeah, let's make that our first endeavor."
+  },
+  {
+    "Start Timestamp": "05:26,320",
+    "End Timestamp": "05:29,320",
+    "Transcript": "- All right, so we're gonna create a working sewer system."
+  },
+  {
+    "Start Timestamp": "05:29,320",
+    "End Timestamp": "05:31,640",
+    "Transcript": "- Yeah, yes, please."
+  },
+  {
+    "Start Timestamp": "05:31,640",
+    "End Timestamp": "05:32,560",
+    "Transcript": "Wait, what's this dirt?"
+  },
+  {
+    "Start Timestamp": "05:32,560",
+    "End Timestamp": "05:33,600",
+    "Transcript": "It's got yellow dots in it."
+  },
+  {
+    "Start Timestamp": "05:33,600",
+    "End Timestamp": "05:34,480",
+    "Transcript": "What is this?"
+  },
+  {
+    "Start Timestamp": "05:34,480",
+    "End Timestamp": "05:35,480",
+    "Transcript": "- I think that's what you've just been doing."
+  },
+  {
+    "Start Timestamp": "05:35,480",
+    "End Timestamp": "05:36,480",
+    "Transcript": "I think it's just cool."
+  },
+  {
+    "Start Timestamp": "05:36,480",
+    "End Timestamp": "05:41,160",
+    "Transcript": "- No stupid, look, no yellow dots is yellow dots."
+  },
+  {
+    "Start Timestamp": "05:41,160",
+    "End Timestamp": "05:42,520",
+    "Transcript": "- Oh, no, I think the yellow dots"
+  },
+  {
+    "Start Timestamp": "05:42,520",
+    "End Timestamp": "05:45,240",
+    "Transcript": "are just like how you get experience points."
+  },
+  {
+    "Start Timestamp": "05:45,240",
+    "End Timestamp": "05:46,080",
+    "Transcript": "- Are you trolling?"
+  },
+  {
+    "Start Timestamp": "05:46,080",
+    "End Timestamp": "05:48,880",
+    "Transcript": "- So you can just get them from any old activity."
+  },
+  {
+    "Start Timestamp": "05:48,880",
+    "End Timestamp": "05:50,500",
+    "Transcript": "- Oh, are you griefing me?"
+  },
+  {
+    "Start Timestamp": "05:50,500",
+    "End Timestamp": "05:53,520",
+    "Transcript": "- I don't think that's any specific type of extra special."
+  },
+  {
+    "Start Timestamp": "05:53,520",
+    "End Timestamp": "05:55,300",
+    "Transcript": "- Yeah, I think that's just normal stone."
+  },
+  {
+    "Start Timestamp": "05:55,300",
+    "End Timestamp": "05:56,460",
+    "Transcript": "- Are you sure?"
+  },
+  {
+    "Start Timestamp": "05:56,460",
+    "End Timestamp": "05:57,300",
+    "Transcript": "- Yeah."
+  },
+  {
+    "Start Timestamp": "05:57,300",
+    "End Timestamp": "05:58,800",
+    "Transcript": "- That's fucking cool, okay."
+  },
+  {
+    "Start Timestamp": "05:58,800",
+    "End Timestamp": "06:01,900",
+    "Transcript": "Hey, quit rolling, griefer."
+  },
+  {
+    "Start Timestamp": "06:01,900",
+    "End Timestamp": "06:03,700",
+    "Transcript": "- Check your recipe, fuck."
+  },
+  {
+    "Start Timestamp": "06:03,700",
+    "End Timestamp": "06:04,700",
+    "Transcript": "(laughs)"
+  },
+  {
+    "Start Timestamp": "06:04,700",
+    "End Timestamp": "06:06,600",
+    "Transcript": "- Well, now you can make stone tools."
+  },
+  {
+    "Start Timestamp": "06:06,600",
+    "End Timestamp": "06:07,780",
+    "Transcript": "- You're right, I see what you're saying,"
+  },
+  {
+    "Start Timestamp": "06:07,780",
+    "End Timestamp": "06:08,700",
+    "Transcript": "but you're not special,"
+  },
+  {
+    "Start Timestamp": "06:08,700",
+    "End Timestamp": "06:09,900",
+    "Transcript": "'cause look at this difference."
+  },
+  {
+    "Start Timestamp": "06:09,900",
+    "End Timestamp": "06:11,420",
+    "Transcript": "- The yellow is definitely just,"
+  },
+  {
+    "Start Timestamp": "06:11,420",
+    "End Timestamp": "06:12,980",
+    "Transcript": "you just get it randomly,"
+  },
+  {
+    "Start Timestamp": "06:12,980",
+    "End Timestamp": "06:15,340",
+    "Transcript": "and it's how you,"
+  },
+  {
+    "Start Timestamp": "06:15,340",
+    "End Timestamp": "06:18,820",
+    "Transcript": "I think you later on can use it for stuff like,"
+  },
+  {
+    "Start Timestamp": "06:18,820",
+    "End Timestamp": "06:19,660",
+    "Transcript": "Like magic."
+  },
+  {
+    "Start Timestamp": "06:19,660",
+    "End Timestamp": "06:22,860",
+    "Transcript": "- Oh my craft, my craft."
+  },
+  {
+    "Start Timestamp": "06:22,860",
+    "End Timestamp": "06:24,900",
+    "Transcript": "- Cause isn't there a whole thing where you can get like a book"
+  },
+  {
+    "Start Timestamp": "06:24,900",
+    "End Timestamp": "06:26,940",
+    "Transcript": "for making like magic stuff?"
+  },
+  {
+    "Start Timestamp": "06:26,940",
+    "End Timestamp": "06:29,660",
+    "Transcript": "- To what chose to not even acknowledge"
+  },
+  {
+    "Start Timestamp": "06:29,660",
+    "End Timestamp": "06:31,340",
+    "Transcript": "that you just made that fucking noise."
+  },
+  {
+    "Start Timestamp": "06:31,340",
+    "End Timestamp": "06:33,820",
+    "Transcript": "- What's worth acknowledging?"
+  },
+  {
+    "Start Timestamp": "06:33,820",
+    "End Timestamp": "06:35,260",
+    "Transcript": "- What's worth acknowledging?"
+  },
+  {
+    "Start Timestamp": "06:35,260",
+    "End Timestamp": "06:37,540",
+    "Transcript": "That's the fucking meanest shit I heard."
+  },
+  {
+    "Start Timestamp": "06:37,540",
+    "End Timestamp": "06:41,620",
+    "Transcript": "You should say that to every fucking person you meet from now on."
+  },
+  {
+    "Start Timestamp": "06:41,620",
+    "End Timestamp": "06:43,740",
+    "Transcript": "- Thank you."
+  },
+  {
+    "Start Timestamp": "06:43,740",
+    "End Timestamp": "06:45,140",
+    "Transcript": "- What's worth acknowledging?"
+  },
+  {
+    "Start Timestamp": "06:45,140",
+    "End Timestamp": "06:46,740",
+    "Transcript": "- You think there's anything you said to me"
+  },
+  {
+    "Start Timestamp": "06:46,740",
+    "End Timestamp": "06:47,740",
+    "Transcript": "that's worth acknowledging?"
+  },
+  {
+    "Start Timestamp": "06:47,740",
+    "End Timestamp": "06:49,500",
+    "Transcript": "All right, buddy, keep talking."
+  },
+  {
+    "Start Timestamp": "06:49,500",
+    "End Timestamp": "06:50,980",
+    "Transcript": "Keep making me laugh."
+  },
+  {
+    "Start Timestamp": "06:50,980",
+    "End Timestamp": "06:54,740",
+    "Transcript": "- We'll see, Tom, or we'll see how fucking mean that is."
+  },
+  {
+    "Start Timestamp": "06:54,740",
+    "End Timestamp": "06:55,580",
+    "Transcript": "You'll see."
+  },
+  {
+    "Start Timestamp": "06:55,580",
+    "End Timestamp": "06:57,340",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "06:57,340",
+    "End Timestamp": "06:59,380",
+    "Transcript": "This is the start of the sewer."
+  },
+  {
+    "Start Timestamp": "06:59,380",
+    "End Timestamp": "07:01,780",
+    "Transcript": "- Chris pulls out a fucking sweet enchanted dagger."
+  },
+  {
+    "Start Timestamp": "07:01,780",
+    "End Timestamp": "07:03,660",
+    "Transcript": "Yeah, keep talking to him."
+  },
+  {
+    "Start Timestamp": "07:03,660",
+    "End Timestamp": "07:05,020",
+    "Transcript": "- I have city dagger."
+  },
+  {
+    "Start Timestamp": "07:05,020",
+    "End Timestamp": "07:08,660",
+    "Transcript": "- How hard would it be to make a little sewer"
+  },
+  {
+    "Start Timestamp": "07:08,660",
+    "End Timestamp": "07:09,700",
+    "Transcript": "and fill it with water?"
+  },
+  {
+    "Start Timestamp": "07:09,700",
+    "End Timestamp": "07:11,340",
+    "Transcript": "First you get a-- - You gotta build"
+  },
+  {
+    "Start Timestamp": "07:11,340",
+    "End Timestamp": "07:12,820",
+    "Transcript": "the toilet bowl."
+  },
+  {
+    "Start Timestamp": "07:12,820",
+    "End Timestamp": "07:15,420",
+    "Transcript": "You can make that out of stone for me, right?"
+  },
+  {
+    "Start Timestamp": "07:15,420",
+    "End Timestamp": "07:16,300",
+    "Transcript": "- Well, I would say, sorry, time of real,"
+  },
+  {
+    "Start Timestamp": "07:16,300",
+    "End Timestamp": "07:17,540",
+    "Transcript": "for real life for a second, I was gonna,"
+  },
+  {
+    "Start Timestamp": "07:17,540",
+    "End Timestamp": "07:18,540",
+    "Transcript": "For you know, even had that idea."
+  },
+  {
+    "Start Timestamp": "07:18,540",
+    "End Timestamp": "07:21,580",
+    "Transcript": "So when you go fucking hunt down a sheepy and it's wool,"
+  },
+  {
+    "Start Timestamp": "07:21,580",
+    "End Timestamp": "07:24,740",
+    "Transcript": "how hard do you think it'd be in real life to build a sewage system in your backyard?"
+  },
+  {
+    "Start Timestamp": "07:24,740",
+    "End Timestamp": "07:26,420",
+    "Transcript": "I think pretty difficult."
+  },
+  {
+    "Start Timestamp": "07:26,420",
+    "End Timestamp": "07:29,060",
+    "Transcript": "The Romans did it in like 1905 or whatever."
+  },
+  {
+    "Start Timestamp": "07:29,060",
+    "End Timestamp": "07:30,340",
+    "Transcript": "In 1905?"
+  },
+  {
+    "Start Timestamp": "07:30,340",
+    "End Timestamp": "07:32,140",
+    "Transcript": "Like BC?"
+  },
+  {
+    "Start Timestamp": "07:32,140",
+    "End Timestamp": "07:33,740",
+    "Transcript": "Before you felt no idea."
+  },
+  {
+    "Start Timestamp": "07:33,740",
+    "End Timestamp": "07:35,460",
+    "Transcript": "No, that'd be a they would be AD wouldn't they?"
+  },
+  {
+    "Start Timestamp": "07:35,460",
+    "End Timestamp": "07:37,220",
+    "Transcript": "The Rome fell in 1997."
+  },
+  {
+    "Start Timestamp": "07:37,220",
+    "End Timestamp": "07:39,700",
+    "Transcript": "He did shut up."
+  },
+  {
+    "Start Timestamp": "07:39,700",
+    "End Timestamp": "07:44,020",
+    "Transcript": "Yeah, Rome fell and then they handed Hong Kong back to the Chinese."
+  },
+  {
+    "Start Timestamp": "07:44,020",
+    "End Timestamp": "07:45,260",
+    "Transcript": "It was a big year."
+  },
+  {
+    "Start Timestamp": "07:45,260",
+    "End Timestamp": "07:46,500",
+    "Transcript": "Wait, where are the sheep?"
+  },
+  {
+    "Start Timestamp": "07:46,500",
+    "End Timestamp": "07:48,580",
+    "Transcript": "It was a big year, yeah, the Penn State came out."
+  },
+  {
+    "Start Timestamp": "07:48,580",
+    "End Timestamp": "07:50,260",
+    "Transcript": "You were previous to that?"
+  },
+  {
+    "Start Timestamp": "07:50,260",
+    "End Timestamp": "07:51,900",
+    "Transcript": "- Hmm, can't find the sheep."
+  },
+  {
+    "Start Timestamp": "07:51,900",
+    "End Timestamp": "07:53,700",
+    "Transcript": "Maybe I cannot go on."
+  },
+  {
+    "Start Timestamp": "07:53,700",
+    "End Timestamp": "07:54,860",
+    "Transcript": "Maybe I'm the sheep."
+  },
+  {
+    "Start Timestamp": "07:54,860",
+    "End Timestamp": "07:56,140",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "07:56,140",
+    "End Timestamp": "07:58,060",
+    "Transcript": "Oh, oh, oh."
+  },
+  {
+    "Start Timestamp": "07:58,060",
+    "End Timestamp": "07:59,660",
+    "Transcript": "Oh, there was black sheep down there."
+  },
+  {
+    "Start Timestamp": "07:59,660",
+    "End Timestamp": "08:00,940",
+    "Transcript": "Should I kill him with this sword?"
+  },
+  {
+    "Start Timestamp": "08:00,940",
+    "End Timestamp": "08:02,100",
+    "Transcript": "Or do I have to do it in a sec?"
+  },
+  {
+    "Start Timestamp": "08:02,100",
+    "End Timestamp": "08:02,940",
+    "Transcript": "- Can you hit it?"
+  },
+  {
+    "Start Timestamp": "08:02,940",
+    "End Timestamp": "08:04,460",
+    "Transcript": "Yeah, wait, how do you get the wool again?"
+  },
+  {
+    "Start Timestamp": "08:04,460",
+    "End Timestamp": "08:05,620",
+    "Transcript": "- But he's not the only--"
+  },
+  {
+    "Start Timestamp": "08:05,620",
+    "End Timestamp": "08:07,180",
+    "Transcript": "- Don't I need shearers or some shit?"
+  },
+  {
+    "Start Timestamp": "08:07,180",
+    "End Timestamp": "08:08,900",
+    "Transcript": "- Oh yeah, that is like an item, isn't it?"
+  },
+  {
+    "Start Timestamp": "08:08,900",
+    "End Timestamp": "08:09,740",
+    "Transcript": "Fuck you."
+  },
+  {
+    "Start Timestamp": "08:09,740",
+    "End Timestamp": "08:11,820",
+    "Transcript": "Oh my God."
+  },
+  {
+    "Start Timestamp": "08:11,820",
+    "End Timestamp": "08:13,380",
+    "Transcript": "- You got some, I did get wool out of him."
+  },
+  {
+    "Start Timestamp": "08:13,380",
+    "End Timestamp": "08:14,860",
+    "Transcript": "- Now you can make food at least."
+  },
+  {
+    "Start Timestamp": "08:14,860",
+    "End Timestamp": "08:15,940",
+    "Transcript": "You're getting hungry."
+  },
+  {
+    "Start Timestamp": "08:15,940",
+    "End Timestamp": "08:21,220",
+    "Transcript": "might as well kill all these animals. They had a little swipe animation when you cut"
+  },
+  {
+    "Start Timestamp": "08:21,220",
+    "End Timestamp": "08:25,700",
+    "Transcript": "the sword. I think it's getting darker. Oh, it's bad. We need to go back and start making"
+  },
+  {
+    "Start Timestamp": "08:25,700",
+    "End Timestamp": "08:31,940",
+    "Transcript": "the house. Look. What the square. The sun is totally going down. You got to make a little"
+  },
+  {
+    "Start Timestamp": "08:31,940",
+    "End Timestamp": "08:37,540",
+    "Transcript": "outhouse to hide in the little sewer house. Okay. Yeah. It makes sense to start your sewage"
+  },
+  {
+    "Start Timestamp": "08:37,540",
+    "End Timestamp": "08:43,220",
+    "Transcript": "system with an outhouse and a toilet is all I'm saying. I fucking love toilets. And then"
+  },
+  {
+    "Start Timestamp": "08:43,220",
+    "End Timestamp": "08:46,180",
+    "Transcript": "then we should also probably build some big pole"
+  },
+  {
+    "Start Timestamp": "08:46,180",
+    "End Timestamp": "08:47,480",
+    "Transcript": "and put a torch on top of it"
+  },
+  {
+    "Start Timestamp": "08:47,480",
+    "End Timestamp": "08:51,680",
+    "Transcript": "so we can have an easier time finding our main area."
+  },
+  {
+    "Start Timestamp": "08:51,680",
+    "End Timestamp": "08:53,720",
+    "Transcript": "- Yeah, put the incidences toilet above it."
+  },
+  {
+    "Start Timestamp": "08:53,720",
+    "End Timestamp": "08:55,140",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "08:55,140",
+    "End Timestamp": "08:56,120",
+    "Transcript": "- And then all of the villagers"
+  },
+  {
+    "Start Timestamp": "08:56,120",
+    "End Timestamp": "08:57,560",
+    "Transcript": "will come and fucking shit into it."
+  },
+  {
+    "Start Timestamp": "08:57,560",
+    "End Timestamp": "08:58,720",
+    "Transcript": "- Yeah, they'll take turns shitty."
+  },
+  {
+    "Start Timestamp": "08:58,720",
+    "End Timestamp": "08:59,560",
+    "Transcript": "Isn't that your goal?"
+  },
+  {
+    "Start Timestamp": "08:59,560",
+    "End Timestamp": "09:00,400",
+    "Transcript": "- Is that your goal?"
+  },
+  {
+    "Start Timestamp": "09:00,400",
+    "End Timestamp": "09:01,400",
+    "Transcript": "- I think so."
+  },
+  {
+    "Start Timestamp": "09:01,400",
+    "End Timestamp": "09:03,400",
+    "Transcript": "Also, I lost my fucking home."
+  },
+  {
+    "Start Timestamp": "09:03,400",
+    "End Timestamp": "09:04,240",
+    "Transcript": "See?"
+  },
+  {
+    "Start Timestamp": "09:04,240",
+    "End Timestamp": "09:05,080",
+    "Transcript": "- What about you?"
+  },
+  {
+    "Start Timestamp": "09:05,080",
+    "End Timestamp": "09:05,920",
+    "Transcript": "It's down here."
+  },
+  {
+    "Start Timestamp": "09:05,920",
+    "End Timestamp": "09:06,760",
+    "Transcript": "- It's down here."
+  },
+  {
+    "Start Timestamp": "09:06,760",
+    "End Timestamp": "09:08,280",
+    "Transcript": "- Yeah, there's a crafting table."
+  },
+  {
+    "Start Timestamp": "09:08,280",
+    "End Timestamp": "09:09,120",
+    "Transcript": "- Yeah."
+  },
+  {
+    "Start Timestamp": "09:09,120",
+    "End Timestamp": "09:10,120",
+    "Transcript": "Oh, thank God."
+  },
+  {
+    "Start Timestamp": "09:10,120",
+    "End Timestamp": "09:11,920",
+    "Transcript": "- It's getting kind of dark."
+  },
+  {
+    "Start Timestamp": "09:11,920",
+    "End Timestamp": "09:15,180",
+    "Transcript": "This is when the zombies and the creepers and..."
+  },
+  {
+    "Start Timestamp": "09:15,180",
+    "End Timestamp": "09:16,660",
+    "Transcript": "Oh no, oh."
+  },
+  {
+    "Start Timestamp": "09:16,660",
+    "End Timestamp": "09:18,300",
+    "Transcript": "Wait, what is this?"
+  },
+  {
+    "Start Timestamp": "09:18,300",
+    "End Timestamp": "09:19,300",
+    "Transcript": "And the sight."
+  },
+  {
+    "Start Timestamp": "09:19,300",
+    "End Timestamp": "09:20,300",
+    "Transcript": "What the hell, Tomar?"
+  },
+  {
+    "Start Timestamp": "09:20,300",
+    "End Timestamp": "09:21,300",
+    "Transcript": "I don't know."
+  },
+  {
+    "Start Timestamp": "09:21,300",
+    "End Timestamp": "09:22,300",
+    "Transcript": "I thought that was just stone."
+  },
+  {
+    "Start Timestamp": "09:22,300",
+    "End Timestamp": "09:23,300",
+    "Transcript": "What is that?"
+  },
+  {
+    "Start Timestamp": "09:23,300",
+    "End Timestamp": "09:24,300",
+    "Transcript": "Tomar!"
+  },
+  {
+    "Start Timestamp": "09:24,300",
+    "End Timestamp": "09:25,300",
+    "Transcript": "Isn't it?"
+  },
+  {
+    "Start Timestamp": "09:25,300",
+    "End Timestamp": "09:26,800",
+    "Transcript": "I'm pretty sure it is still just stone."
+  },
+  {
+    "Start Timestamp": "09:26,800",
+    "End Timestamp": "09:28,060",
+    "Transcript": "Should I just use plank?"
+  },
+  {
+    "Start Timestamp": "09:28,060",
+    "End Timestamp": "09:29,060",
+    "Transcript": "Planks?"
+  },
+  {
+    "Start Timestamp": "09:29,060",
+    "End Timestamp": "09:31,860",
+    "Transcript": "Or maybe that is what the greenish stuff in the stone was."
+  },
+  {
+    "Start Timestamp": "09:31,860",
+    "End Timestamp": "09:34,060",
+    "Transcript": "Because you got it really house right about that."
+  },
+  {
+    "Start Timestamp": "09:34,060",
+    "End Timestamp": "09:35,060",
+    "Transcript": "You're still right."
+  },
+  {
+    "Start Timestamp": "09:35,060",
+    "End Timestamp": "09:37,900",
+    "Transcript": "Maybe I'll just dig a hole into this thing and that will be my house."
+  },
+  {
+    "Start Timestamp": "09:37,900",
+    "End Timestamp": "09:38,900",
+    "Transcript": "Little cave?"
+  },
+  {
+    "Start Timestamp": "09:38,900",
+    "End Timestamp": "09:39,900",
+    "Transcript": "Yeah, do it."
+  },
+  {
+    "Start Timestamp": "09:39,900",
+    "End Timestamp": "09:40,900",
+    "Transcript": "What a..."
+  },
+  {
+    "Start Timestamp": "09:40,900",
+    "End Timestamp": "09:41,900",
+    "Transcript": "There's so many people so frustrated listening to me."
+  },
+  {
+    "Start Timestamp": "09:41,900",
+    "End Timestamp": "09:44,980",
+    "Transcript": "- I guarantee people I screwed you right now."
+  },
+  {
+    "Start Timestamp": "09:44,980",
+    "End Timestamp": "09:46,020",
+    "Transcript": "(screaming)"
+  },
+  {
+    "Start Timestamp": "09:46,020",
+    "End Timestamp": "09:47,600",
+    "Transcript": "- 'Cause that will literally not be innocent."
+  },
+  {
+    "Start Timestamp": "09:47,600",
+    "End Timestamp": "09:50,140",
+    "Transcript": "People are going, no, what you should be doing is this."
+  },
+  {
+    "Start Timestamp": "09:50,140",
+    "End Timestamp": "09:52,260",
+    "Transcript": "Fucking idiots, you don't even know."
+  },
+  {
+    "Start Timestamp": "09:52,260",
+    "End Timestamp": "09:56,220",
+    "Transcript": "- Listen guys, I'm good at mixing sound,"
+  },
+  {
+    "Start Timestamp": "09:56,220",
+    "End Timestamp": "09:59,140",
+    "Transcript": "making really subpar 3D clay models."
+  },
+  {
+    "Start Timestamp": "09:59,140",
+    "End Timestamp": "10:03,100",
+    "Transcript": "One thing I'm not good at is mining craft."
+  },
+  {
+    "Start Timestamp": "10:03,100",
+    "End Timestamp": "10:04,420",
+    "Transcript": "- Mining craft."
+  },
+  {
+    "Start Timestamp": "10:04,420",
+    "End Timestamp": "10:05,260",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "10:05,260",
+    "End Timestamp": "10:06,340",
+    "Transcript": "- Have we gone this far yet?"
+  },
+  {
+    "Start Timestamp": "10:06,340",
+    "End Timestamp": "10:07,580",
+    "Transcript": "- Yeah, without saying it."
+  },
+  {
+    "Start Timestamp": "10:07,580",
+    "End Timestamp": "10:09,340",
+    "Transcript": "- Yeah, I don't know."
+  },
+  {
+    "Start Timestamp": "10:09,340",
+    "End Timestamp": "10:12,780",
+    "Transcript": "But, but, but."
+  },
+  {
+    "Start Timestamp": "10:12,780",
+    "End Timestamp": "10:14,660",
+    "Transcript": "- So yeah, the Andesite is definitely different"
+  },
+  {
+    "Start Timestamp": "10:14,660",
+    "End Timestamp": "10:16,060",
+    "Transcript": "from the regular stone."
+  },
+  {
+    "Start Timestamp": "10:16,060",
+    "End Timestamp": "10:19,020",
+    "Transcript": "- See, we've already technically got a beautiful home now."
+  },
+  {
+    "Start Timestamp": "10:19,020",
+    "End Timestamp": "10:20,900",
+    "Transcript": "- Yeah, who needs big fancy buildings"
+  },
+  {
+    "Start Timestamp": "10:20,900",
+    "End Timestamp": "10:24,100",
+    "Transcript": "when you can just carve a little stone cave?"
+  },
+  {
+    "Start Timestamp": "10:24,100",
+    "End Timestamp": "10:24,940",
+    "Transcript": "- Hear that!"
+  },
+  {
+    "Start Timestamp": "10:24,940",
+    "End Timestamp": "10:27,900",
+    "Transcript": "- Oh, fuck God, they're coming to do your--"
+  },
+  {
+    "Start Timestamp": "10:27,900",
+    "End Timestamp": "10:29,260",
+    "Transcript": "- Make a door, make a door!"
+  },
+  {
+    "Start Timestamp": "10:29,260",
+    "End Timestamp": "10:30,820",
+    "Transcript": "- Oh, fuck yourself in."
+  },
+  {
+    "Start Timestamp": "10:30,820",
+    "End Timestamp": "10:32,140",
+    "Transcript": "- Ah, dipshits."
+  },
+  {
+    "Start Timestamp": "10:32,140",
+    "End Timestamp": "10:33,420",
+    "Transcript": "- Put a door up, oh my God."
+  },
+  {
+    "Start Timestamp": "10:33,420",
+    "End Timestamp": "10:35,020",
+    "Transcript": "- My stupid piece of shit."
+  },
+  {
+    "Start Timestamp": "10:35,020",
+    "End Timestamp": "10:36,340",
+    "Transcript": "- I don't think he can build a door without the--"
+  },
+  {
+    "Start Timestamp": "10:36,340",
+    "End Timestamp": "10:38,060",
+    "Transcript": "- I can't even see anything, I don't even hit any of you."
+  },
+  {
+    "Start Timestamp": "10:38,060",
+    "End Timestamp": "10:39,340",
+    "Transcript": "- How do you see that?"
+  },
+  {
+    "Start Timestamp": "10:39,340",
+    "End Timestamp": "10:42,100",
+    "Transcript": "- Do you need sulfur to make torches?"
+  },
+  {
+    "Start Timestamp": "10:42,100",
+    "End Timestamp": "10:42,940",
+    "Transcript": "- Uh oh."
+  },
+  {
+    "Start Timestamp": "10:42,940",
+    "End Timestamp": "10:45,660",
+    "Transcript": "- Oh no, you just need coal, right?"
+  },
+  {
+    "Start Timestamp": "10:45,660",
+    "End Timestamp": "10:47,220",
+    "Transcript": "- Yeah, I need coal."
+  },
+  {
+    "Start Timestamp": "10:47,220",
+    "End Timestamp": "10:49,900",
+    "Transcript": "- I thought you had a bunch of it, what happened to it?"
+  },
+  {
+    "Start Timestamp": "10:49,900",
+    "End Timestamp": "10:51,220",
+    "Transcript": "- Yeah, wait, what the--"
+  },
+  {
+    "Start Timestamp": "10:51,220",
+    "End Timestamp": "10:52,060",
+    "Transcript": "- That's true."
+  },
+  {
+    "Start Timestamp": "10:52,060",
+    "End Timestamp": "10:53,580",
+    "Transcript": "- That's pretty cool. - Okay, so you're a bit too."
+  },
+  {
+    "Start Timestamp": "10:53,580",
+    "End Timestamp": "10:55,500",
+    "Transcript": "- It's just coal on top of a stick."
+  },
+  {
+    "Start Timestamp": "10:55,500",
+    "End Timestamp": "10:57,300",
+    "Transcript": "I think you can make it in your inventory."
+  },
+  {
+    "Start Timestamp": "10:57,300",
+    "End Timestamp": "10:59,020",
+    "Transcript": "- You're so clever, told me."
+  },
+  {
+    "Start Timestamp": "10:59,020",
+    "End Timestamp": "11:01,540",
+    "Transcript": "- Tell me, you always know what to do with mine."
+  },
+  {
+    "Start Timestamp": "11:01,540",
+    "End Timestamp": "11:03,300",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "11:03,300",
+    "End Timestamp": "11:04,740",
+    "Transcript": "- You saw right."
+  },
+  {
+    "Start Timestamp": "11:04,740",
+    "End Timestamp": "11:06,960",
+    "Transcript": "Okay, well, we got some."
+  },
+  {
+    "Start Timestamp": "11:06,960",
+    "End Timestamp": "11:07,800",
+    "Transcript": "- Well you got a light."
+  },
+  {
+    "Start Timestamp": "11:07,800",
+    "End Timestamp": "11:11,120",
+    "Transcript": "Oops, Tomariah did something stupid."
+  },
+  {
+    "Start Timestamp": "11:11,120",
+    "End Timestamp": "11:11,960",
+    "Transcript": "- It's okay."
+  },
+  {
+    "Start Timestamp": "11:11,960",
+    "End Timestamp": "11:14,480",
+    "Transcript": "- There you go."
+  },
+  {
+    "Start Timestamp": "11:14,480",
+    "End Timestamp": "11:18,400",
+    "Transcript": "So we've officially-- - Especially all Zombo out there."
+  },
+  {
+    "Start Timestamp": "11:18,400",
+    "End Timestamp": "11:21,760",
+    "Transcript": "- I guess you need the workbench to make an oven, right?"
+  },
+  {
+    "Start Timestamp": "11:21,760",
+    "End Timestamp": "11:24,360",
+    "Transcript": "Or something that you can cook your food on?"
+  },
+  {
+    "Start Timestamp": "11:24,360",
+    "End Timestamp": "11:25,200",
+    "Transcript": "- I don't freakin' know."
+  },
+  {
+    "Start Timestamp": "11:25,200",
+    "End Timestamp": "11:26,560",
+    "Transcript": "One step at a time I ask for--"
+  },
+  {
+    "Start Timestamp": "11:26,560",
+    "End Timestamp": "11:29,360",
+    "Transcript": "- I'm just sayin' you're 100 meters kinda low."
+  },
+  {
+    "Start Timestamp": "11:29,360",
+    "End Timestamp": "11:33,920",
+    "Transcript": "- Oh God, my little lamb chop meter shows blood right there."
+  },
+  {
+    "Start Timestamp": "11:33,920",
+    "End Timestamp": "11:36,360",
+    "Transcript": "- Is blood?"
+  },
+  {
+    "Start Timestamp": "11:36,360",
+    "End Timestamp": "11:38,360",
+    "Transcript": "Yeah, I'll look on the lamp foot."
+  },
+  {
+    "Start Timestamp": "11:38,360",
+    "End Timestamp": "11:40,360",
+    "Transcript": "Oh yeah, isn't that crazy?"
+  },
+  {
+    "Start Timestamp": "11:40,360",
+    "End Timestamp": "11:43,360",
+    "Transcript": "He's gonna get a little guy right out of here, man."
+  },
+  {
+    "Start Timestamp": "11:43,360",
+    "End Timestamp": "11:45,360",
+    "Transcript": "There's a guy coming out of here."
+  },
+  {
+    "Start Timestamp": "11:45,360",
+    "End Timestamp": "11:47,360",
+    "Transcript": "He'll just kill him for experience."
+  },
+  {
+    "Start Timestamp": "11:47,360",
+    "End Timestamp": "11:48,360",
+    "Transcript": "He deserves it."
+  },
+  {
+    "Start Timestamp": "11:48,360",
+    "End Timestamp": "11:50,360",
+    "Transcript": "He knows I'm here."
+  },
+  {
+    "Start Timestamp": "11:50,360",
+    "End Timestamp": "11:53,360",
+    "Transcript": "I never got what he's got, he's worried t-shirts."
+  },
+  {
+    "Start Timestamp": "11:53,360",
+    "End Timestamp": "11:55,360",
+    "Transcript": "Ah, dick."
+  },
+  {
+    "Start Timestamp": "11:55,360",
+    "End Timestamp": "11:57,360",
+    "Transcript": "He's pretty good, actually."
+  },
+  {
+    "Start Timestamp": "11:57,360",
+    "End Timestamp": "11:58,360",
+    "Transcript": "So, are you fucking kicking my ass?"
+  },
+  {
+    "Start Timestamp": "11:58,360",
+    "End Timestamp": "11:59,360",
+    "Transcript": "You just made an advance, man."
+  },
+  {
+    "Start Timestamp": "11:59,360",
+    "End Timestamp": "12:00,360",
+    "Transcript": "Stupid ugly."
+  },
+  {
+    "Start Timestamp": "12:00,360",
+    "End Timestamp": "12:01,360",
+    "Transcript": "What was that you got?"
+  },
+  {
+    "Start Timestamp": "12:01,360",
+    "End Timestamp": "12:02,360",
+    "Transcript": "I never seen that."
+  },
+  {
+    "Start Timestamp": "12:02,360",
+    "End Timestamp": "12:05,360",
+    "Transcript": "I guess that's his official in-game name is stupid ugly."
+  },
+  {
+    "Start Timestamp": "12:05,360",
+    "End Timestamp": "12:14,840",
+    "Transcript": "Really for you just yes, it's a good one. I click. Yeah, I do that. I was that a wizard what the fuck?"
+  },
+  {
+    "Start Timestamp": "12:14,840",
+    "End Timestamp": "12:15,340",
+    "Transcript": "Fuck!"
+  },
+  {
+    "Start Timestamp": "12:15,340",
+    "End Timestamp": "12:15,840",
+    "Transcript": "AHHH!"
+  },
+  {
+    "Start Timestamp": "12:15,840",
+    "End Timestamp": "12:16,840",
+    "Transcript": "Zee-doo!"
+  },
+  {
+    "Start Timestamp": "12:16,840",
+    "End Timestamp": "12:17,840",
+    "Transcript": "Ugh!"
+  },
+  {
+    "Start Timestamp": "12:17,840",
+    "End Timestamp": "12:18,840",
+    "Transcript": "Come on!"
+  },
+  {
+    "Start Timestamp": "12:18,840",
+    "End Timestamp": "12:19,840",
+    "Transcript": "Go!"
+  },
+  {
+    "Start Timestamp": "12:19,840",
+    "End Timestamp": "12:20,840",
+    "Transcript": "It will run!"
+  },
+  {
+    "Start Timestamp": "12:20,840",
+    "End Timestamp": "12:21,840",
+    "Transcript": "Why isn't he running?"
+  },
+  {
+    "Start Timestamp": "12:21,840",
+    "End Timestamp": "12:22,840",
+    "Transcript": "Did he get slotted?"
+  },
+  {
+    "Start Timestamp": "12:22,840",
+    "End Timestamp": "12:23,840",
+    "Transcript": "He got slotted, he got slotted."
+  },
+  {
+    "Start Timestamp": "12:23,840",
+    "End Timestamp": "12:24,840",
+    "Transcript": "He hit you with something."
+  },
+  {
+    "Start Timestamp": "12:24,840",
+    "End Timestamp": "12:25,840",
+    "Transcript": "Get the fucking..."
+  },
+  {
+    "Start Timestamp": "12:25,840",
+    "End Timestamp": "12:26,840",
+    "Transcript": "Bear it!"
+  },
+  {
+    "Start Timestamp": "12:26,840",
+    "End Timestamp": "12:27,840",
+    "Transcript": "Oh, he poisoned poison!"
+  },
+  {
+    "Start Timestamp": "12:27,840",
+    "End Timestamp": "12:28,840",
+    "Transcript": "He hit you with something."
+  },
+  {
+    "Start Timestamp": "12:28,840",
+    "End Timestamp": "12:29,840",
+    "Transcript": "Eat the fucking one!"
+  },
+  {
+    "Start Timestamp": "12:29,840",
+    "End Timestamp": "12:30,840",
+    "Transcript": "Eat the fucking one!"
+  },
+  {
+    "Start Timestamp": "12:30,840",
+    "End Timestamp": "12:31,840",
+    "Transcript": "Eat the fucking one!"
+  },
+  {
+    "Start Timestamp": "12:31,840",
+    "End Timestamp": "12:32,840",
+    "Transcript": "What the fuck?!"
+  },
+  {
+    "Start Timestamp": "12:32,840",
+    "End Timestamp": "12:33,840",
+    "Transcript": "No!"
+  },
+  {
+    "Start Timestamp": "12:33,840",
+    "End Timestamp": "12:34,840",
+    "Transcript": "Oh, it's not working."
+  },
+  {
+    "Start Timestamp": "12:34,840",
+    "End Timestamp": "12:35,840",
+    "Transcript": "Oh, that's not working."
+  },
+  {
+    "Start Timestamp": "12:35,840",
+    "End Timestamp": "12:36,840",
+    "Transcript": "Oh, that's not working."
+  },
+  {
+    "Start Timestamp": "12:36,840",
+    "End Timestamp": "12:37,840",
+    "Transcript": "Oh, that's not working."
+  },
+  {
+    "Start Timestamp": "12:37,840",
+    "End Timestamp": "12:38,840",
+    "Transcript": "Oh, that's not working."
+  },
+  {
+    "Start Timestamp": "12:38,840",
+    "End Timestamp": "12:39,840",
+    "Transcript": "Oh, that's not working."
+  },
+  {
+    "Start Timestamp": "12:39,840",
+    "End Timestamp": "12:40,840",
+    "Transcript": "Oh, that's not working."
+  },
+  {
+    "Start Timestamp": "12:40,840",
+    "End Timestamp": "12:41,840",
+    "Transcript": "Oh, that's not working."
+  },
+  {
+    "Start Timestamp": "12:41,840",
+    "End Timestamp": "12:42,840",
+    "Transcript": "Okay."
+  },
+  {
+    "Start Timestamp": "12:42,840",
+    "End Timestamp": "12:43,840",
+    "Transcript": "Okay."
+  },
+  {
+    "Start Timestamp": "12:43,840",
+    "End Timestamp": "12:47,240",
+    "Transcript": "long it's been since we played this I've never seen a wizard in my life some"
+  },
+  {
+    "Start Timestamp": "12:47,240",
+    "End Timestamp": "12:52,200",
+    "Transcript": "people that are playing Minecraft are are like we're bored when the first game"
+  },
+  {
+    "Start Timestamp": "12:52,200",
+    "End Timestamp": "12:56,000",
+    "Transcript": "came out that's all of this fucking games were he's fucking laughing at me you"
+  },
+  {
+    "Start Timestamp": "12:56,000",
+    "End Timestamp": "13:01,360",
+    "Transcript": "made me smell like shit - that was actually kind of scary I'm just gonna"
+  },
+  {
+    "Start Timestamp": "13:01,360",
+    "End Timestamp": "13:05,880",
+    "Transcript": "make another crafting batch I guess I guess make sense to make one in here I"
+  },
+  {
+    "Start Timestamp": "13:05,880",
+    "End Timestamp": "13:11,320",
+    "Transcript": "guess I'm low on that wood though it's getting kind of scary we could just why"
+  },
+  {
+    "Start Timestamp": "13:11,320",
+    "End Timestamp": "13:13,320",
+    "Transcript": "Why are you fucking bubbly? What is that?"
+  },
+  {
+    "Start Timestamp": "13:13,320",
+    "End Timestamp": "13:15,320",
+    "Transcript": "I don't know, my little guy is just so..."
+  },
+  {
+    "Start Timestamp": "13:15,320",
+    "End Timestamp": "13:16,320",
+    "Transcript": "Maybe..."
+  },
+  {
+    "Start Timestamp": "13:16,320",
+    "End Timestamp": "13:19,320",
+    "Transcript": "Maybe I'd taste like bacon now or something."
+  },
+  {
+    "Start Timestamp": "13:19,320",
+    "End Timestamp": "13:20,320",
+    "Transcript": "Epic bacon?"
+  },
+  {
+    "Start Timestamp": "13:20,320",
+    "End Timestamp": "13:21,320",
+    "Transcript": "Yeah, how do you heal then?"
+  },
+  {
+    "Start Timestamp": "13:21,320",
+    "End Timestamp": "13:23,320",
+    "Transcript": "Is it just... you just need cooked food?"
+  },
+  {
+    "Start Timestamp": "13:23,320",
+    "End Timestamp": "13:25,320",
+    "Transcript": "Yeah, we need to make a furnace or something."
+  },
+  {
+    "Start Timestamp": "13:25,320",
+    "End Timestamp": "13:27,320",
+    "Transcript": "Yeah, which I think you could just make with like..."
+  },
+  {
+    "Start Timestamp": "13:27,320",
+    "End Timestamp": "13:28,320",
+    "Transcript": "What?"
+  },
+  {
+    "Start Timestamp": "13:28,320",
+    "End Timestamp": "13:31,320",
+    "Transcript": "You just make like a ring of stone in the crafting table?"
+  },
+  {
+    "Start Timestamp": "13:31,320",
+    "End Timestamp": "13:32,320",
+    "Transcript": "A ring of stone!"
+  },
+  {
+    "Start Timestamp": "13:32,320",
+    "End Timestamp": "13:34,320",
+    "Transcript": "Yes, that's what you meant to say."
+  },
+  {
+    "Start Timestamp": "13:34,320",
+    "End Timestamp": "13:35,320",
+    "Transcript": "That's what you meant to say, Tony."
+  },
+  {
+    "Start Timestamp": "13:35,320",
+    "End Timestamp": "13:36,320",
+    "Transcript": "That's what you were going to say."
+  },
+  {
+    "Start Timestamp": "13:36,320",
+    "End Timestamp": "13:37,320",
+    "Transcript": "A ring of stone!"
+  },
+  {
+    "Start Timestamp": "13:37,320",
+    "End Timestamp": "13:38,320",
+    "Transcript": "A ring of stone!"
+  },
+  {
+    "Start Timestamp": "13:38,320",
+    "End Timestamp": "13:39,320",
+    "Transcript": "A ring of stone!"
+  },
+  {
+    "Start Timestamp": "13:39,320",
+    "End Timestamp": "13:41,240",
+    "Transcript": "- But instead you said, \"A-Rigue.\""
+  },
+  {
+    "Start Timestamp": "13:41,240",
+    "End Timestamp": "13:42,640",
+    "Transcript": "- Don't you do it like that?"
+  },
+  {
+    "Start Timestamp": "13:42,640",
+    "End Timestamp": "13:44,920",
+    "Transcript": "Yeah, yeah, boy."
+  },
+  {
+    "Start Timestamp": "13:44,920",
+    "End Timestamp": "13:47,080",
+    "Transcript": "- Oh my, there's not a ring of stone, if I write stone."
+  },
+  {
+    "Start Timestamp": "13:47,080",
+    "End Timestamp": "13:51,360",
+    "Transcript": "- When the ring goes in, I remember from my past."
+  },
+  {
+    "Start Timestamp": "13:51,360",
+    "End Timestamp": "13:55,640",
+    "Transcript": "- I think people who settle and just have a good old time,"
+  },
+  {
+    "Start Timestamp": "13:55,640",
+    "End Timestamp": "13:58,760",
+    "Transcript": "no matter what, those are the people who are the happiest."
+  },
+  {
+    "Start Timestamp": "13:58,760",
+    "End Timestamp": "14:00,960",
+    "Transcript": "People who focus on work all the time,"
+  },
+  {
+    "Start Timestamp": "14:00,960",
+    "End Timestamp": "14:01,900",
+    "Transcript": "aren't very happy."
+  },
+  {
+    "Start Timestamp": "14:01,900",
+    "End Timestamp": "14:04,440",
+    "Transcript": "- I agree."
+  },
+  {
+    "Start Timestamp": "14:04,440",
+    "End Timestamp": "14:06,720",
+    "Transcript": "- And that's why I'm gonna kill myself tonight."
+  },
+  {
+    "Start Timestamp": "14:06,720",
+    "End Timestamp": "14:08,960",
+    "Transcript": "- Let's do a suicide pack of three of us."
+  },
+  {
+    "Start Timestamp": "14:08,960",
+    "End Timestamp": "14:09,460",
+    "Transcript": "I'm down."
+  },
+  {
+    "Start Timestamp": "14:09,460",
+    "End Timestamp": "14:11,460",
+    "Transcript": "What's the, what are the conditions of the suicide pay?"
+  },
+  {
+    "Start Timestamp": "14:11,460",
+    "End Timestamp": "14:13,160",
+    "Transcript": "If I want to die, I'm taking you with me."
+  },
+  {
+    "Start Timestamp": "14:13,160",
+    "End Timestamp": "14:15,560",
+    "Transcript": "[laughter]"
+  },
+  {
+    "Start Timestamp": "14:15,560",
+    "End Timestamp": "14:17,060",
+    "Transcript": "I don't see why I agree to that."
+  },
+  {
+    "Start Timestamp": "14:17,060",
+    "End Timestamp": "14:17,560",
+    "Transcript": "Hey."
+  },
+  {
+    "Start Timestamp": "14:17,560",
+    "End Timestamp": "14:20,460",
+    "Transcript": "Homer, look, I freaking love this fucking like wall divider right here."
+  },
+  {
+    "Start Timestamp": "14:20,460",
+    "End Timestamp": "14:21,360",
+    "Transcript": "I hate this pillar right there."
+  },
+  {
+    "Start Timestamp": "14:21,360",
+    "End Timestamp": "14:23,360",
+    "Transcript": "That's actually amazing."
+  },
+  {
+    "Start Timestamp": "14:23,360",
+    "End Timestamp": "14:24,460",
+    "Transcript": "That's fucking cool."
+  },
+  {
+    "Start Timestamp": "14:24,460",
+    "End Timestamp": "14:25,960",
+    "Transcript": "You're like all those shows that like--"
+  },
+  {
+    "Start Timestamp": "14:25,960",
+    "End Timestamp": "14:26,960",
+    "Transcript": "Oh no!"
+  },
+  {
+    "Start Timestamp": "14:26,960",
+    "End Timestamp": "14:27,960",
+    "Transcript": "There's a spider up there."
+  },
+  {
+    "Start Timestamp": "14:27,960",
+    "End Timestamp": "14:30,280",
+    "Transcript": "Put a fucking piece of thing right there."
+  },
+  {
+    "Start Timestamp": "14:30,280",
+    "End Timestamp": "14:31,280",
+    "Transcript": "A pizza thing?"
+  },
+  {
+    "Start Timestamp": "14:31,280",
+    "End Timestamp": "14:33,280",
+    "Transcript": "Puts a pizza thing."
+  },
+  {
+    "Start Timestamp": "14:33,280",
+    "End Timestamp": "14:34,280",
+    "Transcript": "Oh yeah."
+  },
+  {
+    "Start Timestamp": "14:34,280",
+    "End Timestamp": "14:38,200",
+    "Transcript": "Someone's dying over there."
+  },
+  {
+    "Start Timestamp": "14:38,200",
+    "End Timestamp": "14:39,840",
+    "Transcript": "Did Natch make these sound effects?"
+  },
+  {
+    "Start Timestamp": "14:39,840",
+    "End Timestamp": "14:41,360",
+    "Transcript": "They still used to this thing."
+  },
+  {
+    "Start Timestamp": "14:41,360",
+    "End Timestamp": "14:43,560",
+    "Transcript": "I think these are from the original, yeah."
+  },
+  {
+    "Start Timestamp": "14:43,560",
+    "End Timestamp": "14:44,560",
+    "Transcript": "You fucking dumbass."
+  },
+  {
+    "Start Timestamp": "14:44,560",
+    "End Timestamp": "14:46,040",
+    "Transcript": "We really need a bed."
+  },
+  {
+    "Start Timestamp": "14:46,040",
+    "End Timestamp": "14:48,200",
+    "Transcript": "Mm-mm, staying away from you."
+  },
+  {
+    "Start Timestamp": "14:48,200",
+    "End Timestamp": "14:49,200",
+    "Transcript": "I don't remember."
+  },
+  {
+    "Start Timestamp": "14:49,200",
+    "End Timestamp": "14:53,440",
+    "Transcript": "We're gonna respawn really far from here and not be able to find it if we die."
+  },
+  {
+    "Start Timestamp": "14:53,440",
+    "End Timestamp": "14:55,560",
+    "Transcript": "This fucking idiot just exploded."
+  },
+  {
+    "Start Timestamp": "14:55,560",
+    "End Timestamp": "14:56,940",
+    "Transcript": "do a piece of hamburger meat."
+  },
+  {
+    "Start Timestamp": "14:56,940",
+    "End Timestamp": "14:58,620",
+    "Transcript": "- That's pretty cool."
+  },
+  {
+    "Start Timestamp": "14:58,620",
+    "End Timestamp": "15:00,040",
+    "Transcript": "Let's go back into the house."
+  },
+  {
+    "Start Timestamp": "15:00,040",
+    "End Timestamp": "15:03,380",
+    "Transcript": "I'll put this here."
+  },
+  {
+    "Start Timestamp": "15:03,380",
+    "End Timestamp": "15:05,780",
+    "Transcript": "We'll be safe."
+  },
+  {
+    "Start Timestamp": "15:05,780",
+    "End Timestamp": "15:09,460",
+    "Transcript": "So you can do a little cleanup outside,"
+  },
+  {
+    "Start Timestamp": "15:09,460",
+    "End Timestamp": "15:10,300",
+    "Transcript": "making it look nice."
+  },
+  {
+    "Start Timestamp": "15:10,300",
+    "End Timestamp": "15:11,900",
+    "Transcript": "- Yes. - Look at that."
+  },
+  {
+    "Start Timestamp": "15:11,900",
+    "End Timestamp": "15:15,180",
+    "Transcript": "- I don't like how the two on the side are."
+  },
+  {
+    "Start Timestamp": "15:15,180",
+    "End Timestamp": "15:17,300",
+    "Transcript": "- I definitely wanna make a door."
+  },
+  {
+    "Start Timestamp": "15:17,300",
+    "End Timestamp": "15:19,320",
+    "Transcript": "- You know what's kind of ironic is that"
+  },
+  {
+    "Start Timestamp": "15:19,320",
+    "End Timestamp": "15:20,860",
+    "Transcript": "autistic people love this game,"
+  },
+  {
+    "Start Timestamp": "15:20,860",
+    "End Timestamp": "15:24,300",
+    "Transcript": "but having cobblestone right here next to this,"
+  },
+  {
+    "Start Timestamp": "15:24,300",
+    "End Timestamp": "15:26,300",
+    "Transcript": "We'll just piss them off even more serious."
+  },
+  {
+    "Start Timestamp": "15:26,300",
+    "End Timestamp": "15:26,800",
+    "Transcript": "That pisses me off."
+  },
+  {
+    "Start Timestamp": "15:26,800",
+    "End Timestamp": "15:29,300",
+    "Transcript": "I don't know if it's my autism or my OCD or my bad."
+  },
+  {
+    "Start Timestamp": "15:29,300",
+    "End Timestamp": "15:31,800",
+    "Transcript": "That's where it is if my schizophrenia or my bipolar disorder."
+  },
+  {
+    "Start Timestamp": "15:31,800",
+    "End Timestamp": "15:32,300",
+    "Transcript": "But that is--"
+  },
+  {
+    "Start Timestamp": "15:32,300",
+    "End Timestamp": "15:35,300",
+    "Transcript": "You want it all to look nice and symmetrical and lovely."
+  },
+  {
+    "Start Timestamp": "15:35,300",
+    "End Timestamp": "15:36,700",
+    "Transcript": "Thank you for your medical--"
+  },
+  {
+    "Start Timestamp": "15:36,700",
+    "End Timestamp": "15:37,700",
+    "Transcript": "[LAUGHTER]"
+  },
+  {
+    "Start Timestamp": "15:37,700",
+    "End Timestamp": "15:40,000",
+    "Transcript": "I wanted to make a video for a long time with a video."
+  },
+  {
+    "Start Timestamp": "15:40,000",
+    "End Timestamp": "15:43,500",
+    "Transcript": "Just a guy looking at the camera and listing all of his ailments."
+  },
+  {
+    "Start Timestamp": "15:43,500",
+    "End Timestamp": "15:44,600",
+    "Transcript": "He's like, yeah, I have my porn."
+  },
+  {
+    "Start Timestamp": "15:44,600",
+    "End Timestamp": "15:45,300",
+    "Transcript": "I have schizophrenia."
+  },
+  {
+    "Start Timestamp": "15:45,300",
+    "End Timestamp": "15:47,300",
+    "Transcript": "I have OCD and I have ADHD and I have autism."
+  },
+  {
+    "Start Timestamp": "15:47,300",
+    "End Timestamp": "15:51,100",
+    "Transcript": "It's just every fucking bio on Twitter."
+  },
+  {
+    "Start Timestamp": "15:51,100",
+    "End Timestamp": "15:52,700",
+    "Transcript": "I have just video guys for like 45 seconds."
+  },
+  {
+    "Start Timestamp": "15:52,700",
+    "End Timestamp": "15:54,200",
+    "Transcript": "[LAUGHTER]"
+  },
+  {
+    "Start Timestamp": "15:54,200",
+    "End Timestamp": "16:00,600",
+    "Transcript": "Maybe she's like I got a bullet wound. I got a scratch of a forehead. He's what's the other shit - there is people like that who I gotta"
+  },
+  {
+    "Start Timestamp": "16:00,600",
+    "End Timestamp": "16:05,240",
+    "Transcript": "I gotta live I gotta I gotta go lamp. I gotta lay up. I got a bullet wound. I got a scratch"
+  },
+  {
+    "Start Timestamp": "16:05,240",
+    "End Timestamp": "16:08,380",
+    "Transcript": "I got a book. I got a bub. I got I got 80 40 vision this what I"
+  },
+  {
+    "Start Timestamp": "16:08,380",
+    "End Timestamp": "16:10,400",
+    "Transcript": "80 40"
+  },
+  {
+    "Start Timestamp": "16:10,400",
+    "End Timestamp": "16:16,400",
+    "Transcript": "Look Tommy. I think you just three doors. We only needed the one. Give me this fucking door Steve"
+  },
+  {
+    "Start Timestamp": "16:16,400",
+    "End Timestamp": "16:19,920",
+    "Transcript": "Steve do you believe in a two-state solution?"
+  },
+  {
+    "Start Timestamp": "16:21,320",
+    "End Timestamp": "16:24,520",
+    "Transcript": "Okay, thank you. Wow, Steve is actually very progressive"
+  },
+  {
+    "Start Timestamp": "16:24,520",
+    "End Timestamp": "16:28,520",
+    "Transcript": "Look at that"
+  },
+  {
+    "Start Timestamp": "16:28,520",
+    "End Timestamp": "16:32,360",
+    "Transcript": "Yeah, don't worry about that fucking wizard ever again unless you"
+  },
+  {
+    "Start Timestamp": "16:32,360",
+    "End Timestamp": "16:35,600",
+    "Transcript": "I bet that wizard could plow down this door you need it"
+  },
+  {
+    "Start Timestamp": "16:35,600",
+    "End Timestamp": "16:38,800",
+    "Transcript": "You need to eventually make a stronger door right click opens the door"
+  },
+  {
+    "Start Timestamp": "16:38,800",
+    "End Timestamp": "16:40,840",
+    "Transcript": "Tomer, that's you"
+  },
+  {
+    "Start Timestamp": "16:40,840",
+    "End Timestamp": "16:42,840",
+    "Transcript": "Horkus porkus fuck you to more"
+  },
+  {
+    "Start Timestamp": "16:42,840",
+    "End Timestamp": "16:45,440",
+    "Transcript": "Yeah, that's right"
+  },
+  {
+    "Start Timestamp": "16:45,440",
+    "End Timestamp": "16:50,840",
+    "Transcript": "I never ate my ugly fucking pay before shit. Where is it? It's been my cooker"
+  },
+  {
+    "Start Timestamp": "16:50,840",
+    "End Timestamp": "16:51,840",
+    "Transcript": "Oh, that's right."
+  },
+  {
+    "Start Timestamp": "16:51,840",
+    "End Timestamp": "16:52,840",
+    "Transcript": "I bet it's burned."
+  },
+  {
+    "Start Timestamp": "16:52,840",
+    "End Timestamp": "16:53,840",
+    "Transcript": "I bet it's burned."
+  },
+  {
+    "Start Timestamp": "16:53,840",
+    "End Timestamp": "16:54,840",
+    "Transcript": "Can you burn stuff?"
+  },
+  {
+    "Start Timestamp": "16:54,840",
+    "End Timestamp": "16:55,840",
+    "Transcript": "I can't remember."
+  },
+  {
+    "Start Timestamp": "16:55,840",
+    "End Timestamp": "16:56,840",
+    "Transcript": "Probably."
+  },
+  {
+    "Start Timestamp": "16:56,840",
+    "End Timestamp": "16:57,840",
+    "Transcript": "That would be realistic."
+  },
+  {
+    "Start Timestamp": "16:57,840",
+    "End Timestamp": "17:03,840",
+    "Transcript": "Every video game I played that has a food system that usually has a burning mechanism."
+  },
+  {
+    "Start Timestamp": "17:03,840",
+    "End Timestamp": "17:06,720",
+    "Transcript": "I think Breath of the Wild has a version of that too, right?"
+  },
+  {
+    "Start Timestamp": "17:06,720",
+    "End Timestamp": "17:08,720",
+    "Transcript": "Although with Minecraft usually it's like when something-"
+  },
+  {
+    "Start Timestamp": "17:08,720",
+    "End Timestamp": "17:10,200",
+    "Transcript": "Whoa, you said mine what?"
+  },
+  {
+    "Start Timestamp": "17:10,200",
+    "End Timestamp": "17:11,200",
+    "Transcript": "Compf with Minecraft."
+  },
+  {
+    "Start Timestamp": "17:11,200",
+    "End Timestamp": "17:12,200",
+    "Transcript": "Whoa."
+  },
+  {
+    "Start Timestamp": "17:12,200",
+    "End Timestamp": "17:13,200",
+    "Transcript": "Dude."
+  },
+  {
+    "Start Timestamp": "17:13,200",
+    "End Timestamp": "17:14,200",
+    "Transcript": "I did not say that."
+  },
+  {
+    "Start Timestamp": "17:14,200",
+    "End Timestamp": "17:15,200",
+    "Transcript": "Oh, look."
+  },
+  {
+    "Start Timestamp": "17:15,200",
+    "End Timestamp": "17:17,960",
+    "Transcript": "I see little bamboo sugar sprouts down by the water there."
+  },
+  {
+    "Start Timestamp": "17:17,960",
+    "End Timestamp": "17:20,440",
+    "Transcript": "- Toomer, call out to them through the valley."
+  },
+  {
+    "Start Timestamp": "17:20,440",
+    "End Timestamp": "17:21,280",
+    "Transcript": "- To the bamboos?"
+  },
+  {
+    "Start Timestamp": "17:21,280",
+    "End Timestamp": "17:22,120",
+    "Transcript": "- Yeah."
+  },
+  {
+    "Start Timestamp": "17:22,120",
+    "End Timestamp": "17:22,960",
+    "Transcript": "- Bamboos!"
+  },
+  {
+    "Start Timestamp": "17:22,960",
+    "End Timestamp": "17:23,800",
+    "Transcript": "- You wanna see?"
+  },
+  {
+    "Start Timestamp": "17:23,800",
+    "End Timestamp": "17:25,800",
+    "Transcript": "- Hello, go, go!"
+  },
+  {
+    "Start Timestamp": "17:25,800",
+    "End Timestamp": "17:27,560",
+    "Transcript": "- Put it, put it sweet like a my voice."
+  },
+  {
+    "Start Timestamp": "17:27,560",
+    "End Timestamp": "17:29,600",
+    "Transcript": "- Put a sweet fucking filter that makes it sound"
+  },
+  {
+    "Start Timestamp": "17:29,600",
+    "End Timestamp": "17:31,720",
+    "Transcript": "like you're stuck through a radio."
+  },
+  {
+    "Start Timestamp": "17:31,720",
+    "End Timestamp": "17:32,720",
+    "Transcript": "- Roon the joke."
+  },
+  {
+    "Start Timestamp": "17:32,720",
+    "End Timestamp": "17:34,400",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "17:34,400",
+    "End Timestamp": "17:35,880",
+    "Transcript": "- Yeah, if you chop those up,"
+  },
+  {
+    "Start Timestamp": "17:35,880",
+    "End Timestamp": "17:38,760",
+    "Transcript": "I think you can actually replant those closer to your--"
+  },
+  {
+    "Start Timestamp": "17:38,760",
+    "End Timestamp": "17:41,180",
+    "Transcript": "(groaning)"
+  },
+  {
+    "Start Timestamp": "17:41,180",
+    "End Timestamp": "17:44,360",
+    "Transcript": "- Don't worry, what's your best dumb guy laugh?"
+  },
+  {
+    "Start Timestamp": "17:44,360",
+    "End Timestamp": "17:46,620",
+    "Transcript": "(groaning)"
+  },
+  {
+    "Start Timestamp": "17:46,620",
+    "End Timestamp": "17:51,040",
+    "Transcript": "This is more like Patrick"
+  },
+  {
+    "Start Timestamp": "17:51,040",
+    "End Timestamp": "17:57,460",
+    "Transcript": "I guess but I think that's the point. I'm right here that I imagine a guy like point that's that metal. That's Lafa"
+  },
+  {
+    "Start Timestamp": "17:57,460",
+    "End Timestamp": "18:03,540",
+    "Transcript": "It's not my family. No, no, that's not fun. No next to them. It's not left. Yeah, that's iron. We're"
+  },
+  {
+    "Start Timestamp": "18:03,540",
+    "End Timestamp": "18:15,480",
+    "Transcript": "Tova we gotta get back we gotta eat we gotta eat that was fucking scary. I gotta eat some iron there"
+  },
+  {
+    "Start Timestamp": "18:15,720",
+    "End Timestamp": "18:21,880",
+    "Transcript": "Well, we know where it is. It's made sheers with it. I'm just so scared to go near that skeleton. Look, there's mist over there"
+  },
+  {
+    "Start Timestamp": "18:21,880",
+    "End Timestamp": "18:25,680",
+    "Transcript": "What? There's fucking mist over there. No way"
+  },
+  {
+    "Start Timestamp": "18:25,680",
+    "End Timestamp": "18:33,680",
+    "Transcript": "It's true. Oh look a baby horse. Oh horse if you try it. This is a fucking a donkey. Can I ride you? Oh my god? Oh?"
+  },
+  {
+    "Start Timestamp": "18:33,680",
+    "End Timestamp": "18:36,880",
+    "Transcript": "You fucking asshole"
+  },
+  {
+    "Start Timestamp": "18:36,880",
+    "End Timestamp": "18:39,880",
+    "Transcript": "Put you in the back of the head"
+  },
+  {
+    "Start Timestamp": "18:39,880",
+    "End Timestamp": "18:42,920",
+    "Transcript": "Yeah, stop talking for a minute"
+  },
+  {
+    "Start Timestamp": "18:44,360",
+    "End Timestamp": "18:47,720",
+    "Transcript": "like you're right. Wait, we don't we got to get back also. I don't know where we are."
+  },
+  {
+    "Start Timestamp": "18:47,720",
+    "End Timestamp": "18:51,640",
+    "Transcript": "It's getting late and you're lost. Did we come from this way? Oh my god."
+  },
+  {
+    "Start Timestamp": "18:51,640",
+    "End Timestamp": "18:56,440",
+    "Transcript": "I don't think you did. But oh, Chris, how did we do this?"
+  },
+  {
+    "Start Timestamp": "18:56,440",
+    "End Timestamp": "19:01,720",
+    "Transcript": "Is that the top right? That huge tech is. Don't forget it was like the highest point. Remember?"
+  },
+  {
+    "Start Timestamp": "19:01,720",
+    "End Timestamp": "19:04,360",
+    "Transcript": "Was it? Yeah, our house was like the highest point."
+  },
+  {
+    "Start Timestamp": "19:04,360",
+    "End Timestamp": "19:08,680",
+    "Transcript": "So we're fucking ruined everything. I got lost. I can't help you, man."
+  },
+  {
+    "Start Timestamp": "19:08,680",
+    "End Timestamp": "19:11,880",
+    "Transcript": "There's the donkeys. I have a bit sense of direction even without a compass."
+  },
+  {
+    "Start Timestamp": "19:11,880",
+    "End Timestamp": "19:13,320",
+    "Transcript": "I think we came from this way."
+  },
+  {
+    "Start Timestamp": "19:13,320",
+    "End Timestamp": "19:15,060",
+    "Transcript": "You should have looked at the compass."
+  },
+  {
+    "Start Timestamp": "19:15,060",
+    "End Timestamp": "19:20,440",
+    "Transcript": "That didn't make any sense, but I have a bad sense of direction even in real life."
+  },
+  {
+    "Start Timestamp": "19:20,440",
+    "End Timestamp": "19:21,440",
+    "Transcript": "No, I do too."
+  },
+  {
+    "Start Timestamp": "19:21,440",
+    "End Timestamp": "19:23,000",
+    "Transcript": "I think this is where we came from."
+  },
+  {
+    "Start Timestamp": "19:23,000",
+    "End Timestamp": "19:25,600",
+    "Transcript": "[burps]"
+  },
+  {
+    "Start Timestamp": "19:25,600",
+    "End Timestamp": "19:26,280",
+    "Transcript": "Come on, Steve."
+  },
+  {
+    "Start Timestamp": "19:26,280",
+    "End Timestamp": "19:29,080",
+    "Transcript": "[burps]"
+  },
+  {
+    "Start Timestamp": "19:29,080",
+    "End Timestamp": "19:32,920",
+    "Transcript": "You're going to get destroyed out once it gets dark."
+  },
+  {
+    "Start Timestamp": "19:32,920",
+    "End Timestamp": "19:35,720",
+    "Transcript": "Let me-- I can't find my way."
+  },
+  {
+    "Start Timestamp": "19:35,720",
+    "End Timestamp": "19:38,120",
+    "Transcript": "I think you're getting really close to your base, though."
+  },
+  {
+    "Start Timestamp": "19:38,120",
+    "End Timestamp": "19:39,240",
+    "Transcript": "Isn't it right over here?"
+  },
+  {
+    "Start Timestamp": "19:39,240",
+    "End Timestamp": "19:40,840",
+    "Transcript": "Yeah, we got it."
+  },
+  {
+    "Start Timestamp": "19:40,840",
+    "End Timestamp": "19:42,440",
+    "Transcript": "See he's gonna go in your door."
+  },
+  {
+    "Start Timestamp": "19:42,440",
+    "End Timestamp": "19:43,920",
+    "Transcript": "Life's not so bad after all."
+  },
+  {
+    "Start Timestamp": "19:43,920",
+    "End Timestamp": "19:45,840",
+    "Transcript": "Fuck dude, this is actually scary."
+  },
+  {
+    "Start Timestamp": "19:45,840",
+    "End Timestamp": "19:49,560",
+    "Transcript": "If we fucking die now, I'm gonna actually punch the computer."
+  },
+  {
+    "Start Timestamp": "19:49,560",
+    "End Timestamp": "19:51,280",
+    "Transcript": "You can squeeze in there."
+  },
+  {
+    "Start Timestamp": "19:51,280",
+    "End Timestamp": "19:52,440",
+    "Transcript": "Oh, your door's even open."
+  },
+  {
+    "Start Timestamp": "19:52,440",
+    "End Timestamp": "19:53,720",
+    "Transcript": "Just close it real quick."
+  },
+  {
+    "Start Timestamp": "19:53,720",
+    "End Timestamp": "19:55,240",
+    "Transcript": "You're just running there."
+  },
+  {
+    "Start Timestamp": "19:55,240",
+    "End Timestamp": "19:59,840",
+    "Transcript": "Oh, oh, oh."
+  },
+  {
+    "Start Timestamp": "19:59,840",
+    "End Timestamp": "20:00,520",
+    "Transcript": "There you go."
+  },
+  {
+    "Start Timestamp": "20:00,520",
+    "End Timestamp": "20:02,240",
+    "Transcript": "Fucking fuck you zombies."
+  },
+  {
+    "Start Timestamp": "20:02,240",
+    "End Timestamp": "20:05,080",
+    "Transcript": "You can leave me close enough to the creepers"
+  },
+  {
+    "Start Timestamp": "20:05,080",
+    "End Timestamp": "20:07,080",
+    "Transcript": "for them to blow up your door and you're fine."
+  },
+  {
+    "Start Timestamp": "20:07,080",
+    "End Timestamp": "20:08,240",
+    "Transcript": "I won't."
+  },
+  {
+    "Start Timestamp": "20:08,240",
+    "End Timestamp": "20:10,040",
+    "Transcript": "Okay, look, look at that."
+  },
+  {
+    "Start Timestamp": "20:10,040",
+    "End Timestamp": "20:13,420",
+    "Transcript": "Not bad and you can make some more god. I would hate to live in the world of my craft"
+  },
+  {
+    "Start Timestamp": "20:13,420",
+    "End Timestamp": "20:17,720",
+    "Transcript": "Yeah, you gotta get a better arsenal so we don't have to get have so much downtime at night"
+  },
+  {
+    "Start Timestamp": "20:17,720",
+    "End Timestamp": "20:20,660",
+    "Transcript": "It's over shut up dude. You need to like get better at this"
+  },
+  {
+    "Start Timestamp": "20:20,660",
+    "End Timestamp": "20:24,620",
+    "Transcript": "Torches around so we can see this damn place. I'll put a fucking shirt on dude"
+  },
+  {
+    "Start Timestamp": "20:24,620",
+    "End Timestamp": "20:31,480",
+    "Transcript": "I'm wearing one go suppose some fun. It's a pretty freaker shirt sold by only plays you. Oh, yeah"
+  },
+  {
+    "Start Timestamp": "20:31,480",
+    "End Timestamp": "20:34,880",
+    "Transcript": "There's need sticks. Yeah, only play"
+  },
+  {
+    "Start Timestamp": "20:34,880",
+    "End Timestamp": "20:38,000",
+    "Transcript": "You fucking dork"
+  },
+  {
+    "Start Timestamp": "20:38,000",
+    "End Timestamp": "20:40,000",
+    "Transcript": "gee let's uh"
+  },
+  {
+    "Start Timestamp": "20:40,000",
+    "End Timestamp": "20:43,880",
+    "Transcript": "Just the heads up if anybody buys the merchandise for this channel gonna block you on every"
+  },
+  {
+    "Start Timestamp": "20:43,880",
+    "End Timestamp": "20:47,100",
+    "Transcript": "piece of rock n Vaccineplus"
+  },
+  {
+    "Start Timestamp": "20:47,100",
+    "End Timestamp": "20:49,360",
+    "Transcript": "(drum beat)"
+  },
+  {
+    "Start Timestamp": "20:49,360",
+    "End Timestamp": "20:51,940",
+    "Transcript": "(heart beating)"
+  }
+]
+}

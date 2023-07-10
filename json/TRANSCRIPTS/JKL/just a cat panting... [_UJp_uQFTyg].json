@@ -1,0 +1,134 @@
+{ "Data":
+[
+  {
+    "Start Timestamp": "00:00,000",
+    "End Timestamp": "00:10,000",
+    "Transcript": "[SOUND]"
+  },
+  {
+    "Start Timestamp": "00:10,000",
+    "End Timestamp": "00:12,340",
+    "Transcript": "(dog barks)"
+  },
+  {
+    "Start Timestamp": "00:12,340",
+    "End Timestamp": "00:14,600",
+    "Transcript": "(clicking)"
+  },
+  {
+    "Start Timestamp": "00:14,600",
+    "End Timestamp": "00:16,860",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "00:16,860",
+    "End Timestamp": "00:19,360",
+    "Transcript": "(dog barks)"
+  },
+  {
+    "Start Timestamp": "00:19,360",
+    "End Timestamp": "00:22,020",
+    "Transcript": "(door creaks)"
+  },
+  {
+    "Start Timestamp": "00:22,020",
+    "End Timestamp": "00:24,020",
+    "Transcript": "(footsteps)"
+  },
+  {
+    "Start Timestamp": "00:24,020",
+    "End Timestamp": "00:29,020",
+    "Transcript": "(footsteps)"
+  },
+  {
+    "Start Timestamp": "00:29,020",
+    "End Timestamp": "00:31,280",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "00:31,280",
+    "End Timestamp": "00:33,540",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "00:33,540",
+    "End Timestamp": "00:35,800",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "00:35,800",
+    "End Timestamp": "00:37,800",
+    "Transcript": "(footsteps)"
+  },
+  {
+    "Start Timestamp": "00:37,800",
+    "End Timestamp": "00:39,800",
+    "Transcript": "(footsteps)"
+  },
+  {
+    "Start Timestamp": "00:39,800",
+    "End Timestamp": "00:41,800",
+    "Transcript": "(sighs)"
+  },
+  {
+    "Start Timestamp": "00:41,800",
+    "End Timestamp": "00:43,800",
+    "Transcript": "(sighs)"
+  },
+  {
+    "Start Timestamp": "00:43,800",
+    "End Timestamp": "00:45,800",
+    "Transcript": "(footsteps)"
+  },
+  {
+    "Start Timestamp": "00:45,800",
+    "End Timestamp": "00:47,800",
+    "Transcript": "(sighs)"
+  },
+  {
+    "Start Timestamp": "00:47,800",
+    "End Timestamp": "00:50,060",
+    "Transcript": "(clattering)"
+  },
+  {
+    "Start Timestamp": "00:50,060",
+    "End Timestamp": "00:55,060",
+    "Transcript": "(footsteps)"
+  },
+  {
+    "Start Timestamp": "00:55,060",
+    "End Timestamp": "01:03,060",
+    "Transcript": "(breathes heavily)"
+  },
+  {
+    "Start Timestamp": "01:03,060",
+    "End Timestamp": "01:23,060",
+    "Transcript": "[footsteps]"
+  },
+  {
+    "Start Timestamp": "01:23,060",
+    "End Timestamp": "01:25,060",
+    "Transcript": "Oh"
+  },
+  {
+    "Start Timestamp": "01:25,060",
+    "End Timestamp": "01:30,060",
+    "Transcript": "(footsteps)"
+  },
+  {
+    "Start Timestamp": "01:30,060",
+    "End Timestamp": "01:59,060",
+    "Transcript": "[ Pause ]"
+  },
+  {
+    "Start Timestamp": "01:59,560",
+    "End Timestamp": "02:03,560",
+    "Transcript": "You wanted it that bad and they're not gonna do anything."
+  },
+  {
+    "Start Timestamp": "02:03,560",
+    "End Timestamp": "02:07,560",
+    "Transcript": "Good boy!"
+  }
+]
+}

@@ -1,0 +1,609 @@
+{ "Data":
+[
+  {
+    "Start Timestamp": "00:00,000",
+    "End Timestamp": "00:10,000",
+    "Transcript": "[MUSIC]"
+  },
+  {
+    "Start Timestamp": "00:10,000",
+    "End Timestamp": "00:12,500",
+    "Transcript": "(silly music)"
+  },
+  {
+    "Start Timestamp": "00:12,500",
+    "End Timestamp": "00:15,420",
+    "Transcript": "(saxophone music)"
+  },
+  {
+    "Start Timestamp": "00:15,420",
+    "End Timestamp": "00:41,020",
+    "Transcript": "- Don't worry, we're just, I don't know the chords for that."
+  },
+  {
+    "Start Timestamp": "00:41,020",
+    "End Timestamp": "00:42,020",
+    "Transcript": "Yes."
+  },
+  {
+    "Start Timestamp": "00:42,020",
+    "End Timestamp": "00:44,780",
+    "Transcript": "(saxophone music)"
+  },
+  {
+    "Start Timestamp": "00:44,780",
+    "End Timestamp": "00:48,780",
+    "Transcript": "[SINGING]"
+  },
+  {
+    "Start Timestamp": "00:48,780",
+    "End Timestamp": "00:51,700",
+    "Transcript": "(saxophone music)"
+  },
+  {
+    "Start Timestamp": "00:51,700",
+    "End Timestamp": "00:54,280",
+    "Transcript": "(silly music)"
+  },
+  {
+    "Start Timestamp": "00:54,280",
+    "End Timestamp": "00:56,780",
+    "Transcript": "(silly music)"
+  },
+  {
+    "Start Timestamp": "00:56,780",
+    "End Timestamp": "00:58,780",
+    "Transcript": "(sings)"
+  },
+  {
+    "Start Timestamp": "00:58,780",
+    "End Timestamp": "01:00,780",
+    "Transcript": "(sings)"
+  },
+  {
+    "Start Timestamp": "01:00,780",
+    "End Timestamp": "01:02,780",
+    "Transcript": "(sings)"
+  },
+  {
+    "Start Timestamp": "01:02,780",
+    "End Timestamp": "01:04,780",
+    "Transcript": "(sings)"
+  },
+  {
+    "Start Timestamp": "01:04,780",
+    "End Timestamp": "01:06,780",
+    "Transcript": "(sings)"
+  },
+  {
+    "Start Timestamp": "01:06,780",
+    "End Timestamp": "01:08,780",
+    "Transcript": "(sings)"
+  },
+  {
+    "Start Timestamp": "01:08,780",
+    "End Timestamp": "01:10,780",
+    "Transcript": "(sings)"
+  },
+  {
+    "Start Timestamp": "01:10,780",
+    "End Timestamp": "01:12,780",
+    "Transcript": "(sings)"
+  },
+  {
+    "Start Timestamp": "01:12,780",
+    "End Timestamp": "01:14,780",
+    "Transcript": "(sings)"
+  },
+  {
+    "Start Timestamp": "01:14,780",
+    "End Timestamp": "01:16,780",
+    "Transcript": "(sings)"
+  },
+  {
+    "Start Timestamp": "01:16,780",
+    "End Timestamp": "01:18,780",
+    "Transcript": "(sings)"
+  },
+  {
+    "Start Timestamp": "01:18,780",
+    "End Timestamp": "01:20,780",
+    "Transcript": "(sings)"
+  },
+  {
+    "Start Timestamp": "01:20,780",
+    "End Timestamp": "01:22,780",
+    "Transcript": "(sings)"
+  },
+  {
+    "Start Timestamp": "01:22,780",
+    "End Timestamp": "01:24,780",
+    "Transcript": "(sings)"
+  },
+  {
+    "Start Timestamp": "01:24,780",
+    "End Timestamp": "01:27,040",
+    "Transcript": "(squeaking)"
+  },
+  {
+    "Start Timestamp": "01:27,040",
+    "End Timestamp": "01:29,300",
+    "Transcript": "(screaming)"
+  },
+  {
+    "Start Timestamp": "01:29,300",
+    "End Timestamp": "01:31,300",
+    "Transcript": "(sings)"
+  },
+  {
+    "Start Timestamp": "01:31,300",
+    "End Timestamp": "01:33,300",
+    "Transcript": "(sings)"
+  },
+  {
+    "Start Timestamp": "01:33,300",
+    "End Timestamp": "01:35,800",
+    "Transcript": "(squeaking)"
+  },
+  {
+    "Start Timestamp": "01:35,800",
+    "End Timestamp": "01:37,800",
+    "Transcript": "(screaming)"
+  },
+  {
+    "Start Timestamp": "01:37,800",
+    "End Timestamp": "01:39,960",
+    "Transcript": "(squeaking)"
+  },
+  {
+    "Start Timestamp": "01:39,960",
+    "End Timestamp": "01:45,060",
+    "Transcript": "(squeaking)"
+  },
+  {
+    "Start Timestamp": "01:45,060",
+    "End Timestamp": "01:50,800",
+    "Transcript": "(squeaking)"
+  },
+  {
+    "Start Timestamp": "01:50,800",
+    "End Timestamp": "01:53,140",
+    "Transcript": "(squeaking)"
+  },
+  {
+    "Start Timestamp": "01:53,140",
+    "End Timestamp": "01:55,880",
+    "Transcript": "(squeaking)"
+  },
+  {
+    "Start Timestamp": "01:55,880",
+    "End Timestamp": "01:58,040",
+    "Transcript": "- Oh man, I'm so dizzy."
+  },
+  {
+    "Start Timestamp": "01:58,040",
+    "End Timestamp": "02:00,380",
+    "Transcript": "(squeaking)"
+  },
+  {
+    "Start Timestamp": "02:00,380",
+    "End Timestamp": "02:02,620",
+    "Transcript": "(squeaking)"
+  },
+  {
+    "Start Timestamp": "02:02,620",
+    "End Timestamp": "02:05,540",
+    "Transcript": "(saxophone music)"
+  },
+  {
+    "Start Timestamp": "02:05,540",
+    "End Timestamp": "02:13,740",
+    "Transcript": "- Hey!"
+  },
+  {
+    "Start Timestamp": "02:13,740",
+    "End Timestamp": "02:16,500",
+    "Transcript": "(saxophone music)"
+  },
+  {
+    "Start Timestamp": "02:16,500",
+    "End Timestamp": "02:21,020",
+    "Transcript": "- Hey!"
+  },
+  {
+    "Start Timestamp": "02:21,020",
+    "End Timestamp": "02:23,940",
+    "Transcript": "(saxophone music)"
+  },
+  {
+    "Start Timestamp": "02:23,940",
+    "End Timestamp": "02:40,440",
+    "Transcript": "[plays the soft Christmas song]"
+  },
+  {
+    "Start Timestamp": "02:40,440",
+    "End Timestamp": "02:41,440",
+    "Transcript": "What's this?"
+  },
+  {
+    "Start Timestamp": "02:41,440",
+    "End Timestamp": "02:42,440",
+    "Transcript": "Soft Christmas song."
+  },
+  {
+    "Start Timestamp": "02:42,440",
+    "End Timestamp": "02:47,940",
+    "Transcript": "[plays the soft Christmas song]"
+  },
+  {
+    "Start Timestamp": "02:47,940",
+    "End Timestamp": "02:50,860",
+    "Transcript": "(saxophone music)"
+  },
+  {
+    "Start Timestamp": "02:50,860",
+    "End Timestamp": "02:52,860",
+    "Transcript": "(sings)"
+  },
+  {
+    "Start Timestamp": "02:52,860",
+    "End Timestamp": "02:55,780",
+    "Transcript": "(saxophone solo)"
+  },
+  {
+    "Start Timestamp": "02:55,780",
+    "End Timestamp": "02:58,580",
+    "Transcript": "(saxophone solo)"
+  },
+  {
+    "Start Timestamp": "02:58,580",
+    "End Timestamp": "03:01,500",
+    "Transcript": "(saxophone music)"
+  },
+  {
+    "Start Timestamp": "03:01,500",
+    "End Timestamp": "03:03,760",
+    "Transcript": "(whistling)"
+  },
+  {
+    "Start Timestamp": "03:03,760",
+    "End Timestamp": "03:06,340",
+    "Transcript": "(silly music)"
+  },
+  {
+    "Start Timestamp": "03:06,340",
+    "End Timestamp": "03:08,600",
+    "Transcript": "(whistling)"
+  },
+  {
+    "Start Timestamp": "03:08,600",
+    "End Timestamp": "03:11,100",
+    "Transcript": "(silly music)"
+  },
+  {
+    "Start Timestamp": "03:11,100",
+    "End Timestamp": "03:13,840",
+    "Transcript": "(saxophone music)"
+  },
+  {
+    "Start Timestamp": "03:13,840",
+    "End Timestamp": "03:16,760",
+    "Transcript": "(saxophone music)"
+  },
+  {
+    "Start Timestamp": "03:16,760",
+    "End Timestamp": "03:18,760",
+    "Transcript": "(sings)"
+  },
+  {
+    "Start Timestamp": "03:18,760",
+    "End Timestamp": "03:20,760",
+    "Transcript": "(sings)"
+  },
+  {
+    "Start Timestamp": "03:20,760",
+    "End Timestamp": "03:23,260",
+    "Transcript": "(silly music)"
+  },
+  {
+    "Start Timestamp": "03:23,260",
+    "End Timestamp": "03:25,760",
+    "Transcript": "(silly music)"
+  },
+  {
+    "Start Timestamp": "03:25,760",
+    "End Timestamp": "03:28,020",
+    "Transcript": "(squeaking)"
+  },
+  {
+    "Start Timestamp": "03:28,020",
+    "End Timestamp": "03:30,020",
+    "Transcript": "(screams)"
+  },
+  {
+    "Start Timestamp": "03:30,020",
+    "End Timestamp": "03:32,020",
+    "Transcript": "*squeaky music*"
+  },
+  {
+    "Start Timestamp": "03:32,020",
+    "End Timestamp": "03:34,940",
+    "Transcript": "(saxophone music)"
+  },
+  {
+    "Start Timestamp": "03:34,940",
+    "End Timestamp": "03:50,620",
+    "Transcript": "[Music]"
+  },
+  {
+    "Start Timestamp": "03:50,620",
+    "End Timestamp": "03:53,140",
+    "Transcript": "I don't know the song. It's still open."
+  },
+  {
+    "Start Timestamp": "03:53,140",
+    "End Timestamp": "04:04,860",
+    "Transcript": "[Music]"
+  },
+  {
+    "Start Timestamp": "04:04,860",
+    "End Timestamp": "04:14,860",
+    "Transcript": "[SOUND]"
+  },
+  {
+    "Start Timestamp": "04:14,860",
+    "End Timestamp": "04:17,440",
+    "Transcript": "(guitar music)"
+  },
+  {
+    "Start Timestamp": "04:17,440",
+    "End Timestamp": "04:20,360",
+    "Transcript": "(saxophone music)"
+  },
+  {
+    "Start Timestamp": "04:20,360",
+    "End Timestamp": "04:30,360",
+    "Transcript": "[SOUND]"
+  },
+  {
+    "Start Timestamp": "04:30,360",
+    "End Timestamp": "04:32,360",
+    "Transcript": "(guitar playing)"
+  },
+  {
+    "Start Timestamp": "04:32,360",
+    "End Timestamp": "04:34,540",
+    "Transcript": "(mumbling)"
+  },
+  {
+    "Start Timestamp": "04:34,540",
+    "End Timestamp": "04:36,720",
+    "Transcript": "(mumbling)"
+  },
+  {
+    "Start Timestamp": "04:36,720",
+    "End Timestamp": "04:39,380",
+    "Transcript": "(guitar playing)"
+  },
+  {
+    "Start Timestamp": "04:39,380",
+    "End Timestamp": "04:41,460",
+    "Transcript": "(mumbling)"
+  },
+  {
+    "Start Timestamp": "04:41,460",
+    "End Timestamp": "04:43,700",
+    "Transcript": "(mumbling)"
+  },
+  {
+    "Start Timestamp": "04:43,700",
+    "End Timestamp": "04:46,120",
+    "Transcript": "(mumbling)"
+  },
+  {
+    "Start Timestamp": "04:46,120",
+    "End Timestamp": "04:48,140",
+    "Transcript": "(mumbling)"
+  },
+  {
+    "Start Timestamp": "04:48,140",
+    "End Timestamp": "04:50,540",
+    "Transcript": "(mumbling)"
+  },
+  {
+    "Start Timestamp": "04:50,540",
+    "End Timestamp": "04:51,940",
+    "Transcript": "(guitar playing)"
+  },
+  {
+    "Start Timestamp": "04:51,940",
+    "End Timestamp": "04:54,280",
+    "Transcript": "(mumbling)"
+  },
+  {
+    "Start Timestamp": "04:54,280",
+    "End Timestamp": "04:56,700",
+    "Transcript": "(mumbling)"
+  },
+  {
+    "Start Timestamp": "04:56,700",
+    "End Timestamp": "04:57,540",
+    "Transcript": "(mumbling)"
+  },
+  {
+    "Start Timestamp": "04:57,540",
+    "End Timestamp": "04:59,540",
+    "Transcript": "- No, I'm gonna crush it in a drive-through."
+  },
+  {
+    "Start Timestamp": "04:59,540",
+    "End Timestamp": "05:10,380",
+    "Transcript": "I'll serve up these uh, can't try our delicious new ospis. Chicken chetta half, please. You can try this chicken, worsted mouth sandwich. Fucking chicken. Fucking bitch."
+  },
+  {
+    "Start Timestamp": "05:10,380",
+    "End Timestamp": "05:12,960",
+    "Transcript": "(guitar music)"
+  },
+  {
+    "Start Timestamp": "05:12,960",
+    "End Timestamp": "05:15,540",
+    "Transcript": "(lively music)"
+  },
+  {
+    "Start Timestamp": "05:15,540",
+    "End Timestamp": "05:18,120",
+    "Transcript": "(lively music)"
+  },
+  {
+    "Start Timestamp": "05:18,120",
+    "End Timestamp": "05:21,040",
+    "Transcript": "(saxophone music)"
+  },
+  {
+    "Start Timestamp": "05:21,040",
+    "End Timestamp": "05:24,120",
+    "Transcript": "(loud trumpet music)"
+  },
+  {
+    "Start Timestamp": "05:24,120",
+    "End Timestamp": "05:26,780",
+    "Transcript": "(loud snoring)"
+  },
+  {
+    "Start Timestamp": "05:26,780",
+    "End Timestamp": "05:29,280",
+    "Transcript": "(vocalizing)"
+  },
+  {
+    "Start Timestamp": "05:29,280",
+    "End Timestamp": "05:31,780",
+    "Transcript": "(silly music)"
+  },
+  {
+    "Start Timestamp": "05:31,780",
+    "End Timestamp": "05:34,360",
+    "Transcript": "(lively music)"
+  },
+  {
+    "Start Timestamp": "05:34,360",
+    "End Timestamp": "06:02,200",
+    "Transcript": "*sings*"
+  },
+  {
+    "Start Timestamp": "06:02,200",
+    "End Timestamp": "06:14,200",
+    "Transcript": "*Dramatic Music*"
+  },
+  {
+    "Start Timestamp": "06:14,200",
+    "End Timestamp": "06:17,200",
+    "Transcript": "*Dramatic Music*"
+  },
+  {
+    "Start Timestamp": "06:17,200",
+    "End Timestamp": "06:19,200",
+    "Transcript": "It's in the wild, I mean, like it wings."
+  },
+  {
+    "Start Timestamp": "06:19,200",
+    "End Timestamp": "06:20,200",
+    "Transcript": "Oh yeah!"
+  },
+  {
+    "Start Timestamp": "06:20,200",
+    "End Timestamp": "06:24,200",
+    "Transcript": "I don't like wildwood."
+  },
+  {
+    "Start Timestamp": "06:24,200",
+    "End Timestamp": "06:25,200",
+    "Transcript": "I fucking love wildwood."
+  },
+  {
+    "Start Timestamp": "06:25,200",
+    "End Timestamp": "06:26,200",
+    "Transcript": "We gotta play it again."
+  },
+  {
+    "Start Timestamp": "06:26,200",
+    "End Timestamp": "06:28,200",
+    "Transcript": "I watched him stream the entire thing and..."
+  },
+  {
+    "Start Timestamp": "06:28,200",
+    "End Timestamp": "06:30,200",
+    "Transcript": "I think it's the worst game ever."
+  },
+  {
+    "Start Timestamp": "06:30,200",
+    "End Timestamp": "06:36,640",
+    "Transcript": "It's incredible. I love it. I ironically really like it. Yeah, we'll play it and then you won't like it. Okay, let's play it"
+  },
+  {
+    "Start Timestamp": "06:36,640",
+    "End Timestamp": "06:38,900",
+    "Transcript": "(squeaking)"
+  },
+  {
+    "Start Timestamp": "06:38,900",
+    "End Timestamp": "06:41,820",
+    "Transcript": "(saxophone music)"
+  },
+  {
+    "Start Timestamp": "06:41,820",
+    "End Timestamp": "06:44,740",
+    "Transcript": "(saxophone music)"
+  },
+  {
+    "Start Timestamp": "06:44,740",
+    "End Timestamp": "06:46,740",
+    "Transcript": "(farting)"
+  },
+  {
+    "Start Timestamp": "06:46,740",
+    "End Timestamp": "06:49,240",
+    "Transcript": "(silly music)"
+  },
+  {
+    "Start Timestamp": "06:49,240",
+    "End Timestamp": "06:51,240",
+    "Transcript": "(farting)"
+  },
+  {
+    "Start Timestamp": "06:51,240",
+    "End Timestamp": "06:53,740",
+    "Transcript": "(silly music)"
+  },
+  {
+    "Start Timestamp": "06:53,740",
+    "End Timestamp": "06:56,320",
+    "Transcript": "(beatboxing)"
+  },
+  {
+    "Start Timestamp": "06:56,320",
+    "End Timestamp": "06:58,580",
+    "Transcript": "(barking)"
+  },
+  {
+    "Start Timestamp": "06:58,580",
+    "End Timestamp": "07:01,320",
+    "Transcript": "(dramatic music)"
+  },
+  {
+    "Start Timestamp": "07:01,320",
+    "End Timestamp": "07:03,320",
+    "Transcript": "(coughing)"
+  },
+  {
+    "Start Timestamp": "07:03,320",
+    "End Timestamp": "07:08,320",
+    "Transcript": "(crying)"
+  },
+  {
+    "Start Timestamp": "07:08,320",
+    "End Timestamp": "07:10,400",
+    "Transcript": "(laughs)"
+  }
+]
+}

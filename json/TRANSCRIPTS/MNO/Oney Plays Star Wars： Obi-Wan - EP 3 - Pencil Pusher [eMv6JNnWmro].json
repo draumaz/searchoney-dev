@@ -1,0 +1,954 @@
+{ "Data":
+[
+  {
+    "Start Timestamp": "00:00,000",
+    "End Timestamp": "00:05,000",
+    "Transcript": "*Music*"
+  },
+  {
+    "Start Timestamp": "00:05,000",
+    "End Timestamp": "00:05,000",
+    "Transcript": "*Music*"
+  },
+  {
+    "Start Timestamp": "00:05,000",
+    "End Timestamp": "00:05,000",
+    "Transcript": "*Music*"
+  },
+  {
+    "Start Timestamp": "00:05,000",
+    "End Timestamp": "00:06,500",
+    "Transcript": "*Music*"
+  },
+  {
+    "Start Timestamp": "00:06,500",
+    "End Timestamp": "00:08,300",
+    "Transcript": "Oh, they play!"
+  },
+  {
+    "Start Timestamp": "00:08,300",
+    "End Timestamp": "00:09,000",
+    "Transcript": "*Music*"
+  },
+  {
+    "Start Timestamp": "00:09,000",
+    "End Timestamp": "00:10,400",
+    "Transcript": "With friends..."
+  },
+  {
+    "Start Timestamp": "00:10,400",
+    "End Timestamp": "00:12,400",
+    "Transcript": "Welcome back to Obi-Wan, the game crash."
+  },
+  {
+    "Start Timestamp": "00:12,400",
+    "End Timestamp": "00:14,000",
+    "Transcript": "Oh, Obi-Wan. Obi-Wan plays."
+  },
+  {
+    "Start Timestamp": "00:14,000",
+    "End Timestamp": "00:15,600",
+    "Transcript": "Look at his hair, it's beautiful."
+  },
+  {
+    "Start Timestamp": "00:15,600",
+    "End Timestamp": "00:16,400",
+    "Transcript": "Just go down there."
+  },
+  {
+    "Start Timestamp": "00:16,400",
+    "End Timestamp": "00:18,000",
+    "Transcript": "Oh! Holy..."
+  },
+  {
+    "Start Timestamp": "00:18,000",
+    "End Timestamp": "00:19,800",
+    "Transcript": "*Laughs*"
+  },
+  {
+    "Start Timestamp": "00:19,800",
+    "End Timestamp": "00:21,000",
+    "Transcript": "Okay, we good."
+  },
+  {
+    "Start Timestamp": "00:21,000",
+    "End Timestamp": "00:22,200",
+    "Transcript": "Hey, get out of here."
+  },
+  {
+    "Start Timestamp": "00:22,200",
+    "End Timestamp": "00:23,000",
+    "Transcript": "Oh!"
+  },
+  {
+    "Start Timestamp": "00:23,000",
+    "End Timestamp": "00:24,700",
+    "Transcript": "Leave my robot alone."
+  },
+  {
+    "Start Timestamp": "00:24,700",
+    "End Timestamp": "00:25,700",
+    "Transcript": "Get him!"
+  },
+  {
+    "Start Timestamp": "00:25,700",
+    "End Timestamp": "00:26,500",
+    "Transcript": "Noooo!"
+  },
+  {
+    "Start Timestamp": "00:26,500",
+    "End Timestamp": "00:29,000",
+    "Transcript": "Yeah! Oh! Oh, he almost hit the alarm."
+  },
+  {
+    "Start Timestamp": "00:29,000",
+    "End Timestamp": "00:31,000",
+    "Transcript": "Oh, is that what that is?"
+  },
+  {
+    "Start Timestamp": "00:31,000",
+    "End Timestamp": "00:33,000",
+    "Transcript": "Oh, I like..."
+  },
+  {
+    "Start Timestamp": "00:33,000",
+    "End Timestamp": "00:35,000",
+    "Transcript": "Oh yeah, this is a stealth mission."
+  },
+  {
+    "Start Timestamp": "00:35,000",
+    "End Timestamp": "00:37,000",
+    "Transcript": "It's not a mor."
+  },
+  {
+    "Start Timestamp": "00:37,000",
+    "End Timestamp": "00:39,000",
+    "Transcript": "Oh no!"
+  },
+  {
+    "Start Timestamp": "00:39,000",
+    "End Timestamp": "00:41,000",
+    "Transcript": "A fool."
+  },
+  {
+    "Start Timestamp": "00:41,000",
+    "End Timestamp": "00:45,000",
+    "Transcript": "This poor man."
+  },
+  {
+    "Start Timestamp": "00:45,000",
+    "End Timestamp": "00:47,000",
+    "Transcript": "They'll never catch me."
+  },
+  {
+    "Start Timestamp": "00:47,000",
+    "End Timestamp": "00:49,000",
+    "Transcript": "I can't really go."
+  },
+  {
+    "Start Timestamp": "00:49,000",
+    "End Timestamp": "00:51,000",
+    "Transcript": "Look how big his torso is."
+  },
+  {
+    "Start Timestamp": "00:51,000",
+    "End Timestamp": "00:53,000",
+    "Transcript": "Oh my god, you're getting shot!"
+  },
+  {
+    "Start Timestamp": "00:53,000",
+    "End Timestamp": "00:55,000",
+    "Transcript": "They'll never hit me."
+  },
+  {
+    "Start Timestamp": "00:55,000",
+    "End Timestamp": "00:57,000",
+    "Transcript": "It just shimmy back and forth."
+  },
+  {
+    "Start Timestamp": "00:57,000",
+    "End Timestamp": "01:01,340",
+    "Transcript": "This should be back and forth. You'll never get me you'll never get me"
+  },
+  {
+    "Start Timestamp": "01:01,340",
+    "End Timestamp": "01:05,000",
+    "Transcript": "He looks like a monkey"
+  },
+  {
+    "Start Timestamp": "01:05,000",
+    "End Timestamp": "01:09,440",
+    "Transcript": "This must be the Jedi mind tricks. I've been hearing so much about I think I lost them"
+  },
+  {
+    "Start Timestamp": "01:09,440",
+    "End Timestamp": "01:13,840",
+    "Transcript": "I like this dramatic music to go along with it"
+  },
+  {
+    "Start Timestamp": "01:13,840",
+    "End Timestamp": "01:16,640",
+    "Transcript": "You wiggles like oh"
+  },
+  {
+    "Start Timestamp": "01:16,640",
+    "End Timestamp": "01:19,360",
+    "Transcript": "Was that you"
+  },
+  {
+    "Start Timestamp": "01:19,360",
+    "End Timestamp": "01:25,460",
+    "Transcript": "Goodbye you should know that's pretty good. I was gonna say you should have forced push them off pushed them off"
+  },
+  {
+    "Start Timestamp": "01:25,680",
+    "End Timestamp": "01:30,960",
+    "Transcript": "Force push pushed you know the force push ain't actually working so hot. It doesn't work a lot of the time"
+  },
+  {
+    "Start Timestamp": "01:30,960",
+    "End Timestamp": "01:35,880",
+    "Transcript": "Says you and trust me my force pushed my mother"
+  },
+  {
+    "Start Timestamp": "01:35,880",
+    "End Timestamp": "01:39,240",
+    "Transcript": "Into my oven"
+  },
+  {
+    "Start Timestamp": "01:39,240",
+    "End Timestamp": "01:44,400",
+    "Transcript": "Was she tasty she tasted like a bush"
+  },
+  {
+    "Start Timestamp": "01:44,400",
+    "End Timestamp": "01:48,920",
+    "Transcript": "That's disgusting disgusting for is what would you say that oh"
+  },
+  {
+    "Start Timestamp": "01:50,480",
+    "End Timestamp": "01:55,400",
+    "Transcript": "My who need health. Oh, you were going to die. Do you see that?"
+  },
+  {
+    "Start Timestamp": "01:55,400",
+    "End Timestamp": "01:59,660",
+    "Transcript": "You're going to die here. I would never die here"
+  },
+  {
+    "Start Timestamp": "01:59,660",
+    "End Timestamp": "02:08,160",
+    "Transcript": "If I designed the game I would win every time I'm gonna be able to keep up this gag"
+  },
+  {
+    "Start Timestamp": "02:08,160",
+    "End Timestamp": "02:10,680",
+    "Transcript": "Sing forth"
+  },
+  {
+    "Start Timestamp": "02:10,680",
+    "End Timestamp": "02:15,040",
+    "Transcript": "Wait your voice be weak you look it spawn meat next to you down there"
+  },
+  {
+    "Start Timestamp": "02:19,560",
+    "End Timestamp": "02:22,000",
+    "Transcript": "You won't catch me you won't catch me oh"
+  },
+  {
+    "Start Timestamp": "02:22,000",
+    "End Timestamp": "02:27,200",
+    "Transcript": "My god you said it wasn't working so well. It was pretty good"
+  },
+  {
+    "Start Timestamp": "02:27,200",
+    "End Timestamp": "02:30,800",
+    "Transcript": "Now use the force tickle get off my land"
+  },
+  {
+    "Start Timestamp": "02:30,800",
+    "End Timestamp": "02:35,320",
+    "Transcript": "Get off my land. Why won't he get off my land just hit him"
+  },
+  {
+    "Start Timestamp": "02:35,320",
+    "End Timestamp": "02:44,960",
+    "Transcript": "Set the sound he made you a yeah, he is a check officer"
+  },
+  {
+    "Start Timestamp": "02:44,960",
+    "End Timestamp": "02:49,040",
+    "Transcript": "Let my people go"
+  },
+  {
+    "Start Timestamp": "02:49,040",
+    "End Timestamp": "02:51,040",
+    "Transcript": "Wow, what no bad"
+  },
+  {
+    "Start Timestamp": "02:51,040",
+    "End Timestamp": "02:54,120",
+    "Transcript": "Stay down"
+  },
+  {
+    "Start Timestamp": "02:54,120",
+    "End Timestamp": "02:56,120",
+    "Transcript": "Kill the snitch"
+  },
+  {
+    "Start Timestamp": "02:56,120",
+    "End Timestamp": "03:04,060",
+    "Transcript": "Is it said that I think I lost something wrong who indented his chin and why?"
+  },
+  {
+    "Start Timestamp": "03:04,060",
+    "End Timestamp": "03:08,380",
+    "Transcript": "Someone gave him a punch for being such a good actor. It's supposed to hold pens"
+  },
+  {
+    "Start Timestamp": "03:08,380",
+    "End Timestamp": "03:15,840",
+    "Transcript": "Chris goes up in front of his nose what if he made just direct eye contact with you"
+  },
+  {
+    "Start Timestamp": "03:15,840",
+    "End Timestamp": "03:18,920",
+    "Transcript": "And then slowly a little pencil oozed out"
+  },
+  {
+    "Start Timestamp": "03:18,920",
+    "End Timestamp": "03:24,000",
+    "Transcript": "And from the little cleft in this chin and it wrote on the screen backwards chris O'Neill"
+  },
+  {
+    "Start Timestamp": "03:24,000",
+    "End Timestamp": "03:30,440",
+    "Transcript": "That's stupid that wouldn't happen, but it did that's that's fantasy talk. Okay. I'm here"
+  },
+  {
+    "Start Timestamp": "03:30,440",
+    "End Timestamp": "03:34,440",
+    "Transcript": "I don't get my robot kill the robot kill the robot. How do you do it right?"
+  },
+  {
+    "Start Timestamp": "03:34,440",
+    "End Timestamp": "03:36,440",
+    "Transcript": "I like stick right now. Look stick right"
+  },
+  {
+    "Start Timestamp": "03:36,440",
+    "End Timestamp": "03:39,200",
+    "Transcript": "Yeah"
+  },
+  {
+    "Start Timestamp": "03:39,200",
+    "End Timestamp": "03:40,400",
+    "Transcript": "defeat the button"
+  },
+  {
+    "Start Timestamp": "03:40,400",
+    "End Timestamp": "03:42,400",
+    "Transcript": "defeat the button"
+  },
+  {
+    "Start Timestamp": "03:43,120",
+    "End Timestamp": "03:46,020",
+    "Transcript": "I defeated the butt go find the other buttons"
+  },
+  {
+    "Start Timestamp": "03:46,020",
+    "End Timestamp": "03:50,080",
+    "Transcript": "I look like they're just at every corner. Yeah"
+  },
+  {
+    "Start Timestamp": "03:50,080",
+    "End Timestamp": "04:00,600",
+    "Transcript": "You need to find you need to find a big button of which to put your force hand upon check the top floor for more"
+  },
+  {
+    "Start Timestamp": "04:00,600",
+    "End Timestamp": "04:04,320",
+    "Transcript": "Obi-Wan buttons are you on the top three talking about Obi-Wan buttons?"
+  },
+  {
+    "Start Timestamp": "04:04,320",
+    "End Timestamp": "04:10,280",
+    "Transcript": "Look for more buttons. I'm pretty sure it's just down there. There's another one"
+  },
+  {
+    "Start Timestamp": "04:10,280",
+    "End Timestamp": "04:17,140",
+    "Transcript": "The big button the droids push it just says press in case of Obi-Wan well then go find it stupid"
+  },
+  {
+    "Start Timestamp": "04:17,140",
+    "End Timestamp": "04:21,960",
+    "Transcript": "Hold and force while you land there's a button there you go destroy it"
+  },
+  {
+    "Start Timestamp": "04:21,960",
+    "End Timestamp": "04:24,880",
+    "Transcript": "That was not a button I could destroy"
+  },
+  {
+    "Start Timestamp": "04:24,880",
+    "End Timestamp": "04:29,800",
+    "Transcript": "Well, they look the fucking same don't they well I'm busted"
+  },
+  {
+    "Start Timestamp": "04:29,800",
+    "End Timestamp": "04:35,120",
+    "Transcript": "You got to find the robo the robots are the only guys you can push him. I know I don't know where they are though"
+  },
+  {
+    "Start Timestamp": "04:35,120",
+    "End Timestamp": "04:39,120",
+    "Transcript": "So you got a look there's a lot of buttons"
+  },
+  {
+    "Start Timestamp": "04:39,120",
+    "End Timestamp": "04:45,040",
+    "Transcript": "sure are what the fuck is the mission here then where's the row bulbs I don't"
+  },
+  {
+    "Start Timestamp": "04:45,040",
+    "End Timestamp": "04:53,200",
+    "Transcript": "know just kill everybody I guess stop stop you don't want to mess with me do"
+  },
+  {
+    "Start Timestamp": "04:53,200",
+    "End Timestamp": "04:57,200",
+    "Transcript": "you like how they put similar buttons around that don't explode for no reason"
+  },
+  {
+    "Start Timestamp": "04:57,200",
+    "End Timestamp": "05:03,320",
+    "Transcript": "what was that guy doing bro where the fuck is the next button then what the"
+  },
+  {
+    "Start Timestamp": "05:03,320",
+    "End Timestamp": "05:11,640",
+    "Transcript": "What is that it's the spinning fun thing whoa fuck is the sonico six what is this going on?"
+  },
+  {
+    "Start Timestamp": "05:11,640",
+    "End Timestamp": "05:14,280",
+    "Transcript": "Are you jumping with it?"
+  },
+  {
+    "Start Timestamp": "05:14,280",
+    "End Timestamp": "05:20,560",
+    "Transcript": "What is that now right you're supposed to force pooosh you're gonna get out of here. Is that a hover?"
+  },
+  {
+    "Start Timestamp": "05:20,560",
+    "End Timestamp": "05:25,000",
+    "Transcript": "Wow, yeah try to push it off the edge. I'm doing"
+  },
+  {
+    "Start Timestamp": "05:25,000",
+    "End Timestamp": "05:31,800",
+    "Transcript": "Hold down I left trigger and push circle circle. Yeah, yeah, yeah. Oh"
+  },
+  {
+    "Start Timestamp": "05:31,800",
+    "End Timestamp": "05:41,360",
+    "Transcript": "Well, I did it I don't understand what the fuck is going on in this game. I like it whoa"
+  },
+  {
+    "Start Timestamp": "05:41,360",
+    "End Timestamp": "05:46,920",
+    "Transcript": "Oh, be one now would cylinder hanging gameplay"
+  },
+  {
+    "Start Timestamp": "05:46,920",
+    "End Timestamp": "05:53,080",
+    "Transcript": "Oh my god, that's not his voice push the button. Can you push buttons yourself? Maybe that's why they're there"
+  },
+  {
+    "Start Timestamp": "05:53,080",
+    "End Timestamp": "05:58,080",
+    "Transcript": "How I don't know press the action button"
+  },
+  {
+    "Start Timestamp": "05:59,320",
+    "End Timestamp": "06:03,600",
+    "Transcript": "Okay, this game doesn't really oh there you go"
+  },
+  {
+    "Start Timestamp": "06:03,600",
+    "End Timestamp": "06:07,600",
+    "Transcript": "How do you do that? I'm not sure"
+  },
+  {
+    "Start Timestamp": "06:07,600",
+    "End Timestamp": "06:13,420",
+    "Transcript": "Don't you love it when games put in two similar fucking looking things and you're able to destroy one of them"
+  },
+  {
+    "Start Timestamp": "06:13,420",
+    "End Timestamp": "06:18,120",
+    "Transcript": "And then you're able to use the other one for no reason yeah, but the buttons look different kill that robo"
+  },
+  {
+    "Start Timestamp": "06:18,120",
+    "End Timestamp": "06:23,720",
+    "Transcript": "There you go no you kill that bootin"
+  },
+  {
+    "Start Timestamp": "06:27,200",
+    "End Timestamp": "06:29,320",
+    "Transcript": "You can have a lot of fun with these buttons it seems"
+  },
+  {
+    "Start Timestamp": "06:29,320",
+    "End Timestamp": "06:38,960",
+    "Transcript": "It yeah, I'll fucking set this is brutal doom"
+  },
+  {
+    "Start Timestamp": "06:38,960",
+    "End Timestamp": "06:44,040",
+    "Transcript": "Say that he gives up the bird anyone in it. That's cool"
+  },
+  {
+    "Start Timestamp": "06:44,040",
+    "End Timestamp": "06:47,640",
+    "Transcript": "What the fuck is happening oh"
+  },
+  {
+    "Start Timestamp": "06:47,640",
+    "End Timestamp": "06:56,340",
+    "Transcript": "Good in more the robots find the robots find the robots. They're left where I thought of someone good keep going"
+  },
+  {
+    "Start Timestamp": "06:56,600",
+    "End Timestamp": "07:02,360",
+    "Transcript": "Just look for the robo. I see no robo. Well, you need to find him quick. There's not one. Okay"
+  },
+  {
+    "Start Timestamp": "07:02,360",
+    "End Timestamp": "07:05,660",
+    "Transcript": "There's gotta be yeah, I think so too"
+  },
+  {
+    "Start Timestamp": "07:05,660",
+    "End Timestamp": "07:09,820",
+    "Transcript": "Am I fucked you might be I don't see no robo"
+  },
+  {
+    "Start Timestamp": "07:09,820",
+    "End Timestamp": "07:16,000",
+    "Transcript": "Blope that button there so the robo don't go near it. Oh, that's not a button"
+  },
+  {
+    "Start Timestamp": "07:16,000",
+    "End Timestamp": "07:24,760",
+    "Transcript": "Yeah, they keep I keep thinking that the health things are our butons keep getting health you're gonna need it"
+  },
+  {
+    "Start Timestamp": "07:25,440",
+    "End Timestamp": "07:27,440",
+    "Transcript": "Whoa have a barrel"
+  },
+  {
+    "Start Timestamp": "07:27,440",
+    "End Timestamp": "07:34,520",
+    "Transcript": "This is actually pretty fun. I'm not gonna lie if it's yeah, it's not bad. Why would you lie about that?"
+  },
+  {
+    "Start Timestamp": "07:34,520",
+    "End Timestamp": "07:36,800",
+    "Transcript": "Like the actual fighting is fun, but"
+  },
+  {
+    "Start Timestamp": "07:36,800",
+    "End Timestamp": "07:43,800",
+    "Transcript": "The level design is not very good by screwing around with all these objects is very enjoyable. Yeah"
+  },
+  {
+    "Start Timestamp": "07:43,800",
+    "End Timestamp": "07:48,560",
+    "Transcript": "Now, right. Here's a barrel for you. It's a big barrel for your big head"
+  },
+  {
+    "Start Timestamp": "07:48,560",
+    "End Timestamp": "07:54,760",
+    "Transcript": "Down I go look for the robo quick. There's a robo right in front of you. You're right"
+  },
+  {
+    "Start Timestamp": "07:54,760",
+    "End Timestamp": "08:04,360",
+    "Transcript": "Kill the robo. There you go. Now we can't hit the button anymore. The button pushing robot has been defeated"
+  },
+  {
+    "Start Timestamp": "08:04,360",
+    "End Timestamp": "08:16,200",
+    "Transcript": "Kill the robo. Poor mr. Jethsen George George died at the wheel. Do you think they ever met George Jethsen? Yeah"
+  },
+  {
+    "Start Timestamp": "08:16,200",
+    "End Timestamp": "08:18,760",
+    "Transcript": "Or his boy Elroy"
+  },
+  {
+    "Start Timestamp": "08:18,760",
+    "End Timestamp": "08:24,420",
+    "Transcript": "His wife daughter Judy. Yeah his daughter Judy with the white pubic hair. Yeah his senu"
+  },
+  {
+    "Start Timestamp": "08:24,420",
+    "End Timestamp": "08:26,420",
+    "Transcript": "You're old daughter."
+  },
+  {
+    "Start Timestamp": "08:26,420",
+    "End Timestamp": "08:29,420",
+    "Transcript": "I always forget she had the voice of an old woman."
+  },
+  {
+    "Start Timestamp": "08:29,420",
+    "End Timestamp": "08:32,420",
+    "Transcript": "Yeah, because she always sounds like she's gasping for error."
+  },
+  {
+    "Start Timestamp": "08:32,420",
+    "End Timestamp": "08:33,420",
+    "Transcript": "She didn't die."
+  },
+  {
+    "Start Timestamp": "08:33,420",
+    "End Timestamp": "08:34,420",
+    "Transcript": "She had white hair too."
+  },
+  {
+    "Start Timestamp": "08:34,420",
+    "End Timestamp": "08:36,420",
+    "Transcript": "She was older than her mom."
+  },
+  {
+    "Start Timestamp": "08:36,420",
+    "End Timestamp": "08:38,420",
+    "Transcript": "That's probably just weird stuff from the future."
+  },
+  {
+    "Start Timestamp": "08:38,420",
+    "End Timestamp": "08:40,420",
+    "Transcript": "Oh, fuck!"
+  },
+  {
+    "Start Timestamp": "08:40,420",
+    "End Timestamp": "08:43,420",
+    "Transcript": "It's probably like the cloning process makes her age rapidly or like..."
+  },
+  {
+    "Start Timestamp": "08:43,420",
+    "End Timestamp": "08:45,420",
+    "Transcript": "Let me in, let me in, let me in."
+  },
+  {
+    "Start Timestamp": "08:45,420",
+    "End Timestamp": "08:49,420",
+    "Transcript": "Because it's from in the future there's time travel and he ends up meeting his daughter from the future."
+  },
+  {
+    "Start Timestamp": "08:49,420",
+    "End Timestamp": "08:53,420",
+    "Transcript": "There's a Star Wars Jetsons crossover coming out soon."
+  },
+  {
+    "Start Timestamp": "08:53,420",
+    "End Timestamp": "08:58,340",
+    "Transcript": "Get in there. No, no. Oh, he's coming. What'd they do that? I mean, that's"
+  },
+  {
+    "Start Timestamp": "08:58,340",
+    "End Timestamp": "09:00,700",
+    "Transcript": "That's uh"
+  },
+  {
+    "Start Timestamp": "09:00,700",
+    "End Timestamp": "09:05,060",
+    "Transcript": "The different company, right? Oh my fuck. No, they're doing it in the Flintstones making appearance to"
+  },
+  {
+    "Start Timestamp": "09:05,060",
+    "End Timestamp": "09:07,660",
+    "Transcript": "and Scooby-Doo and"
+  },
+  {
+    "Start Timestamp": "09:07,660",
+    "End Timestamp": "09:09,500",
+    "Transcript": "Spyro"
+  },
+  {
+    "Start Timestamp": "09:09,500",
+    "End Timestamp": "09:17,220",
+    "Transcript": "Whoa, okay, okay, whatever that was good. Oh, no, it's the biggest button of all. Yeah, push the giant bootin"
+  },
+  {
+    "Start Timestamp": "09:17,220",
+    "End Timestamp": "09:21,820",
+    "Transcript": "No, it's the boss button"
+  },
+  {
+    "Start Timestamp": "09:21,820",
+    "End Timestamp": "09:23,820",
+    "Transcript": "Oh"
+  },
+  {
+    "Start Timestamp": "09:23,820",
+    "End Timestamp": "09:31,560",
+    "Transcript": "Fuck I want all games of Star Wars to replace the lightsabers with the hot dogs"
+  },
+  {
+    "Start Timestamp": "09:31,560",
+    "End Timestamp": "09:39,900",
+    "Transcript": "Pretty good. I do hot dogs. You know the sound that you make when you hit someone with an inflatable hammer"
+  },
+  {
+    "Start Timestamp": "09:39,900",
+    "End Timestamp": "09:45,580",
+    "Transcript": "Oh my god"
+  },
+  {
+    "Start Timestamp": "09:49,660",
+    "End Timestamp": "09:56,660",
+    "Transcript": "Lapped evil whoa because he's slaughtering innocence. He showed up at a construction site and just started killing white"
+  },
+  {
+    "Start Timestamp": "09:56,660",
+    "End Timestamp": "09:59,620",
+    "Transcript": "He's every every situation here. I"
+  },
+  {
+    "Start Timestamp": "09:59,620",
+    "End Timestamp": "10:02,580",
+    "Transcript": "Thought he's supposed to be keeper of the peace"
+  },
+  {
+    "Start Timestamp": "10:02,580",
+    "End Timestamp": "10:06,620",
+    "Transcript": "He's keeper of the yeast. I've been hunting down all the east. Oh"
+  },
+  {
+    "Start Timestamp": "10:06,620",
+    "End Timestamp": "10:12,820",
+    "Transcript": "He's never gonna find all the oh say you making him bonk his noodle"
+  },
+  {
+    "Start Timestamp": "10:12,820",
+    "End Timestamp": "10:15,620",
+    "Transcript": "You need to find health real quick"
+  },
+  {
+    "Start Timestamp": "10:17,180",
+    "End Timestamp": "10:20,460",
+    "Transcript": "This honestly seems like one of the better shitty Star Wars games"
+  },
+  {
+    "Start Timestamp": "10:20,460",
+    "End Timestamp": "10:23,620",
+    "Transcript": "Yeah, it's not bad"
+  },
+  {
+    "Start Timestamp": "10:23,620",
+    "End Timestamp": "10:25,900",
+    "Transcript": "Are there any of them that are considered good?"
+  },
+  {
+    "Start Timestamp": "10:25,900",
+    "End Timestamp": "10:30,060",
+    "Transcript": "I liked Jedi Academy. Yeah, everyone liked that one"
+  },
+  {
+    "Start Timestamp": "10:30,060",
+    "End Timestamp": "10:36,220",
+    "Transcript": "People like Knights of the Old Republic, but I couldn't get into it. Oh Knights of the Old Republic. I can't really do yeah"
+  },
+  {
+    "Start Timestamp": "10:36,220",
+    "End Timestamp": "10:45,620",
+    "Transcript": "Holy fuck, oh you're gonna die. Oh you're gonna die. What do you want? Look at him shuffle around"
+  },
+  {
+    "Start Timestamp": "10:46,700",
+    "End Timestamp": "10:48,700",
+    "Transcript": "Oh, oh my god"
+  },
+  {
+    "Start Timestamp": "10:48,700",
+    "End Timestamp": "10:57,380",
+    "Transcript": "You're almost there you're doing good. I need green lima bean throw your spinner"
+  },
+  {
+    "Start Timestamp": "10:57,380",
+    "End Timestamp": "11:03,540",
+    "Transcript": "Throw your lightning speed oh, oh, just too many"
+  },
+  {
+    "Start Timestamp": "11:03,540",
+    "End Timestamp": "11:12,420",
+    "Transcript": "Okay, oh no, don't turn your back to them. I'm out of here. Don't do no. Thank you. What are you gonna do? I?"
+  },
+  {
+    "Start Timestamp": "11:13,220",
+    "End Timestamp": "11:16,480",
+    "Transcript": "Guess you could look for if there's any other health anymore. I'm gonna do"
+  },
+  {
+    "Start Timestamp": "11:16,480",
+    "End Timestamp": "11:19,500",
+    "Transcript": "They're too scary"
+  },
+  {
+    "Start Timestamp": "11:19,500",
+    "End Timestamp": "11:22,260",
+    "Transcript": "I don't think there is"
+  },
+  {
+    "Start Timestamp": "11:22,260",
+    "End Timestamp": "11:27,620",
+    "Transcript": "Let me help me out. Let me out. You gotta face your fears"
+  },
+  {
+    "Start Timestamp": "11:27,620",
+    "End Timestamp": "11:34,260",
+    "Transcript": "The pointin no, that's you gotta face your fears the exact same boy"
+  },
+  {
+    "Start Timestamp": "11:34,260",
+    "End Timestamp": "11:38,400",
+    "Transcript": "No, I went you gotta face your feet my lightsaber is stuck permanently"
+  },
+  {
+    "Start Timestamp": "11:40,900",
+    "End Timestamp": "11:43,140",
+    "Transcript": "There we go. I was hoping it was oh"
+  },
+  {
+    "Start Timestamp": "11:43,140",
+    "End Timestamp": "11:49,860",
+    "Transcript": "My god"
+  },
+  {
+    "Start Timestamp": "11:49,860",
+    "End Timestamp": "11:52,100",
+    "Transcript": "Farewell"
+  },
+  {
+    "Start Timestamp": "11:52,100",
+    "End Timestamp": "11:54,460",
+    "Transcript": "What I want hit you it hit me"
+  },
+  {
+    "Start Timestamp": "11:54,460",
+    "End Timestamp": "12:03,340",
+    "Transcript": "Imitation crabs. I think he shattered you I want plankton the climb inside me what would play clankton"
+  },
+  {
+    "Start Timestamp": "12:06,740",
+    "End Timestamp": "12:14,500",
+    "Transcript": "in the robot I like that would point in be like as a Star Wars character oh he'd be"
+  },
+  {
+    "Start Timestamp": "12:14,500",
+    "End Timestamp": "12:17,740",
+    "Transcript": "you know what I would be really disappointed because he'd honestly be"
+  },
+  {
+    "Start Timestamp": "12:17,740",
+    "End Timestamp": "12:25,780",
+    "Transcript": "Jenga Fett you think so yeah he'd fall into the thing and go no he screams that's"
+  },
+  {
+    "Start Timestamp": "12:25,780",
+    "End Timestamp": "12:29,940",
+    "Transcript": "both at that falls oh yeah Jango gets his head cut off they're both stupid ass"
+  },
+  {
+    "Start Timestamp": "12:29,940",
+    "End Timestamp": "12:33,620",
+    "Transcript": "names I'd be more happy than that because immediately when I said it I"
+  },
+  {
+    "Start Timestamp": "12:33,620",
+    "End Timestamp": "12:38,540",
+    "Transcript": "realized oh they would just put him in a stuff in a Darth Vader helmet. Yeah they"
+  },
+  {
+    "Start Timestamp": "12:38,540",
+    "End Timestamp": "12:45,340",
+    "Transcript": "would. People come over Boba. They say he the best Star Wars cool guy. He say"
+  },
+  {
+    "Start Timestamp": "12:45,340",
+    "End Timestamp": "12:52,620",
+    "Transcript": "nothing and do nothing but he cool. He looked like a meany. He got a helmet and"
+  },
+  {
+    "Start Timestamp": "12:52,620",
+    "End Timestamp": "12:55,780",
+    "Transcript": "he was in the Star Wars. Now now calm down door. You know when he takes off his"
+  },
+  {
+    "Start Timestamp": "12:55,780",
+    "End Timestamp": "13:02,300",
+    "Transcript": "helmet he's just one big eyeball. I wish. I'd be happy that I would like him. Well I"
+  },
+  {
+    "Start Timestamp": "13:02,300",
+    "End Timestamp": "13:03,300",
+    "Transcript": "I think he's okay."
+  },
+  {
+    "Start Timestamp": "13:03,300",
+    "End Timestamp": "13:05,060",
+    "Transcript": "Isn't that where you wanted to go?"
+  },
+  {
+    "Start Timestamp": "13:05,060",
+    "End Timestamp": "13:09,300",
+    "Transcript": "He's an eyeball with a little stimpy or a little red hanging mouth."
+  },
+  {
+    "Start Timestamp": "13:09,300",
+    "End Timestamp": "13:13,300",
+    "Transcript": "That was a good cut scene."
+  },
+  {
+    "Start Timestamp": "13:13,300",
+    "End Timestamp": "13:14,300",
+    "Transcript": "The game is over."
+  },
+  {
+    "Start Timestamp": "13:14,300",
+    "End Timestamp": "13:15,300",
+    "Transcript": "Go home."
+  },
+  {
+    "Start Timestamp": "13:15,300",
+    "End Timestamp": "13:17,300",
+    "Transcript": "These are the end of my adventures."
+  },
+  {
+    "Start Timestamp": "13:17,300",
+    "End Timestamp": "13:20,140",
+    "Transcript": "We've been on many adventures together."
+  },
+  {
+    "Start Timestamp": "13:20,140",
+    "End Timestamp": "13:24,300",
+    "Transcript": "Now it's time for you to turn off your Xbox and make a nice cup of sandwich."
+  },
+  {
+    "Start Timestamp": "13:24,300",
+    "End Timestamp": "13:26,560",
+    "Transcript": "(laughing)"
+  },
+  {
+    "Start Timestamp": "13:26,560",
+    "End Timestamp": "13:28,800",
+    "Transcript": "(laughing)"
+  }
+]
+}
