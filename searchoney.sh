@@ -7,9 +7,9 @@ search() {
     cat "${LINE}" | \
       grep \
         -i \
-        --color="auto" \
-        -B2 \
-        -A2 \
+        --color="always" \
+        -B4 \
+        -A4 \
         "${INPUT}" && printf "${LINE}\n\n"
   done
 }
@@ -21,13 +21,14 @@ cat << EOF
 SearchOney, by draumaz (2023)
 https://github.com/draumaz/SearchOney
 =====================================
+
 EOF
 
 while true; do
-  printf "\ntype exit to leave.\n\n>> "
+  printf "type exit to leave.\n\n>> "
   read INPUT
   case $INPUT in
-    exit|leave) exit 0 ;;
-    search|*) echo ""; search INPUT ;;
+    exit|leave) clear; exit 0 ;;
+    search|*) echo ""; search INPUT | less -r ;;
   esac
 done
