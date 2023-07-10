@@ -2,7 +2,7 @@
 
 for i in TRANSCRIPTS/*/*.csv; do
   csvjson -d ';' "${i}" > "${i}.json.pre"
-  cat >> "json/${i}".json << EOF
+  cat >> "${i}".json << EOF
 { "Data":
 `cat "${i}.json.pre" | jq`
 }
