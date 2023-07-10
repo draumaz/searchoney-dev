@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for i in TRANSCRIPTS/*/*.csv; do
+for i in TRANSCRIPTS/${1}/*.csv; do
   csvjson -d ';' "${i}" > "${i}.json.pre"
   cat >> "${i}".json << EOF
 { "Data":
