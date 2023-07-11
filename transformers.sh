@@ -5,7 +5,7 @@ markdown() {
     while read line; do
       echo -e "> ${line}\n\n" >> "${FILE}".md
     done < "${FILE}"
-    sed -i 's/;/,/g' "${FILE}"
+    sed -i 's/;/,/g' "${FILE}.md"
     mv -v "${FILE}".md "`echo ${FILE}.md | sed s/.csv//`"
   done
 }
